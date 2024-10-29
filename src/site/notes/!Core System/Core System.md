@@ -8,13 +8,13 @@
 # The Root
 
 ## Morning Journal
-I spend 30 minutes writing in my journal every morning. I use DayOne as my journaling platform and I use my mac laptop or e-ink tablet for writing the journal entries for the day.
+I spend 30 minutes writing in my journal every morning. I use [DayOne](https://dayoneapp.com/) as my journaling platform and I use my mac laptop or e-ink tablet for writing the journal entries for the day.
 ## Timeblocking
-I use my calendar *sunsama* to time block the core of my day. After I have moved all work projects forward for the day, I use my shutdown ritual for work to transition from work to post-work time. This is added to the timeblock.
+I use my calendar [sunsama](https://sunsama.com/share?refId=Qs4udE6cL7EEvMP6z) to time block the core of my day. After I have moved all work projects forward for the day, I use my shutdown ritual for work to transition from work to post-work time. This is added to the timeblock.
 ## Morning Work
 I work on the most important thing that I need to get done first thing in the morning
 ## Morning Exercise
-I spend at least 30 minutes of moving every day when I need a break from the morning work, usually around 9:30am during the week, and less regimented on the weekends.
+I spend at least 30 minutes of moving every day when I need a break from the morning work, usually around 9:30am during the week, and less regimented on the weekends. On days when I have energy, I use [Gravl](https://www.gravl.ai/) to plan out a 75 minute lifting routine. My goal is 4 days of lifting a week.
 ## During The Day
 **Capture** - I capture ideas into the day notes on obsidian and I keep a pocket notebook with me to capture new things that come into life.
 **Simplify** - I strive for inbox-zero every day creating tasks as they come in from email. I have to check both my personal email (gmail) and protonmail for business.
@@ -22,7 +22,7 @@ I spend at least 30 minutes of moving every day when I need a break from the mor
 **Reflect** - I review my projects, goals, and areas of focus on a regular cadence, At least weekly.
 
 ## Shutdown Ritual
-I log my hours in Harvest for each client, consolidating time entries for the day into larger chunks to accurately capture the work completed
+I log my hours in [Harvest](http://try.hrv.st/4-899152) for each client, consolidating time entries for the day into larger chunks to accurately capture the work completed
 
 For every incomplete task/goal/project, I ensure that there is a next action logged for each project. I schedule the next follow up for each project
 
