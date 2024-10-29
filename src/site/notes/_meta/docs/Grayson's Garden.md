@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/grayson-s-garden/","tags":["gardenEntry"],"dgShowFileTree":"true"}
+{"dg-publish":true,"permalink":"/meta/docs/grayson-s-garden/","tags":["gardenEntry"]}
 ---
 
 # Welcome to my Garden
