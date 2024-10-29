@@ -79,11 +79,10 @@ _current list_
 
 _ideal list_
 1. boyfriend
-2. friend
-3. aerialist
-4. artist
-5. community supporter
-6. entrepreneur 
+2. friend / family
+3. artist
+4. community member
+5. entrepreneur 
 
 ## Personal Code of Conduct
 
