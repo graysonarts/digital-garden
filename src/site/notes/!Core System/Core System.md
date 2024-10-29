@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-system/core-system/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/core-system/core-system/"}
 ---
 
 
