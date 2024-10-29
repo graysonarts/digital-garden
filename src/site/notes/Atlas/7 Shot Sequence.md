@@ -9,25 +9,25 @@
 
 This is the shot that sets the scene, establishes location, and gives context to your sequence. This can be an aerial shot, tripod or hand held shot, a timelapse. Think “where am I?”. Feel free to capture a variety here, but make sure you capture at least one.
 
-# 02
+# 02 - 03
 
-## Wide/Medium Shots
+## 2 Wide/Medium Shots
 
 This is where you will show what’s happening and can be either wide or medium shots so you get an idea of what’s happening in the sequence you are shooting. Don’t forget to shoot for at LEAST 10 seconds so you know you have a solid clip.
 
-# 02
+# 04 - 05
 
-## Close-Up Shots
+## 2 Close-Up Shots
 
 Two close up shots showing details of the activity you are documenting will help your edit feel more dynamic. Show interesting details, textures, colors etc.
 
-# 01
+# 06
 
 ## Abstract Shot
 
 Getting an abstract shot in the bag allows you to spice up your edit but it can also be used as a transition clip from one scene to the next. Could be a macro shot, a quick whip pan shot, or something a little more dreamy and out of focus.
 
-# 01
+# 07
 
 ## Unexpected Shot
 
