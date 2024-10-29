@@ -12,4 +12,20 @@ I am slowly moving this Garden over from my previous attempt at having a garden.
 
 # Who am I?
 
-I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CTO](https://grayson.llc), [Filmmaker/producer](https://www.imdb.com/name/nm6722099/), [Aerialist](https://www.instagram.com/graysonaerialarts), and [Actor](https://www.tcmmodels.com/talent-men/2615356/grayson-h). Yes, I clearly have ADHD.
+I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CTO](https://grayson.llc), [Filmmaker/producer](https://www.imdb.com/name/nm6722099/), [Aerialist](https://www.instagram.com/graysonaerialarts), [Nutrition Coach](https://nutritiongay.com) and [Actor](https://www.tcmmodels.com/talent-men/2615356/grayson-h). Yes, I clearly have ADHD.
+
+# What I'm currently working on
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Active Investments
+- Client Work (20h/w)
+- Coaching (3h/w)
+- Film Producing (3h/w)
+- Learning about the ActivityPub and the Fediverse (4h/w)
+
+
+</div></div>
