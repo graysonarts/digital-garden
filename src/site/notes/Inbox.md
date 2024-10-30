@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/","updated":"2024-10-29T22:32:34.808-07:00"}
+{"dg-publish":true,"permalink":"/inbox/","updated":"2024-10-30T07:39:17.614-07:00"}
 ---
 
 
 Everything here is things I want to look at later at some point.
 
-
+- https://vectorize.io/multimodal-rag-patterns/
 
 - https://www.fxhash.xyz/article/defining-long-form-generative-art #generativeart
 - Explore h264 format for data moshing #generativeart 
