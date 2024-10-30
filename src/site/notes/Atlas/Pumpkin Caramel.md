@@ -16,7 +16,7 @@ Servings: ~60 pieces
 | 50g     | Pumpkin Puree      |                                                      |
 In a saucier: 
 1. Rub lemon juice into the sugar.
-2. Make caramel using [[Dry Method Caramel\|Dry Method]] to amber color
+2. Make caramel using [[Atlas/Dry Method Caramel\|Dry Method]] to amber color
 3. Remove from heat and add Glucose
 4. Return to low heat
 
