@@ -37,5 +37,6 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 - [[Atlas/MOCs/Chocolate Making\|Chocolate Making]]
 - [[Atlas/MOCs/Acting\|Acting]]
 - [[Atlas/MOCs/Art\|Art]]
+- [[Atlas/MOCs/Food\|Food]]
 
 { .block-language-dataview}
