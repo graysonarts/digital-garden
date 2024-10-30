@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"updated":"2024-10-29T18:28:43.519-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"updated":"2024-10-30T09:21:53.253-07:00"}
 ---
 
 ## Patterns
@@ -17,6 +17,9 @@
 - https://redbadger.github.io/crux/motivation.html - FFI/Hex Arch
 - https://dioxuslabs.com/learn/0.4/reference/use_coroutine React-style everywhere
 - https://github.com/charmbracelet/freeze - Generate Images of a code file
+
+## Geo - GIS
+- https://georust.org/
 ## Common Problems
 
 ### Docker - Alpine
