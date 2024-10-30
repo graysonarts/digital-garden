@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/acting/","tags":["📍","acting"],"updated":"2024-10-29T18:22:22.352-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/acting/","tags":["📍","acting"],"noteIcon":"","updated":"2024-10-29T18:22:22.352-07:00"}
 ---
 
 # Resources

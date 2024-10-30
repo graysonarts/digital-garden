@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/sources/books/rust-for-rustaceans/","tags":["sources/books","rust"],"updated":"2024-10-29T17:59:14.394-07:00"}
+{"dg-publish":true,"permalink":"/atlas/sources/books/rust-for-rustaceans/","tags":["sources/books","rust"],"noteIcon":"","updated":"2024-10-29T17:59:14.394-07:00"}
 ---
 
 
