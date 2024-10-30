@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/recipes/pumpkin-caramel/","tags":["🌱","truffles","recipes/fillings","recipes"],"updated":"2024-10-29T21:50:13.858-07:00"}
+{"dg-publish":true,"permalink":"/atlas/recipes/pumpkin-caramel/","tags":["🌱","truffles","recipes/fillings","recipes"],"noteIcon":"","updated":"2024-10-29T21:50:13.858-07:00"}
 ---
 
 Servings: ~60 pieces

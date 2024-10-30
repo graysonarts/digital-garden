@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/7-shot-sequence/","updated":"2024-10-29T16:14:32.690-07:00"}
+{"dg-publish":true,"permalink":"/atlas/7-shot-sequence/","noteIcon":"","updated":"2024-10-29T16:14:32.690-07:00"}
 ---
 
 

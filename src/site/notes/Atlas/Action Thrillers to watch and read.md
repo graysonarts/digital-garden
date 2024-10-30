@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/action-thrillers-to-watch-and-read/","tags":["films/action","films/thrillers","#watch"],"updated":"2024-10-29T14:22:52.807-07:00"}
+{"dg-publish":true,"permalink":"/atlas/action-thrillers-to-watch-and-read/","tags":["films/action","films/thrillers","#watch"],"noteIcon":"","updated":"2024-10-29T14:22:52.807-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/tag-explanation/","updated":"2024-10-29T09:53:29.350-07:00"}
+{"dg-publish":true,"permalink":"/meta/docs/tag-explanation/","noteIcon":"","updated":"2024-10-29T09:53:29.350-07:00"}
 ---
 
 

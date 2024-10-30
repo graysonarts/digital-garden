@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/","pinned":"true","updated":"2024-10-30T10:11:19.490-07:00"}
+{"dg-publish":true,"permalink":"/inbox/","pinned":"true","noteIcon":"","updated":"2024-10-30T10:25:39.539-07:00"}
 ---
 
-
 Everything here is things I want to look at later at some point.
-
-- https://vectorize.io/multimodal-rag-patterns/
 
 - https://www.fxhash.xyz/article/defining-long-form-generative-art #generativeart
 - Explore h264 format for data moshing #generativeart 
@@ -18,7 +15,6 @@ Everything here is things I want to look at later at some point.
 - https://revdancatt.com/2021/12/08/concord-generative-art-part-one #generativeart 
 - Opus clips #aivideo
 - https://www.loro.dev/ - CRDT
-- 
 - https://www.fast.ai/ - Learn AI Better
 ## Productivity Paper Journal 
 - https://www.youtube.com/watch?v=jk4zjuMQnIU&list=TLPQMjcwOTIwMjTbX7YxLx0dDw - Pocket Journal Layouts
