@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/atlas/chahkras/"}
 ---
 
-
 ## Root
 color: red
 element: earth
