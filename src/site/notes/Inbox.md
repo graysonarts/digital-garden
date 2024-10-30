@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/"}
+{"dg-publish":true,"permalink":"/inbox/","updated":"2024-10-29T10:09:58.672-07:00"}
 ---
 
 

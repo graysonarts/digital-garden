@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/understanding-new-media-arts/","tags":["🌱"]}
+{"dg-publish":true,"permalink":"/efforts/understanding-new-media-arts/","tags":["🌱"],"updated":"2024-10-29T14:20:33.049-07:00"}
 ---
 
 # Introduction to New Media Arts

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typestate/"}
+{"dg-publish":true,"permalink":"/atlas/typestate/","updated":"2024-10-29T17:52:28.624-07:00"}
 ---
 
 

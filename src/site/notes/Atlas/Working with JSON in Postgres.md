@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/working-with-json-in-postgres/","tags":["postgres","json","quicktip"]}
+{"dg-publish":true,"permalink":"/atlas/working-with-json-in-postgres/","tags":["postgres","json","quicktip"],"updated":"2024-10-29T17:36:44.813-07:00"}
 ---
 
 
