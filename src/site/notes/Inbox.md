@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/","updated":"2024-10-29T10:09:58.672-07:00"}
+{"dg-publish":true,"permalink":"/inbox/","updated":"2024-10-29T18:28:29.787-07:00"}
 ---
 
 
@@ -13,10 +13,10 @@ Everything here is things I want to look at later at some point.
 - Find a way to use ollama to do script coverage #Screenwriting 
 	- https://js.langchain.com/docs/get_started/quickstart maybe build something with langchain to load context into the model
 - https://thecreativeindependent.com/essays/how-to-make-research-driven-art/ #artresearch
-- https://revdancatt.com/2021/12/08/concord-generative-art-part-one #artresearch 
+- https://revdancatt.com/2021/12/08/concord-generative-art-part-one #generativeart 
 - Opus clips #aivideo
 - https://www.loro.dev/ - CRDT
-- https://github.com/charmbracelet/freeze - Generate Images of a code file
+- 
 - https://www.fast.ai/ - Learn AI Better
 ## Productivity Paper Journal 
 - https://www.youtube.com/watch?v=jk4zjuMQnIU&list=TLPQMjcwOTIwMjTbX7YxLx0dDw - Pocket Journal Layouts

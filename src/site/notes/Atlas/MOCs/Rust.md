@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"updated":"2024-10-29T18:00:13.600-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"updated":"2024-10-29T18:28:43.519-07:00"}
 ---
 
 ## Patterns
@@ -16,7 +16,7 @@
 - https://docs.rs/mockall/latest/mockall/ - Mocking
 - https://redbadger.github.io/crux/motivation.html - FFI/Hex Arch
 - https://dioxuslabs.com/learn/0.4/reference/use_coroutine React-style everywhere
-
+- https://github.com/charmbracelet/freeze - Generate Images of a code file
 ## Common Problems
 
 ### Docker - Alpine
