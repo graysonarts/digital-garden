@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/atlas/mo-cs/photographers/","tags":["📍","photographers"]}
 ---
 
-
 ## Love
 - [[Greg Gorman\|Greg Gorman]]
 - [[Robert Mapplethorp\|Robert Mapplethorp]]
