@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/vae/"}
+{"dg-publish":true,"permalink":"/atlas/vae/","updated":"2024-10-29T17:52:46.132-07:00"}
 ---
 
 

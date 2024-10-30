@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/rust-compile-time-optimizations/","tags":["🌱","rust","quicktip"]}
+{"dg-publish":true,"permalink":"/atlas/rust-compile-time-optimizations/","tags":["🌱","rust","quicktip"],"updated":"2024-10-29T17:38:12.541-07:00"}
 ---
 
 

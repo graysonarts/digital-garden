@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"]}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"updated":"2024-10-29T18:00:13.600-07:00"}
 ---
 
 ## Patterns

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/grayson-s-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/meta/docs/grayson-s-garden/","tags":["gardenEntry"],"updated":"2024-10-29T16:26:17.762-07:00"}
 ---
 
 # Welcome to my Garden
@@ -35,5 +35,6 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 - [[Atlas/MOCs/Rust\|Rust]]
 - [[Atlas/MOCs/Photographers\|Photographers]]
 - [[Atlas/MOCs/Chocolate Making\|Chocolate Making]]
+- [[Atlas/MOCs/Acting\|Acting]]
 
 { .block-language-dataview}
