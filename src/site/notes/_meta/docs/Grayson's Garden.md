@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/grayson-s-garden/","pinned":"true","tags":["gardenEntry"],"updated":"2024-10-29T21:56:28.437-07:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"updated":"2024-10-30T10:07:35.249-07:00"}
 ---
 
 # Welcome to my Garden
 
-This is my attempt to [Learn in Public](https://www.swyx.io/learn-in-public) things in my life. Sometimes it's tech, sometimes it's art, sometimes it's writing or filmmaking. It's all a journey, and this documents that journey.
+This is my attempt to [Learn in Public](https://www.swyx.io/learn-in-public). Sometimes it's tech, sometimes it's art, sometimes it's writing or filmmaking. It's all a journey, and this documents that journey.
 
 You can read about my [[!Core System/Core System\|Core System]] for productivity. As someone with ADHD, it can be hard to get things done, so I try to systematize as much as possible.
 
