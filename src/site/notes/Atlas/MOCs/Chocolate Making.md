@@ -3,7 +3,7 @@
 ---
 
 ## Filling Recipes
-- [[Atlas/Pumpkin Caramel\|Pumpkin Caramel]]
+- [[Atlas/Recipes/Pumpkin Caramel\|Pumpkin Caramel]]
 
 { .block-language-dataview}
 ## Online Retailers I use
