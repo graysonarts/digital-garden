@@ -9,7 +9,7 @@
 - [[Ren Hang\|Ren Hang]]
 - [[Dan Nolin\|Dan Nolin]]
 
-	## Problematic Favorites
+## Problematic Favorites
 - [[Bruce Weber\|Bruce Weber]]
 - [[David LaChapelle\|David LaChapelle]]
 
