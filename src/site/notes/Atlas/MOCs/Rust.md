@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"noteIcon":"","updated":"2024-10-30T09:21:53.253-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"noteIcon":"","updated":"2024-10-30T12:29:56.070-07:00"}
 ---
 
 ## Patterns
@@ -17,6 +17,7 @@
 - https://redbadger.github.io/crux/motivation.html - FFI/Hex Arch
 - https://dioxuslabs.com/learn/0.4/reference/use_coroutine React-style everywhere
 - https://github.com/charmbracelet/freeze - Generate Images of a code file
+- https://github.com/LukeMathWalker/cargo-chef - Cache the dependencies of your Rust project and speed up your docker builds
 
 ## Geo - GIS
 - https://georust.org/
@@ -37,9 +38,8 @@
 - https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
 
 ## Rust Pages
-- [[Atlas/Rust on ESP32\|Rust on ESP32]]
 - [[Atlas/Rust-Swift Interaction\|Rust-Swift Interaction]]
+- [[Atlas/Rust on ESP32\|Rust on ESP32]]
 - [[Atlas/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]]
-- [[Atlas/Sources/Books/Rust for Rustaceans\|Rust for Rustaceans]]
 
 { .block-language-dataview}
