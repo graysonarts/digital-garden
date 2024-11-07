@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/my-fitness-and-nutrition/","tags":["📍"],"noteIcon":"","updated":"2024-11-07T11:19:52.253-08:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/my-fitness-and-nutrition/","tags":["📍"],"noteIcon":"","updated":"2024-11-07T11:29:34.831-08:00"}
 ---
 
 This page helps me track my own personal commitment to fitness and nutrition. It's a combination of journal and operating manual.
@@ -26,7 +26,7 @@ This page helps me track my own personal commitment to fitness and nutrition. It
 3. Impedance Body Fat % (weekly)
 4. Dexa Scan (every 6 months)
 ## Food
-1. [[Tracking with Food Portions\|Food Log ]](daily)
+1. [[Tracking with Food Portions\|Food Log ]] (daily)
 2. Water Intake (daily)
 ## Biofeedback
 1. [[Tracking Sleep\|Sleep]] (daily)
