@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/my-fitness-and-nutrition/","tags":["📍"],"noteIcon":"","updated":"2024-11-07T22:41:14.724-08:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/my-fitness-and-nutrition/","tags":["📍"],"updated":"2024-11-07T22:41:14.724-08:00"}
 ---
 
 This page helps me track my own personal commitment to fitness and nutrition. It's a combination of journal and operating manual.

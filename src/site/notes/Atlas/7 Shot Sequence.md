@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/7-shot-sequence/","tags":["film-production","🌲"],"noteIcon":"","updated":"2024-11-07T22:50:43.327-08:00"}
+{"dg-publish":true,"permalink":"/atlas/7-shot-sequence/","tags":["film-production","🌲"],"updated":"2024-11-07T22:50:43.327-08:00"}
 ---
 
 
