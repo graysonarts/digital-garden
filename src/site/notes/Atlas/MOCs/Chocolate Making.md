@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/chocolate-making/","tags":["📍"],"noteIcon":"","updated":"2024-10-29T17:18:22.712-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/chocolate-making/","tags":["📍"],"updated":"2024-10-29T17:18:22.712-07:00"}
 ---
 
 ## Filling Recipes

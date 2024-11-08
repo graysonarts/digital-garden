@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/swift-ui-swift-data-rust-domain-core/","tags":["programming","🌱","rust","swift","software"],"noteIcon":"","updated":"2024-11-08T06:51:51.618-08:00"}
+{"dg-publish":true,"permalink":"/atlas/swift-ui-swift-data-rust-domain-core/","tags":["programming","🌱","rust","swift","software"],"updated":"2024-11-08T06:51:51.618-08:00"}
 ---
 
 # SwiftUI -> Rust -> SwiftData

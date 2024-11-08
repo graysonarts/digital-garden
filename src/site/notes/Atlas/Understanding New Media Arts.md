@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/understanding-new-media-arts/","tags":["🌱","newmedia","artresearch"],"noteIcon":"","updated":"2024-10-29T18:27:03.356-07:00"}
+{"dg-publish":true,"permalink":"/atlas/understanding-new-media-arts/","tags":["🌱","newmedia","artresearch"],"updated":"2024-10-29T18:27:03.356-07:00"}
 ---
 
 # Introduction to New Media Arts

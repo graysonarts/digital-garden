@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/","pinned":"true","noteIcon":"","updated":"2024-10-30T10:25:39.539-07:00"}
+{"dg-publish":true,"permalink":"/inbox/","pinned":"true","updated":"2024-10-30T10:25:39.539-07:00"}
 ---
 
 Everything here is things I want to look at later at some point.

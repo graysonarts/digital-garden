@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/photographers/","tags":["📍","photographers"],"noteIcon":"","updated":"2024-10-29T18:06:42.277-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/photographers/","tags":["📍","photographers"],"updated":"2024-10-29T18:06:42.277-07:00"}
 ---
 
 ## Love

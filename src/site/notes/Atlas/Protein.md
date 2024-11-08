@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/protein/","tags":["🌱","nutrition","food","health"],"noteIcon":"","updated":"2024-11-07T22:33:02.073-08:00"}
+{"dg-publish":true,"permalink":"/atlas/protein/","tags":["🌱","nutrition","food","health"],"updated":"2024-11-07T22:33:02.073-08:00"}
 ---
 
 ## What is Protein?

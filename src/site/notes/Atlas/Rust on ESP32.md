@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/rust-on-esp-32/","tags":["rust","embedded","esp32"],"noteIcon":"","updated":"2024-10-29T17:37:24.788-07:00"}
+{"dg-publish":true,"permalink":"/atlas/rust-on-esp-32/","tags":["rust","embedded","esp32"],"updated":"2024-10-29T17:37:24.788-07:00"}
 ---
 
 
