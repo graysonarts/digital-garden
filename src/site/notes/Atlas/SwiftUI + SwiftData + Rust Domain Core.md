@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/swift-ui-swift-data-rust-domain-core/","tags":["programming","🌱","rust","swift","software"],"noteIcon":"","updated":"2024-11-07T22:52:22.255-08:00"}
+{"dg-publish":true,"permalink":"/atlas/swift-ui-swift-data-rust-domain-core/","tags":["programming","🌱","rust","swift","software"],"noteIcon":"","updated":"2024-11-08T05:50:03.166-08:00"}
 ---
 
 # SwiftUI -> Rust -> SwiftData
 <i class="fas fa-heart"></i> Finding Nirvana through UniFFI <i class="fas fa-heart"></i>
 
-[Grayson Hay](https://grayson.llc)<br>
-
-
----
 # Create the crate
 
 Create the rust core crate.
