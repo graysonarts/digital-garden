@@ -38,8 +38,9 @@
 - https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
 
 ## Rust Pages
-- [[Atlas/Rust-Swift Interaction\|Rust-Swift Interaction]]
 - [[Atlas/Rust on ESP32\|Rust on ESP32]]
+- [[Atlas/Rust-Swift Interaction\|Rust-Swift Interaction]]
 - [[Atlas/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]]
+- [[Atlas/SwiftUI + SwiftData + Rust Domain Core\|SwiftUI + SwiftData + Rust Domain Core]]
 
 { .block-language-dataview}
