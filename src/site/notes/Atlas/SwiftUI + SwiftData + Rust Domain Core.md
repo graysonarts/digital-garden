@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/swift-ui-swift-data-rust-domain-core/","tags":["programming","🌱","rust","swift","software"],"noteIcon":"","updated":"2024-11-08T06:50:40.152-08:00"}
+{"dg-publish":true,"permalink":"/atlas/swift-ui-swift-data-rust-domain-core/","tags":["programming","🌱","rust","swift","software"],"noteIcon":"","updated":"2024-11-08T06:51:51.618-08:00"}
 ---
 
 # SwiftUI -> Rust -> SwiftData
@@ -47,7 +47,6 @@ classDiagram
   ToDo: +u32 id
   ToDo: +String item
   ToDo: +bool completed
-  Command <-- AddTodo
   Command : +run() Vec~Event~
   AddTodo : +u32 id
   AddTodo : +String item
