@@ -19,7 +19,7 @@ This page helps me track my own personal commitment to fitness and nutrition. It
 2. I unplug an hour before bed and spend some of that meditating.
 3. I manage my stress by taking time out of the day for mindfulness on regular intervals, even if just for a minute.
 # Guidelines
-1. [[Red, Green, Yellow Food List\|Red, Green, Yellow Food List]] - My personal list of foods that I eat often, sometimes, and seldom so that I know what to focus on.
+1. [[Atlas/Red, Green, Yellow Food List\|Red, Green, Yellow Food List]] - My personal list of foods that I eat often, sometimes, and seldom so that I know what to focus on.
 # Metrics to Track
 
 ## Body Dimensions
