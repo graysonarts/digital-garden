@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/tag-explanation/","updated":"2024-11-09T07:17:13.818-08:00"}
+{"dg-publish":true,"permalink":"/meta/docs/tag-explanation/","updated":"2024-11-09T07:26:55.150-08:00"}
 ---
 
 
@@ -37,7 +37,7 @@ stateDiagram-v2
 - 🫂 - family
 - 💰 - finance
 - 🎯 - goals
-- 🏋️‍♀️ - health
+- 🏆 - health
 - 🏠 - home
 - 🎓 - education
 - 👤 - personal

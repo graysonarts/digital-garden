@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/3-act-structure/","tags":["🌱","Screenwriting"],"updated":"2024-10-29T14:21:57.551-07:00"}
+{"dg-publish":true,"permalink":"/atlas/3-act-structure/","tags":["🌱","Screenwriting"],"updated":"2024-11-09T07:24:08.703-08:00"}
 ---
 
 
@@ -20,4 +20,3 @@
 
 # References
 - https://www.studiobinder.com/blog/three-act-structure/
-- 

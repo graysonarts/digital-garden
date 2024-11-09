@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/my-fitness-and-nutrition/","tags":["📍"],"updated":"2024-11-07T22:41:14.724-08:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/my-fitness-and-nutrition/","tags":["📍"],"updated":"2024-11-09T07:32:24.724-08:00"}
 ---
 
 This page helps me track my own personal commitment to fitness and nutrition. It's a combination of journal and operating manual.
@@ -19,7 +19,7 @@ This page helps me track my own personal commitment to fitness and nutrition. It
 2. I unplug an hour before bed and spend some of that meditating.
 3. I manage my stress by taking time out of the day for mindfulness on regular intervals, even if just for a minute.
 # Guidelines
-1. [[Atlas/Red, Green, Yellow Food List\|Red, Green, Yellow Food List]] - My personal list of foods that I eat often, sometimes, and seldom so that I know what to focus on.
+1. [[Atlas/Evergreen/Red, Green, Yellow Food List\|Red, Green, Yellow Food List]] - My personal list of foods that I eat often, sometimes, and seldom so that I know what to focus on.
 # Metrics to Track
 
 ## Body Dimensions
@@ -36,6 +36,9 @@ This page helps me track my own personal commitment to fitness and nutrition. It
 5. [[Atlas/Tracking your poop\|Digestion]] (daily)
 
 # Other Pages
-- [[Atlas/Protein\|Protein]]
+- [[Atlas/Evergreen/Protein\|Protein]]
+- [[Atlas/Atomic Notes/How much protein do we need to eat\|How much protein do we need to eat]]
+- [[Atlas/Atomic Notes/Why do we need to eat protein?\|Why do we need to eat protein?]]
+- [[Atlas/Atomic Notes/What is Protein\|What is Protein]]
 
 { .block-language-dataview}

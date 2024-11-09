@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/ai/","tags":["📍","📥"],"updated":"2024-10-30T10:35:58.686-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/ai/","tags":["📍","📥"],"updated":"2024-11-09T07:34:54.252-08:00"}
 ---
 
 "AI" in scare quotes because it's not really AI yet.
@@ -13,3 +13,9 @@
 	- Pattern 3 in the above is about storing pointers to the raw file for later retrieval when your LLM is multimodal and needs access to the source data
 	- If you don't need the source data, you can use Pattern 1, which is to just encode a text description. e.g. You take the image and run it through a "describe this image" and then use the resulting text for your encoding.
 ## Agentic RAG
+
+## Other pages
+- [[Atlas/Atomic Notes/Variational Autoencoder\|Variational Autoencoder]]
+- [[Atlas/MOCs/Pose Estimation\|Pose Estimation]]
+
+{ .block-language-dataview}
