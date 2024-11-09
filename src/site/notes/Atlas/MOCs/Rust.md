@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"updated":"2024-10-30T12:29:56.070-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"updated":"2024-11-09T06:54:04.108-08:00"}
 ---
 
 ## Patterns
@@ -38,9 +38,7 @@
 - https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
 
 ## Rust Pages
-- [[Atlas/Rust on ESP32\|Rust on ESP32]]
-- [[Atlas/Rust-Swift Interaction\|Rust-Swift Interaction]]
-- [[Atlas/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]]
 - [[Atlas/SwiftUI + SwiftData + Rust Domain Core\|SwiftUI + SwiftData + Rust Domain Core]]
+- [[Atlas/Rust on ESP32\|Rust on ESP32]]
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/food/","tags":["📍"],"updated":"2024-10-29T21:54:52.589-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/food/","tags":["📍"],"updated":"2024-11-09T06:51:41.163-08:00"}
 ---
 
 # Recipes
