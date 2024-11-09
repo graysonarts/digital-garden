@@ -1,22 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/tag-explanation/","updated":"2024-10-29T09:53:29.350-07:00"}
+{"dg-publish":true,"permalink":"/meta/docs/tag-explanation/","updated":"2024-11-09T07:17:13.818-08:00"}
 ---
 
 
 # processing status
 - 📥 - New
-- 🚧 - Ready to Process
 -  🌱 - Processing
 - ✅ - Processed
-- 🌲 - Evergreen
+- 🌲 - [[!Core System/Evergreen\|Evergreen]]
 
 ```mermaid
 stateDiagram-v2
 
 	[*] --> 📥
-	 📥 --> 🚧
 	 📥 --> 🌱
-	 🚧 --> 🌱
 	 🌱 --> 🌲
 	 ✅ --> 🌲
 	 🌱 --> ✅
@@ -32,24 +29,27 @@ stateDiagram-v2
 - 📖 - Book
 - 🗒️ - Note
 - 📍 - MOC
+- 🥗 - Recipe
+- 💻 - Project
+- ☢️ - [[!Core System/Atomic\|Atomic]]
 
-# list types
-- 💼 - Company
-- 👤 - Person
-- 🎥 - Movie or Television Show
-- ⚙️ - Gear
+# life areas
+- 🫂 - family
+- 💰 - finance
+- 🎯 - goals
+- 🏋️‍♀️ - health
+- 🏠 - home
+- 🎓 - education
+- 👤 - personal
+- 🌎 - travel
+- 🗂️ - work
 
-## client types
-- 💰Marketing
-- 🥗 Nutrition
-- 💻️ Coding
 # output type
 - 🎬 - Video
 - 🏙️ - Photo
-- 📝 - Blog Post / Essay
-
+- 📝 - Writing
 # project status
-- ☢️ - Active
+- 💪 - Active
 - 🍀 - Tending
 - 🧊 - Frozen
 - Nothing - Done
