@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/","pinned":"true","updated":"2024-10-30T10:25:39.539-07:00"}
+{"dg-publish":true,"permalink":"/inbox/","pinned":"true","updated":"2024-11-12T16:31:32.632-08:00"}
 ---
 
 Everything here is things I want to look at later at some point.
@@ -20,6 +20,11 @@ Everything here is things I want to look at later at some point.
 - https://www.youtube.com/watch?v=jk4zjuMQnIU&list=TLPQMjcwOTIwMjTbX7YxLx0dDw - Pocket Journal Layouts
 - https://www.amazon.com/stores/page/F9A05836-613C-4E9D-B148-90765FB98C0C?ingress=2&visitId=fd4462b5-7658-4b9d-b6fb-edb111927e74&linkId=694feb595f7ba3c4af2e46bdb972acdb&language=en_US - Color Dot Marker
 - https://www.amazon.com/stores/page/8438F08F-B963-434E-8146-06B78D27C4B9?ingress=2&visitId=8cabdb03-36b9-4f04-b055-18528ed96240&store_ref=bl_ast_dp_nofrnas_sto&linkId=a036e5e39bfd7415be60127405dc9ca6&language=en_US - Brush Pens
+
+- Talent Agent: All About You
+- Talent Agent: Actors Group
+- Book: The Company You Keep
+- Book: The Score (?)
 
 # film processing
 67-69F for water for developing film
