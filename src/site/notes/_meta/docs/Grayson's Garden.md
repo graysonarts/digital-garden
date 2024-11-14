@@ -25,7 +25,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 - Client Work (20h/w)
 - Coaching (3h/w)
 - Film Producing (3h/w)
-- Learning about the ActivityPub and the Fediverse (4h/w)
+- Building a food log app (8h/w) to learn Leptos
 
 
 </div></div>
