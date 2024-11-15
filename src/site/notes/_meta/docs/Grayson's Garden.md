@@ -42,5 +42,6 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 - [[Atlas/MOCs/Rust\|Rust]]
 - [[Atlas/MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]]
 - [[Atlas/MOCs/AI\|AI]]
+- [[Atlas/MOCs/3D Printing\|3D Printing]]
 
 { .block-language-dataview}
