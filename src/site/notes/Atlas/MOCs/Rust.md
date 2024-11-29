@@ -38,9 +38,9 @@
 - https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
 
 ## Rust Pages
-- [[Atlas/Leptos Iterating over collections with update\|Leptos Iterating over collections with update]]
-- [[Atlas/Atomic Notes/Leptos Generic Component Prop\|Leptos Generic Component Prop]]
 - [[Atlas/SwiftUI + SwiftData + Rust Domain Core\|SwiftUI + SwiftData + Rust Domain Core]]
 - [[Atlas/Rust on ESP32\|Rust on ESP32]]
+- [[Atlas/Leptos Iterating over collections with update\|Leptos Iterating over collections with update]]
+- [[Atlas/Atomic Notes/Leptos Generic Component Prop\|Leptos Generic Component Prop]]
 
 { .block-language-dataview}

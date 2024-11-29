@@ -15,7 +15,7 @@
 ## Agentic RAG
 
 ## Other pages
-- [[Atlas/Atomic Notes/Variational Autoencoder\|Variational Autoencoder]]
 - [[Atlas/MOCs/Pose Estimation\|Pose Estimation]]
+- [[Atlas/Atomic Notes/Variational Autoencoder\|Variational Autoencoder]]
 
 { .block-language-dataview}
