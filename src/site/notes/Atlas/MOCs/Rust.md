@@ -38,6 +38,7 @@
 - https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
 
 ## Rust Pages
+- [[Efforts/The Rust Garden/Adding Stripe Subscriptions to rust axum\|Adding Stripe Subscriptions to rust axum]]
 - [[Atlas/SwiftUI + SwiftData + Rust Domain Core\|SwiftUI + SwiftData + Rust Domain Core]]
 - [[Atlas/Rust on ESP32\|Rust on ESP32]]
 - [[Atlas/Leptos Iterating over collections with update\|Leptos Iterating over collections with update]]
