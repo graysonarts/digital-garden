@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/ai/","tags":["📍"],"updated":"2024-12-07T08:43:56.872-08:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/ai/","tags":["📍"],"updated":"2025-01-11T09:34:14.480-08:00"}
 ---
 
 "AI" in scare quotes because it's not really AI yet.
@@ -7,6 +7,10 @@
 - https://www.fast.ai/ - Learn AI
 ## LLMs
 - Ollama for running models locally
+
+## Tools
+- [LibreChat](https://www.librechat.ai/docs/features) - open source tool for building AI chat bots locally
+- [SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - open source Speech to Text
 ## RAG
 - https://vectorize.io/multimodal-rag-patterns/
 	- Basically, store vector encodings in the same vector space across all content types.
