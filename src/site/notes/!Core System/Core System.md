@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/core-system/core-system/","updated":"2024-10-29T10:03:23.907-07:00"}
+{"dg-publish":true,"permalink":"/core-system/core-system/","title":"The Root","updated":"2025-01-28T18:16:36.453-08:00"}
 ---
-
 
 *****I will do my best to (a) follow the processes documented here; and (b) on a regular basis evaluate these processes and update the document to better reflect what's working and what's not, as well as what's important to me and what's not**
 

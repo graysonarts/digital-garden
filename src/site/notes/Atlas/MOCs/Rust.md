@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"updated":"2024-11-09T06:54:04.108-08:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/rust/","tags":["📍","programming"],"updated":"2025-01-28T18:17:59.251-08:00"}
 ---
 
 ## Patterns
@@ -9,7 +9,7 @@
 
 ## Features
 
-- [[ProcMacros\|ProcMacros]]
+- [[Atlas/ProcMacros\|Atlas/ProcMacros]]
 
 ## Helpful Crates
 
