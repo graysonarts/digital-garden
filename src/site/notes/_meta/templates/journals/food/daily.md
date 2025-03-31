@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/templates/journals/food/daily/","updated":"2024-11-14T06:42:26.995-08:00"}
+{"dg-publish":true,"permalink":"/meta/templates/journals/food/daily/","updated":"2025-03-18T08:20:02.101-07:00"}
 ---
 
 # {{journal_name}} - {{note_name}}

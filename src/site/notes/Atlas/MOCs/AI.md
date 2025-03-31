@@ -19,6 +19,7 @@
 ## Agentic RAG
 
 ## Other pages
+- [[_meta/prompts/Skill Tutor\|Skill Tutor]]
 - [[Atlas/MOCs/Pose Estimation\|Pose Estimation]]
 - [[Atlas/Atomic Notes/Variational Autoencoder\|Variational Autoencoder]]
 

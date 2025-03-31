@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/","pinned":"true","updated":"2024-11-12T16:31:32.632-08:00"}
+{"dg-publish":true,"permalink":"/inbox/","pinned":"true","updated":"2025-01-28T18:21:43.898-08:00"}
 ---
 
 Everything here is things I want to look at later at some point.
@@ -33,5 +33,4 @@ https://jonahcalinawan.com/blog/cyanotype-digital-negative/
 
 
 What if I mounted a projector and pi to myself to project onto my costume?
-
 https://www.r1b2.com/2022/01/28/mining-structures-walkthrough/
