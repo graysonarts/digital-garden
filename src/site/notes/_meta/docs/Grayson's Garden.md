@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"updated":"2024-10-30T10:07:35.249-07:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"updated":"2025-03-31T06:41:30.563-07:00"}
 ---
 
 # Welcome to my Garden
@@ -22,13 +22,32 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 
 ## Active Investments
+
+> [!INFO]
+> *Available hours = 7 * 24 - (8 * 7) = 112h*
+> Current Investment Allocation:  **63h**
+
 - Client Work (30h/w)
 - Filmmaking and Youtube (5h/w)
 - Fitness (8h/w)
+- Learning (10h/w)
+- Sustaining Life (cooking, shopping, cleaning) (10h/w)
 
 
 </div></div>
 
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+## Current Learnings
+- How to have style - [[Atlas/MOCs/Men's Style\|Men's Style]]
+- Series 65 Certification
+
+
+</div></div>
 
 # Maps of Content
 - [[Atlas/MOCs/AI\|AI]]
