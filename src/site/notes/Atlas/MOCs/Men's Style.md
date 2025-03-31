@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/men-s-style/","title":"Objective","tags":["📍","clothing","style","men"],"updated":"2025-03-31T06:39:44.095-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/men-s-style/","title":"Objective","tags":["📍","clothing","style","men"],"updated":"2025-03-31T14:31:45.344-07:00"}
 ---
-
 
 > [!INFO]
 > Status: Learning
@@ -113,4 +112,12 @@ I have never had a sense of style. My normal uniform is the same basic teeshirt 
 - Take weekly photos of your outfits to see progression
 - Schedule monthly reviews of what's working and what needs adjustment
 
-# Resources
+# Terminology
+- **[wikipedia: capsule wardrobe](https://en.wikipedia.org/wiki/Capsule_wardrobe)** - a minimalist collection of clothes that can be put together in different ways to cover a variety of outfits and occasions. The aim is to have an outfit suitable for any occasion without owning excessive items of clothing.
+
+# My Resources
+- [Style Inspirations on Pinterest](https://pin.it/5NNd3Iozy)
+- [Style Resources on Pinterest](https://pin.it/291GCBcKL)
+- ☢️  [[Atlas/Atomic Notes/Capsule Wardrobe\|Capsule Wardrobe]]
+
+# Other Resources
