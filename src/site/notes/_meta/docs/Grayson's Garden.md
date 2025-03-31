@@ -22,26 +22,26 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 
 ## Active Investments
-- Client Work (20h/w)
-- Coaching (3h/w)
-- Film Producing (3h/w)
-- Building a food log app (8h/w) to learn Leptos
+- Client Work (30h/w)
+- Filmmaking and Youtube (5h/w)
+- Fitness (8h/w)
 
 
 </div></div>
 
 
 # Maps of Content
+- [[Atlas/MOCs/AI\|AI]]
+- [[Atlas/MOCs/3D Printing\|3D Printing]]
+- [[Atlas/MOCs/Color Grading\|Color Grading]]
 - [[Atlas/MOCs/Acting\|Acting]]
 - [[Atlas/MOCs/Art\|Art]]
-- [[Atlas/MOCs/Chocolate Making\|Chocolate Making]]
-- [[Atlas/MOCs/Color Grading\|Color Grading]]
-- [[Atlas/MOCs/3D Printing\|3D Printing]]
-- [[Atlas/MOCs/AI\|AI]]
 - [[Atlas/MOCs/Photographers\|Photographers]]
 - [[Atlas/MOCs/Pose Estimation\|Pose Estimation]]
 - [[Atlas/MOCs/Rust\|Rust]]
+- [[Atlas/MOCs/Chocolate Making\|Chocolate Making]]
 - [[Atlas/MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]]
 - [[Atlas/MOCs/Food\|Food]]
+- [[Atlas/MOCs/Men's Style\|Men's Style]]
 
 { .block-language-dataview}
