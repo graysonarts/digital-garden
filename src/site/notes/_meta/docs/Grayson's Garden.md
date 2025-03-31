@@ -24,7 +24,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 ## Active Investments
 
 > [!INFO]
-> *Available hours = 7 * 24 - (8 * 7) = 112h*
+> *Available hours = 7 \* 24 - (8 \* 7) = 112h*
 > Current Investment Allocation:  **63h**
 
 - Client Work (30h/w)
