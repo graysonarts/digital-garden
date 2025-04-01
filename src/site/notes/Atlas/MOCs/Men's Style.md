@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/men-s-style/","title":"Objective","tags":["📍","clothing","style","men"],"updated":"2025-03-31T14:31:45.344-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/men-s-style/","title":"Objective","tags":["📍","clothing","style","men"],"updated":"2025-03-31T17:26:09.550-07:00"}
 ---
 
 > [!INFO]
@@ -119,5 +119,6 @@ I have never had a sense of style. My normal uniform is the same basic teeshirt 
 - [Style Inspirations on Pinterest](https://pin.it/5NNd3Iozy)
 - [Style Resources on Pinterest](https://pin.it/291GCBcKL)
 - ☢️  [[Atlas/Atomic Notes/Capsule Wardrobe\|Capsule Wardrobe]]
+- [[Atlas/Wardrobe Potentials List\|Wardrobe Potential Shopping List]]
 
 # Other Resources
