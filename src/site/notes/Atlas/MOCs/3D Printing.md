@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/3-d-printing/","tags":["📍"],"updated":"2024-11-15T08:39:17.630-08:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/3-d-printing/","tags":["📍"],"updated":"2025-04-12T09:39:42.548-07:00"}
 ---
 
 ## Printers I own
@@ -15,9 +15,10 @@ Slicers are tools used to turn models into [[G-Code\|G-Code]] to control the 3d 
 
 I use the [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/) Slicer to control my printers.
 
-## Network access
-I run Octoprint on a Raspberry PI 4 to run my printers. I might one day upgrade that machine, but for now, it runs the printers nicely. Sometimes, I'll connect directly to the printer if I need to.
+## ~~Network access~~
+~~I run Octoprint on a Raspberry PI 4 to run my printers. I might one day upgrade that machine, but for now, it runs the printers nicely. Sometimes, I'll connect directly to the printer if I need to.~~
 
 ## Systems of useful things to print
-- Multiboard or InfinityGrid - Both are systems of modular organizational objects. I'm moving from InfinityGrid to Multiboard because I feel like it's more well-thought out and I like how solidly it fits together InfinityGrid requires magnets, and magnets are annoying.
+- Multiboard or GridFinity - Both are systems of modular organizational objects. I'm moving from GridFinity to Multiboard because I feel like it's more well-thought out and I like how solidly it fits together GridFinity requires magnets, and magnets are annoying.
 - [Underware](https://www.printables.com/model/941161-underware-the-ultimate-cable-management-solution) is a cable management system built around multiboard. I'm going to be printing those once I get my home printer set back up. I also need to make sure I have white filament since that's my color of choice for my office.
+- [openGrid](https://www.printables.com/model/1214361-opengrid-walldesk-mounting-framework-and-ecosystem/files) - I'm probably moving to this system for my cable management system which uses Underware style channels, but is cleaner in my opinion.
