@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/inbox/","pinned":"true","updated":"2025-01-28T18:21:43.898-08:00"}
+{"dg-publish":true,"permalink":"/inbox/","pinned":"true","updated":"2025-04-22T14:55:32.680-07:00"}
 ---
 
 Everything here is things I want to look at later at some point.
@@ -25,6 +25,8 @@ Everything here is things I want to look at later at some point.
 - Talent Agent: Actors Group
 - Book: The Company You Keep
 - Book: The Score (?)
+
+Replacement Projector: [TH671ST \| 1080p 3000lm Short Throw Home Theater Projector \| BenQ US](https://www.benq.com/en-us/projector/cinema/th671st.html) #creative-coding 
 
 # film processing
 67-69F for water for developing film
