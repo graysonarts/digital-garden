@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/3-d-printing/","tags":["📍"],"updated":"2025-04-12T09:39:42.548-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/3-d-printing/","title":"3D Printing","tags":["📍"],"updated":"2025-04-13T14:30:37.880-07:00"}
 ---
 
 ## Printers I own
 - [Anycubic Kobra Go](https://wiki.anycubic.com/en/fdm-3d-printer/kobra-go) - At Home
+- Anycubic Kobra 3 with AMC - At Home
 - [Creality Ender 3](https://www.creality.com/products/ender-3-3d-printer) - At Coworking Space
 
 ## Printers I'm considering add
 - Something from Bambu
-- Anycubic Kobra 3 with AMC so I can print multicolor - Highly likely since they have a special going on right now for black friday.
 
 ## Slicers
 Slicers are tools used to turn models into [[G-Code\|G-Code]] to control the 3d Printer.
 
-I use the [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/) Slicer to control my printers.
+I use the [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/) and Anycubic Slicer to control my printers.
 
 ## ~~Network access~~
 ~~I run Octoprint on a Raspberry PI 4 to run my printers. I might one day upgrade that machine, but for now, it runs the printers nicely. Sometimes, I'll connect directly to the printer if I need to.~~
