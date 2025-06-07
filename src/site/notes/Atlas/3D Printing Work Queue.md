@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/3-d-printing-work-queue/","title":"I have too many things to 3D Print!","tags":["3dprint"],"updated":"2025-06-07T11:04:53.108-07:00"}
+{"dg-publish":true,"permalink":"/atlas/3-d-printing-work-queue/","title":"I have too many things to 3D Print!","tags":["3dprint"],"updated":"2025-06-07T11:10:58.052-07:00"}
 ---
 
 # I have too many things to 3D Print!
@@ -14,6 +14,7 @@ Technically I have 3 printers, but I only use one of them, my [[Anycubic Kobra 3
 2. Desk Leg Cable Spline
 3. Portable Electronics kit
 4. Camera Gear Tool Check organization
+5. 6-Axis Camera Robot
 
 ## Projects
 
@@ -52,3 +53,10 @@ _status: planning_
 I'm using gridfinity, so I'm printing base plates to fill up every drawer, and then from there, I need to plan out the parts, design some custom-"molded" holders and the like.
 
 I have a US. General tool chest that I bought from Harbor Freight, and I need to kit that out to organize all my camera gear. Batteries, mounts, audio gear, gimbals, it's all a huge mess right now, and I need to organize it.
+
+### 6-Axis Camera Robot
+_status: idea_
+
+I'm a cinematographer, and I really wish I could afford all the fancy hollywood gear, but I can't, so instead, I'm going to build a 6-Axis Camera Wielding Robot, but damn, that's a scary prospect, so I'm going to start with a smaller version that is built to control a webcam or small action camera, or maybe my phone.
+
+This is still very much at the idea phase. I know the general mechanics required, at a high-level, but designing something this complex is going to push my skills, so I'll start small and then eventually scale up.
