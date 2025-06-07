@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-system/core-system/","title":"The Root","updated":"2025-02-22T07:45:52.431-08:00"}
+{"dg-publish":true,"permalink":"/core-system/core-system/","title":"The Root","updated":"2025-05-27T16:26:47.809-07:00"}
 ---
 
 *****I will do my best to (a) follow the processes documented here; and (b) on a regular basis evaluate these processes and update the document to better reflect what's working and what's not, as well as what's important to me and what's not**
