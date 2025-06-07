@@ -1,11 +1,30 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/3-d-printing/","title":"3D Printing","tags":["📍"],"updated":"2025-04-13T14:30:37.880-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/3-d-printing/","title":"3D Printing","tags":["📍"],"updated":"2025-06-07T11:13:12.927-07:00"}
 ---
 
 ## Printers I own
 - [Anycubic Kobra Go](https://wiki.anycubic.com/en/fdm-3d-printer/kobra-go) - At Home
 - Anycubic Kobra 3 with AMC - At Home
 - [Creality Ender 3](https://www.creality.com/products/ender-3-3d-printer) - At Coworking Space
+
+## My Printing Queue
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/atlas/3-d-printing-work-queue/#queue" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+## Queue
+
+1. Cable Management
+2. Desk Leg Cable Spline
+3. Portable Electronics kit
+4. Camera Gear Tool Check organization
+5. 6-Axis Camera Robot
+
+
+</div></div>
+
 
 ## Printers I'm considering add
 - Something from Bambu
