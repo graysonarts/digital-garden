@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/3-d-printing-work-queue/","title":"I have too many things to 3D Print!","tags":["3dprint"],"updated":"2025-06-07T11:10:58.052-07:00"}
+{"dg-publish":true,"permalink":"/atlas/3-d-printing-work-queue/","title":"I have too many things to 3D Print!","tags":["3dprint"],"updated":"2025-06-07T11:15:28.851-07:00"}
 ---
 
 # I have too many things to 3D Print!
 
 **Problem**: I have too many projects that require my 3D printer, and I bounce between the jobs too often and never finish longer form projects that are "nice to haves" so this page is an attempt for me to organize what needs to be done, what stage things are at, and prioritize the printer.
 
-Technically I have 3 printers, but I only use one of them, my [[Anycubic Kobra 3 Max\|Anycubic Kobra 3 Max]].
+Technically I have 3 printers, but I only use one of them, my [[Anycubic Kobra 3\|Anycubic Kobra 3]].
 
 ## Queue
 
