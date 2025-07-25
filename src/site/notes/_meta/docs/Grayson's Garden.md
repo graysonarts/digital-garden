@@ -51,10 +51,10 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 # Maps of Content
 - [[Atlas/MOCs/Acting\|Acting]]
-- [[Atlas/MOCs/Art\|Art]]
-- [[Atlas/MOCs/Chocolate Making\|Chocolate Making]]
 - [[Atlas/MOCs/AI\|AI]]
+- [[Atlas/MOCs/Chocolate Making\|Chocolate Making]]
 - [[Atlas/MOCs/Color Grading\|Color Grading]]
+- [[Atlas/MOCs/Art\|Art]]
 - [[Atlas/MOCs/Men's Style\|Men's Style]]
 - [[Atlas/MOCs/Photographers\|Photographers]]
 - [[Atlas/MOCs/Pose Estimation\|Pose Estimation]]
