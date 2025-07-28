@@ -25,13 +25,14 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 > [!INFO]
 > *Available hours = 7 \* 24 - (8 \* 7) = 112h*
-> Current Investment Allocation:  **63h**
+> Current Investment Allocation:  **73h**
 
-- Client Work (30h/w)
-- Filmmaking and Youtube (5h/w)
-- Fitness (8h/w)
-- Learning (10h/w)
-- Sustaining Life (cooking, shopping, cleaning) (10h/w)
+- Preparing for [Cheap AF](https://cheapaffilm.com) (10h)
+- Install at [Cannonball Arts](https://cannonballarts.com/) (20h)
+- Video Editing (20h)
+- Life Maintenance (5h)
+- Fitness (8h)
+- Modeling/Acting (variable based on jobs)
 
 
 </div></div>
@@ -43,8 +44,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 
 ## Current Learnings
-- How to have style - [[Atlas/MOCs/Men's Style\|Men's Style]]
-- Series 65 Certification
+- Reading for 30 minutes every morning.
 
 
 </div></div>
