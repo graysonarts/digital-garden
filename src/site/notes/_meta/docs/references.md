@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/references/","updated":"2024-10-29T14:08:02.094-07:00"}
+{"dg-publish":true,"permalink":"/meta/docs/references/","updated":"2025-07-28T07:28:16.958-07:00"}
 ---
 
 
@@ -9,35 +9,13 @@
 - [X] Checked
 - [-] Dropped
 - [>] Forward
-- [D] Date
 - [?] Question
 - [/] Half Done
-- [+] Add 
-- [R] Research 
 - [!] Important 
 - [i] Idea 
-- [B] Brainstorm 
-- [P] Pro 
-- [C] Con 
-- [Q] Quote 
-- [N] Note 
 - [b] Bookmark 
 - [I] Information 
 - [p] Paraphrase 
-- [L] Location 
-- [E] Example 
-- [A] Answer 
-- [r] Reward 
 - [c] Choice 
 - [d] Doing 
-- [T] Time 
-- [@] Character / Person 
-- [t] Talk 
-- [O] Outline / Plot 
-- [~] Conflict 
-- [W] World 
 - [f] Clue / Find 
-- [F] Foreshadow 
-- [H] Favorite / Health 
-- [&] Symbolism 
-- [s] Secret
