@@ -38,8 +38,8 @@ This page helps me track my own personal commitment to fitness and nutrition. It
 # Other Pages
 - [[Atlas/Mobility Routine\|Mobility Routine]]
 - [[Atlas/Evergreen/Protein\|Protein]]
-- [[Atlas/Atomic Notes/What is Protein\|What is Protein]]
 - [[Atlas/Atomic Notes/Why do we need to eat protein?\|Why do we need to eat protein?]]
+- [[Atlas/Atomic Notes/What is Protein\|What is Protein]]
 - [[Atlas/Atomic Notes/How much protein do we need to eat\|How much protein do we need to eat]]
 
 { .block-language-dataview}
