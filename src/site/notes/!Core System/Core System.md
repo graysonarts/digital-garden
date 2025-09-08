@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-system/core-system/","title":"The Root","updated":"2025-05-27T16:26:47.809-07:00"}
+{"dg-publish":true,"permalink":"/core-system/core-system/","title":"The Root","updated":"2025-09-08T05:08:09.524-07:00"}
 ---
 
 *****I will do my best to (a) follow the processes documented here; and (b) on a regular basis evaluate these processes and update the document to better reflect what's working and what's not, as well as what's important to me and what's not**
@@ -9,11 +9,11 @@
 ## Morning Journal
 I spend 30 minutes writing in my journal every morning. I use [DayOne](https://dayoneapp.com/) as my journaling platform and I use my mac laptop or e-ink tablet for writing the journal entries for the day.
 ## Timeblocking
-I use my calendar [sunsama](https://sunsama.com/share?refId=Qs4udE6cL7EEvMP6z) to time block the core of my day. After I have moved all work projects forward for the day, I use my shutdown ritual for work to transition from work to post-work time. This is added to the timeblock.
+I have been using [Akiflow](https://web.akiflow.com/referral?name=R3JheXNvbg%3D%3D&referral=2dwES7IErDhUANfT) (affiliate link) for my planning and todo list management system. It supports timeblocking with the ability to setup the work block and then drag tasks into it. I find this process amazingly easy to implement and helps me plan out themes for the day and sections of the day.
 ## Morning Work
 I work on the most important thing that I need to get done first thing in the morning
 ## Morning Exercise
-I spend at least 30 minutes of moving every day when I need a break from the morning work, usually around 9:30am during the week, and less regimented on the weekends. On days when I have energy, I use [Gravl](https://www.gravl.ai/) to plan out a 75 minute lifting routine. My goal is 4 days of lifting a week.
+I spend at least 30 minutes of moving every day when I need a break from the morning work, usually around 9:30am during the week, and less regimented on the weekends. On days when I have energy, I use chatGPT and Hevy to plan out a 75 minute lifting routine. My goal is 4 days of lifting a week.
 ## During The Day
 **Capture** - I capture ideas into the day notes on obsidian and I keep a pocket notebook with me to capture new things that come into life.
 **Simplify** - I strive for inbox-zero every day creating tasks as they come in from email. I have to check both my personal email (gmail) and protonmail for business.
