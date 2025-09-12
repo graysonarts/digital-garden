@@ -25,7 +25,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 > [!INFO]
 > *Available hours = 7 \* 24 - (8 \* 7) = 112h*
-> Current Investment Allocation:  **73h**
+> Current Investment Allocation:  **80h**
 
 - Shooting [Cheap AF](https://cheapaffilm.com) (80h)
 
@@ -39,23 +39,23 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 
 ## Current Learnings
-- Reading for 30 minutes every morning.
+- Studying for my [[Atlas/FAA Part 107 Study Notes\|FAA Part 107 Remote Pilot license]]
 
 
 </div></div>
 
 # Maps of Content
-- [[Atlas/MOCs/3D Printing\|3D Printing]]
 - [[Atlas/MOCs/Acting\|Acting]]
-- [[Atlas/MOCs/AI\|AI]]
+- [[Atlas/MOCs/3D Printing\|3D Printing]]
 - [[Atlas/MOCs/Art\|Art]]
 - [[Atlas/MOCs/Color Grading\|Color Grading]]
 - [[Atlas/MOCs/Chocolate Making\|Chocolate Making]]
 - [[Atlas/MOCs/Men's Style\|Men's Style]]
-- [[Atlas/MOCs/Food\|Food]]
+- [[Atlas/MOCs/AI\|AI]]
 - [[Atlas/MOCs/Photographers\|Photographers]]
-- [[Atlas/MOCs/Rust\|Rust]]
 - [[Atlas/MOCs/Pose Estimation\|Pose Estimation]]
+- [[Atlas/MOCs/Rust\|Rust]]
+- [[Atlas/MOCs/Food\|Food]]
 - [[Atlas/MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]]
 
 { .block-language-dataview}
