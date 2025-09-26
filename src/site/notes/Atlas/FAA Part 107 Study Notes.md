@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/faa-part-107-study-notes/","tags":["🌱"],"updated":"2025-09-12T06:34:10.445-07:00"}
+{"dg-publish":true,"permalink":"/atlas/faa-part-107-study-notes/","tags":["🌱"],"updated":"2025-09-13T06:10:24.585-07:00"}
 ---
 
 # Important References
@@ -58,6 +58,14 @@
 			* _Interference Drag_ increased drag created by the junction between different objects
 			* _Skin Friction_ any imperfections on the surface of the lift generating object (propeller, wing, etc)
 	* _Lift Induced Drag_ 
+		* As soon as lift is created for fixed wing
+		* As soon as we have lateral movement for quads
+		* LID becomes less as speed increases
+			*  proportional to angle of attack
+* Drag can cause _stall_ based on Angle of Attack usually at low speed
+	* only a fixed-wing can stall
+	* only way to recover is to lower the nose of the aircraft
+	* Can occur when the critical angle of attack is reached regardless of airspeed
 ### Weight
 * Result of gravity
 * Applied as center of gravity. This is different than the center of pressure/lift.
@@ -72,3 +80,76 @@
 * Drag > Thrust = Decelerating 
 * Drag == Thrust = Consistent speed
 * If Thrust == 0 then Drag == 0, meaning you aren't moving
+
+## Load Factor (G-Force)
+* It's the acceleration of gravity.
+* Increases with the bank/roll angle of the aircraft
+* Sometimes called the Resultant Force
+* Load is equal to the lift
+* Typical values of load factor at angles, not it's exponential
+	* 0° = 1
+	* 10° = 1.015
+	* 30° = 1.154
+	* 45° = 1.414
+	* 60° = 2
+	* 85° = 11.473
+* Also effects stall speed
+	* Load factor increases with bank angle
+	* stall speed increases with load factor
+	* fly at slow airspeed when doing abrupt maneuvers to avoid stalling
+
+## Stability
+* Ability to return to the original flight path after being disturbed
+* Static Stability - Initial ability to return to equilibrium.
+	* Positive static stability is returning back to equilibrium
+	* Neutral static stability is not returning but not getting worse
+	* Negative static stability is getting worse after disturbance
+* Dynamic Stability - Aircrafts response over time when disturbed
+	* Positive-Static-Positive-Dynamic - returns back to stability
+	* Positive-Static-Neutral-Dynamic - oscillates "forever"
+	* Positive-Static-Negative-Dynamic - oscillates with increasing amplitude "forever"
+
+## Performance Factors
+### Center of Gravity Location
+* _CG_ = The point at which WEIGHT is applied
+* _CP_ = The point at which LIFT is applied
+* _Arm_ = Distance between the CG and where a force is applied
+* _Moment_ = Efficiency of the force = Arm × Force
+* There are limits to where the CG can go based on aircraft design. When mounting things to sUMAs you must take into account resulting CG
+* Make sure the loaded equipment does not negative impact the CG. Too forward or aft can cause crashes
+* A large arm between CG and CP will cause a large moment. The elevator help compensate for that. Taildown force is the force created by the elevator.
+* With an AFT CG - fixed wing
+	* Higher cruising speeds
+	* Increase Range
+	* Faster take offs
+	* Decreased Stability
+	* Maybe uncontrollable
+	* Over rotation on take offs and flaring on landing
+	* lower stall speed
+* With a forward CG - fixed wing
+	* mostly the opposite of everything above
+	* easier stall recovery
+* Exceeding CG Limits (envelope of the aircraft)
+	* Uncontrollable
+	* Too far forward, can't get off the ground - fixed wing
+	* Too far aft, stall immediately - fixed wing
+	* For quad - motors have to work harder in an imbalance
+	* Make sure weight is also within limits
+
+### Altitude
+* As altitude increase, air pressure decreases
+* Performance will decrease because it's moving less air
+### Temperature
+* increased temperature means decreased performance
+* though battery efficiency decreases at low temperatures too, which will decrease performance
+### Humidity
+* increased humidity means decreased performance too.
+* humid air has more density, meaning more drag
+### Weight
+- Heavier weight requires more lift which usually requires faster speeds
+
+### Other factors to consider
+- Launch area
+- Surface
+- Surface Wind
+- Obstacles
