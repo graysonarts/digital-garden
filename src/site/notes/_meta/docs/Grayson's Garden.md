@@ -57,5 +57,6 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 - [[Atlas/MOCs/Photographers\|Photographers]]
 - [[Atlas/MOCs/Rust\|Rust]]
 - [[Atlas/MOCs/Color Grading\|Color Grading]]
+- [[Atlas/MOCs/Light Sculpture\|Light Sculpture]]
 
 { .block-language-dataview}
