@@ -46,16 +46,16 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 # Maps of Content
 - [[Atlas/MOCs/3D Printing\|3D Printing]]
-- [[Atlas/MOCs/AI\|AI]]
-- [[Atlas/MOCs/Acting\|Acting]]
 - [[Atlas/MOCs/Art\|Art]]
+- [[Atlas/MOCs/Acting\|Acting]]
 - [[Atlas/MOCs/Chocolate Making\|Chocolate Making]]
-- [[Atlas/MOCs/Color Grading\|Color Grading]]
+- [[Atlas/MOCs/AI\|AI]]
 - [[Atlas/MOCs/Food\|Food]]
-- [[Atlas/MOCs/Men's Style\|Men's Style]]
 - [[Atlas/MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]]
-- [[Atlas/MOCs/Photographers\|Photographers]]
+- [[Atlas/MOCs/Men's Style\|Men's Style]]
 - [[Atlas/MOCs/Pose Estimation\|Pose Estimation]]
+- [[Atlas/MOCs/Photographers\|Photographers]]
 - [[Atlas/MOCs/Rust\|Rust]]
+- [[Atlas/MOCs/Color Grading\|Color Grading]]
 
 { .block-language-dataview}
