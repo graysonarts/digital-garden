@@ -5,5 +5,6 @@
 - [[Inbox\|Inbox]]
 - [[Atlas/Understanding New Media Arts\|Understanding New Media Arts]]
 - [[Atlas/Laura Aguilar\|Laura Aguilar]]
+- [[Atlas/Atomic Notes/Light Sculpture\|Light Sculpture]]
 
 { .block-language-dataview}
