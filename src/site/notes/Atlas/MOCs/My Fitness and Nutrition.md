@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/my-fitness-and-nutrition/","tags":["📍"],"updated":"2024-11-09T07:32:24.724-08:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/my-fitness-and-nutrition/","tags":["📍"],"updated":"2025-10-07T14:28:12.356-07:00"}
 ---
 
 This page helps me track my own personal commitment to fitness and nutrition. It's a combination of journal and operating manual.
@@ -35,9 +35,14 @@ This page helps me track my own personal commitment to fitness and nutrition. It
 3. Energy Levels (daily)
 5. [[Atlas/Tracking your poop\|Digestion]] (daily)
 
+## Related Concepts
+- [[Atlas/Evergreen/Protein\|Protein]] - Foundational protein knowledge
+- [[Atlas/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]] - Practical protein application
+- [[Atlas/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research-based nutrition principles
+- [[Atlas/How to Design Your Life (My Process For Achieving Goals) - YouTube\|How to Design Your Life (My Process For Achieving Goals) - YouTube]] - Systematic goal-setting framework
+
 # Other Pages
 - [[Atlas/Mobility Routine\|Mobility Routine]]
-- [[Atlas/Evergreen/Protein\|Protein]]
 - [[Atlas/Atomic Notes/Why do we need to eat protein?\|Why do we need to eat protein?]]
 - [[Atlas/Atomic Notes/What is Protein\|What is Protein]]
 - [[Atlas/Atomic Notes/How much protein do we need to eat\|How much protein do we need to eat]]

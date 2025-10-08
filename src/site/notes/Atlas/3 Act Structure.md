@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/3-act-structure/","tags":["🌱","Screenwriting"],"updated":"2024-11-09T07:24:08.703-08:00"}
+{"dg-publish":true,"permalink":"/atlas/3-act-structure/","tags":["🌱","Screenwriting"],"updated":"2025-10-07T14:28:12.326-07:00"}
 ---
 
 
@@ -20,3 +20,8 @@
 
 # References
 - https://www.studiobinder.com/blog/three-act-structure/
+
+## Related Concepts
+- [[Atlas/Save The Cat\|Save The Cat]] - Alternative story structure framework
+- [[Atlas/Loglines\|Loglines]] - Story summaries that follow structure principles
+- [[Atlas/Made to Stick\|Made to Stick]] - Principles for creating memorable stories

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/protein-ice-cream/","title":"Protein Ice Cream","tags":["☢️","food","recipe"],"updated":"2025-08-26T20:08:35.525-07:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/protein-ice-cream/","title":"Protein Ice Cream","tags":["☢️","food","recipe"],"updated":"2025-10-07T14:28:12.356-07:00"}
 ---
 
 Here is the base that I use for my [Ninja Creami](https://amzn.to/3JBrxaw).
@@ -25,4 +25,9 @@ I usually add a splash of milk before processing in the creami for the first tim
 - Pudding Mix: Banana
 - Add before freezing: Cinnamon
 - Mix in: 1 banana for each half of the pint
-Notes: I know they say don’t use fresh fruit when mixing in, but I use a fresh banana. You can use frozen if you want.
+Notes: I know they say don't use fresh fruit when mixing in, but I use a fresh banana. You can use frozen if you want.
+
+## Related Concepts
+- [[Atlas/Evergreen/Protein\|Protein]] - Foundational protein knowledge
+- [[Atlas/MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework
+- [[Atlas/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research supporting protein intake

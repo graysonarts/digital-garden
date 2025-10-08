@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/rust-swift-interaction/","tags":["rust","swift"],"updated":"2024-10-29T17:37:39.660-07:00"}
+{"dg-publish":true,"permalink":"/atlas/rust-swift-interaction/","tags":["rust","swift"],"updated":"2025-10-07T14:28:12.323-07:00"}
 ---
 
 
@@ -19,8 +19,8 @@ The `CoreData` stack consists of:
 
 During startup, initialize the `NSPersistentContainer`
 
-```swift 
-    lazy var persistentContainer: NSPersistentContainer = {        
+```swift
+    lazy var persistentContainer: NSPersistentContainer = {
         let container = NSPersistentContainer(name: "DataModel")
         container.loadPersistentStores { description, error in
             if let error = error {
@@ -48,3 +48,8 @@ An Entity becomes a [NSManagedObject](https://developer.apple.com/documentation/
 If I want to support syncing across devices (probably not in v1), I will need to use [CloudKit](https://developer.apple.com/documentation/coredata/mirroring_a_core_data_store_with_cloudkit) which handles the syncing automatically. The `CoreData` backend needs to be an `NSSqliteStoreType` in order to support `CloudKit` so it makes sense to only use that store type for this.
 
 `UniFFI-rs` provides a bindgen style interface for Swift and other languages. https://mozilla.github.io/uniffi-rs/
+
+## Related Concepts
+- [[Atlas/MOCs/Rust\|Rust]] - Main MOC for Rust programming resources
+- [[Atlas/Typestate\|Typestate]] - Advanced Rust patterns for state management
+- [[Atlas/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]] - Performance optimization techniques

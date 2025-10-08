@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/evergreen/protein/","tags":["nutrition","food","🏆","🌲"],"updated":"2024-11-09T07:31:38.504-08:00"}
+{"dg-publish":true,"permalink":"/atlas/evergreen/protein/","tags":["nutrition","food","🏆","🌲"],"updated":"2025-10-07T14:28:12.356-07:00"}
 ---
 
 
@@ -58,3 +58,9 @@ For me, at 155lbs (~70g BW), I eat between 120-180gs per day depending on the da
 Original Note: [[Atlas/Evergreen/Protein\|Protein]]
 
 </div></div>
+
+
+## Related Concepts
+- [[Atlas/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]] - Practical protein application
+- [[Atlas/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research supporting protein importance
+- [[Atlas/MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework

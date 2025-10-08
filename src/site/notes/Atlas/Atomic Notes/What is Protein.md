@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/what-is-protein/","tags":["🏆","☢️"],"updated":"2024-11-09T07:31:15.738-08:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/what-is-protein/","tags":["🏆","☢️"],"updated":"2024-11-09T07:38:29.326-08:00"}
 ---
 
 # [[Atlas/Atomic Notes/What is Protein\|What is Protein]]

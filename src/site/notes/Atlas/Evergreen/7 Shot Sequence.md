@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/7-shot-sequence/","tags":["film-production","🌲"],"updated":"2025-10-07T14:28:12.350-07:00"}
+{"dg-publish":true,"permalink":"/atlas/evergreen/7-shot-sequence/","tags":["film-production","🌲"],"updated":"2025-10-07T14:24:40.293-07:00"}
 ---
 
 

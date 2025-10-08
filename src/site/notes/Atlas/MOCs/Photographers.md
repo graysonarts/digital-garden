@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/photographers/","tags":["📍","photographers"],"updated":"2024-10-29T18:06:42.277-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/photographers/","tags":["📍","photographers"],"updated":"2025-10-07T14:28:12.356-07:00"}
 ---
 
 ## Love
@@ -16,8 +16,12 @@
 ## To Explore
 - [[Dylan Rosser\|Dylan Rosser]]
 - [[Jaco Moretti\|Jaco Moretti]]
-- [[Atlas/Laura Aguilar\|Laura Aguilar]] 
+- [[Atlas/Laura Aguilar\|Laura Aguilar]]
 - [[Graciela Iturbide\|Graciela Iturbide]]
 - [[Carrie Mae Weems\|Carrie Mae Weems]]
 - [[Stephanie Solina\|Stephanie Solina]]
 - [[Daisuke Yokota\|Daisuke Yokota]]
+
+## Related Concepts
+- [[Atlas/7 Shot Sequence\|7 Shot Sequence]] - Documentary photography techniques
+- [[Atlas/MOCs/Art\|Art]] - MOC for art research and exploration

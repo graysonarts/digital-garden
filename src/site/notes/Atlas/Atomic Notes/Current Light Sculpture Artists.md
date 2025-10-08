@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/current-light-sculpture-artists/","tags":["☢️","artresearch","lightsculpture"],"updated":"2025-10-07T08:12:29.370-07:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/current-light-sculpture-artists/","tags":["☢️","artresearch","lightsculpture"],"updated":"2025-10-07T14:16:14.828-07:00"}
 ---
 
-## Documented
+## DOCUMENTED
 
 _coming soon_
 ## TO EXPLORE
