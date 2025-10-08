@@ -3,9 +3,9 @@
 ---
 
 - [[Atlas/Understanding New Media Arts\|Understanding New Media Arts]]
-- [[Atlas/Atomic Notes/Five Fundamental Characteristics of Light Sculptures\|Five Fundamental Characteristics of Light Sculptures]]
 - [[Atlas/MOCs/Light Sculpture\|Light Sculpture]]
-- [[Atlas/Atomic Notes/Current Light Sculpture Artists\|Current Light Sculpture Artists]]
 - [[Atlas/Laura Aguilar\|Laura Aguilar]]
+- [[Atlas/Atomic Notes/Five Fundamental Characteristics of Light Sculptures\|Five Fundamental Characteristics of Light Sculptures]]
+- [[Atlas/Atomic Notes/Current Light Sculpture Artists\|Current Light Sculpture Artists]]
 
 { .block-language-dataview}
