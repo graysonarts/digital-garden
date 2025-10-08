@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/how-to-design-your-life-my-process-for-achieving-goals-you-tube/","title":"How to Design Your Life (My Process For Achieving Goals) - YouTube","tags":["🌱"],"updated":"2025-07-17T12:51:16.849-07:00"}
+{"dg-publish":true,"permalink":"/atlas/how-to-design-your-life-my-process-for-achieving-goals-you-tube/","title":"How to Design Your Life (My Process For Achieving Goals) - YouTube","tags":["🌱"],"updated":"2025-10-07T14:28:12.356-07:00"}
 ---
 
 [How to Design Your Life (My Process For Achieving Goals) - YouTube](https://www.youtube.com/watch?v=Czru2CuWyxQ&list=TLPQMTcwNzIwMjX4Y6H_-kFw1A&index=6)
@@ -53,3 +53,8 @@ Most people wake up at 20, 30, 40, or 50 years old realizing they don't know how
 Alex credits this systematic approach for transforming his life from ages 26-30, going from being an average student who hadn't accomplished much to becoming highly productive and contributing meaningfully to the world.
 
 The video ends with a product placement for a biomat device for stress relief and relaxation.
+
+## Related Concepts
+- [[Atlas/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Sustainable habit formation principles
+- [[Atlas/MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal application of systematic goal-setting
+- [[Atlas/Made to Stick\|Made to Stick]] - Principles for creating memorable and effective systems

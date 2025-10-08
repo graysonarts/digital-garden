@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/variational-autoencoder/","tags":["☢️","#ai"],"updated":"2024-11-09T07:33:55.709-08:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/variational-autoencoder/","tags":["☢️","#ai"],"updated":"2024-11-09T07:39:29.264-08:00"}
 ---
 
 

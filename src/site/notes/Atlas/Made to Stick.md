@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/made-to-stick/","title":"Made to Stick","tags":["🌱","📚"],"updated":"2025-07-25T08:01:29.131-07:00"}
+{"dg-publish":true,"permalink":"/atlas/made-to-stick/","title":"Made to Stick","tags":["🌱","📚"],"updated":"2025-10-07T14:28:12.356-07:00"}
 ---
 
 Purchase the book: $[Made to Stick](https://amzn.to/4mfWzTu)
@@ -25,3 +25,9 @@ The 6 principles of making a story stick are:
 **Stories** are always memorable when told well with proper structure. Remember to establish the existing world, the challenges, how the person overcame the challenges, and the outcome. There are 3 types of plots: The Challenge Plot (I did a thing with great adversity), The Creativity Plot (I had an epiphany that allowed me to do a thing), and the Connection Plot (We came together across a social gap to do a thing).
 
 Sticky stories are understandable, memorable, and effective in changing thoughts or behaviors.
+
+## Related Concepts
+- [[Atlas/3 Act Structure\|3 Act Structure]] - Story structure framework for memorable narratives
+- [[Atlas/Save The Cat\|Save The Cat]] - Alternative story structure approach
+- [[Atlas/Loglines\|Loglines]] - Compelling story summaries
+- [[Atlas/How to Design Your Life (My Process For Achieving Goals) - YouTube\|How to Design Your Life (My Process For Achieving Goals) - YouTube]] - Systematic approach to goal achievement

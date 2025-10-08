@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/laura-aguilar/","tags":["photographers","artresearch","🌱"],"updated":"2024-10-29T14:23:34.716-07:00"}
+{"dg-publish":true,"permalink":"/atlas/laura-aguilar/","tags":["photographers","artresearch","🌱"],"updated":"2025-10-07T14:28:12.345-07:00"}
 ---
 
 # [[Atlas/Laura Aguilar\|Laura Aguilar]]
@@ -12,7 +12,7 @@
 
 ## Influences
 
-- 
+-
 
 ## Works of Interest
 
@@ -32,3 +32,8 @@ https://www.mutualart.com/Artwork/Two-works---Clothed---Unclothed--16/BF482B351E
 ## References
 - https://en.m.wikipedia.org/wiki/Laura_Aguilar
 - http://www.oac.cdlib.org/findaid/ark:/13030/tf1n39n516/
+
+## Related Concepts
+- [[Atlas/MOCs/Photographers\|Photographers]] - MOC for photographer exploration
+- [[Atlas/7 Shot Sequence\|7 Shot Sequence]] - Documentary photography techniques
+- [[Atlas/MOCs/Art\|Art]] - MOC for art research and exploration

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/why-do-we-need-to-eat-protein/","tags":["☢️","🏆"],"updated":"2024-11-09T07:31:07.777-08:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/why-do-we-need-to-eat-protein/","tags":["☢️","🏆"],"updated":"2024-11-09T07:38:28.265-08:00"}
 ---
 
 # [[Atlas/Atomic Notes/Why do we need to eat protein?\|Why do we need to eat protein?]]

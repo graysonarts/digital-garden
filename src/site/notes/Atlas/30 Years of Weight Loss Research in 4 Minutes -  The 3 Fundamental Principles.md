@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/30-years-of-weight-loss-research-in-4-minutes-the-3-fundamental-principles/","title":"30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles","tags":["🌱"],"updated":"2025-07-17T12:47:41.209-07:00"}
+{"dg-publish":true,"permalink":"/atlas/30-years-of-weight-loss-research-in-4-minutes-the-3-fundamental-principles/","title":"30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles","tags":["🌱"],"updated":"2025-10-07T14:28:12.323-07:00"}
 ---
 
 
@@ -48,3 +48,9 @@ The $70 billion weight loss industry overcomplicates things with marketing promi
 Instead of asking "which diet is best," ask "which approach can I actually maintain with my schedule and preferences?" The science shows that sustainability ultimately determines success in weight loss.
 
 The video concludes with a reference to another video showing what Dr. Go eats during his surgical days for practical meal planning guidance.
+
+## Related Concepts
+- [[Atlas/Evergreen/Protein\|Protein]] - Detailed protein information supporting principle #2
+- [[Atlas/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]] - Practical protein application
+- [[Atlas/MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework
+- [[Atlas/How to Design Your Life (My Process For Achieving Goals) - YouTube\|How to Design Your Life (My Process For Achieving Goals) - YouTube]] - Goal-setting framework for sustainable habits

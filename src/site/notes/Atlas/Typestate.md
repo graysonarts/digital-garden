@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/typestate/","updated":"2024-10-29T17:52:28.624-07:00"}
+{"dg-publish":true,"permalink":"/atlas/typestate/","updated":"2025-10-07T14:28:12.327-07:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 ### [[Atlas/MOCs/Rust\|Rust]]
 
-```rust 
+```rust
 struct State { /* data here */}
 struct TopLevelObject<S: TypeState> {
    state: Box<State>
@@ -41,3 +41,8 @@ interface State2 { }
 
 - https://catchts.com/type-state
 - https://www.azavea.com/blog/2019/12/12/modeling-state-with-typescript/
+
+## Related Concepts
+- [[Atlas/MOCs/Rust\|Rust]] - Main MOC for Rust programming patterns
+- [[Atlas/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]] - Performance optimization techniques
+- [[Atlas/Rust-Swift Interaction\|Rust-Swift Interaction]] - Cross-platform development patterns

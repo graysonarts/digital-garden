@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/bernoulli-s-principle/","tags":["☢️"],"updated":"2025-09-12T06:18:30.076-07:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/bernoulli-s-principle/","tags":["☢️"],"updated":"2025-10-07T14:16:07.356-07:00"}
 ---
 
 ## Applied to Aircrafts

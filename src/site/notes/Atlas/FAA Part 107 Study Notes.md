@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/faa-part-107-study-notes/","tags":["🌱"],"updated":"2025-09-13T06:10:24.585-07:00"}
+{"dg-publish":true,"permalink":"/atlas/faa-part-107-study-notes/","tags":["🌱"],"updated":"2025-10-07T14:16:07.608-07:00"}
 ---
 
 # Important References
