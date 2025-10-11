@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/rust-swift-interaction/","tags":["rust","swift"],"updated":"2025-10-07T14:28:12.323-07:00"}
+{"dg-publish":true,"permalink":"/atlas/rust-swift-interaction/","tags":["rust","swift"],"updated":"2025-10-07T14:24:50.803-07:00"}
 ---
 
 

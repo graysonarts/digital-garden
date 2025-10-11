@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/evergreen/red-green-yellow-food-list/","tags":["health","nutrition","food","🏆","🌲"],"updated":"2024-11-09T07:38:33.274-08:00"}
+{"dg-publish":true,"permalink":"/atlas/evergreen/red-green-yellow-food-list/","tags":["health","nutrition","food","🏆","🌲"],"updated":"2024-11-09T07:32:41.559-08:00"}
 ---
 
 There is no such thing as "Good" foods and "Bad" foods, but there are foods that I should eat more of, and foods that I should eat less of.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/3-d-printing-work-queue/","title":"I have too many things to 3D Print!","tags":["3dprint"],"updated":"2025-06-16T06:53:17.913-07:00"}
+{"dg-publish":true,"permalink":"/atlas/3-d-printing-work-queue/","title":"I have too many things to 3D Print!","tags":["3dprint"],"updated":"2025-06-07T11:15:28.851-07:00"}
 ---
 
 # I have too many things to 3D Print!

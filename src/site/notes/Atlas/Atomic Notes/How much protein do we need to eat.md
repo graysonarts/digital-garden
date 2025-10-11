@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/how-much-protein-do-we-need-to-eat/","tags":["☢️","🏆"],"updated":"2024-11-09T07:38:31.262-08:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/how-much-protein-do-we-need-to-eat/","tags":["☢️","🏆"],"updated":"2024-11-09T07:31:57.972-08:00"}
 ---
 
 

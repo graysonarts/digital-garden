@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/protein-ice-cream/","title":"Protein Ice Cream","tags":["☢️","food","recipe"],"updated":"2025-10-07T14:28:12.356-07:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/protein-ice-cream/","title":"Protein Ice Cream","tags":["☢️","food","recipe"],"updated":"2025-10-07T14:24:33.977-07:00"}
 ---
 
 Here is the base that I use for my [Ninja Creami](https://amzn.to/3JBrxaw).
