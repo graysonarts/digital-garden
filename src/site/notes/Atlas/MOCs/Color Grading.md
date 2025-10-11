@@ -3,7 +3,7 @@
 ---
 
 ## Resources
-![[color-management-cheat-sheet.pdf]]
+![[color-management-cheat-sheet.pdf\|color-management-cheat-sheet.pdf]]
 
 ```cardlink
 url: https://www.youtube.com/watch?v=aB8ku9ET-dw

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/tracking-your-poop/","tags":["🌱","health","biofeedback"],"updated":"2024-11-07T16:08:24.146-08:00"}
+{"dg-publish":true,"permalink":"/atlas/tracking-your-poop/","tags":["🌱","health","biofeedback"],"updated":"2024-11-07T15:50:40.441-08:00"}
 ---
 
 

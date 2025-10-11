@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/current-light-sculpture-artists/","tags":["☢️","artresearch","lightsculpture"],"updated":"2025-10-07T14:16:14.828-07:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/current-light-sculpture-artists/","tags":["☢️","artresearch","lightsculpture"],"updated":"2025-10-08T15:07:34.906-07:00"}
 ---
 
 ## DOCUMENTED
 
-_coming soon_
+- [[Atlas/Evergreen/HC Gilje\|HC Gilje]]
 ## TO EXPLORE
 
 - [Jim Campbell](https://www.jimcampbell.tv/)

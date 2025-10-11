@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mo-cs/art/","tags":["📍"],"updated":"2024-11-01T11:00:31.153-07:00"}
+{"dg-publish":true,"permalink":"/atlas/mo-cs/art/","tags":["📍"],"updated":"2024-10-29T18:27:52.591-07:00"}
 ---
 
 - [[Atlas/Understanding New Media Arts\|Understanding New Media Arts]]

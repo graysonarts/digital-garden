@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/atomic-notes/capsule-wardrobe/","title":"Capsule Wardrobe","tags":["☢️","🌱"],"updated":"2025-03-31T15:18:34.891-07:00"}
+{"dg-publish":true,"permalink":"/atlas/atomic-notes/capsule-wardrobe/","title":"Capsule Wardrobe","tags":["☢️","🌱"],"updated":"2025-03-31T14:31:10.456-07:00"}
 ---
 
 # Capsule Wardrobe

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/made-to-stick/","title":"Made to Stick","tags":["🌱","📚"],"updated":"2025-10-07T14:28:12.356-07:00"}
+{"dg-publish":true,"permalink":"/atlas/made-to-stick/","title":"Made to Stick","tags":["🌱","📚"],"updated":"2025-10-07T14:24:50.803-07:00"}
 ---
 
 Purchase the book: $[Made to Stick](https://amzn.to/4mfWzTu)

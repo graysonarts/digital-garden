@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/30-years-of-weight-loss-research-in-4-minutes-the-3-fundamental-principles/","title":"30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles","tags":["🌱"],"updated":"2025-10-07T14:28:12.323-07:00"}
+{"dg-publish":true,"permalink":"/atlas/30-years-of-weight-loss-research-in-4-minutes-the-3-fundamental-principles/","title":"30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles","tags":["🌱"],"updated":"2025-10-07T14:24:50.784-07:00"}
 ---
 
 
