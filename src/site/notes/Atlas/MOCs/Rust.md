@@ -39,8 +39,8 @@
 
 ## Rust Pages
 - [[Efforts/The Rust Garden/Adding Stripe Subscriptions to rust axum\|Adding Stripe Subscriptions to rust axum]]
-- [[Atlas/SwiftUI + SwiftData + Rust Domain Core\|SwiftUI + SwiftData + Rust Domain Core]]
 - [[Atlas/Rust on ESP32\|Rust on ESP32]]
+- [[Atlas/SwiftUI + SwiftData + Rust Domain Core\|SwiftUI + SwiftData + Rust Domain Core]]
 - [[Atlas/Leptos Iterating over collections with update\|Leptos Iterating over collections with update]]
 - [[Atlas/Embedded Rust on RP2040\|Embedded Rust on RP2040]]
 - [[Atlas/Atomic Notes/Leptos Generic Component Prop\|Leptos Generic Component Prop]]

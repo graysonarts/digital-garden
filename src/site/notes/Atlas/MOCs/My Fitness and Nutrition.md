@@ -42,6 +42,7 @@ This page helps me track my own personal commitment to fitness and nutrition. It
 - [[Atlas/How to Design Your Life (My Process For Achieving Goals) - YouTube\|How to Design Your Life (My Process For Achieving Goals) - YouTube]] - Systematic goal-setting framework
 
 # Other Pages
+- [[Atlas/Current Workout Plan\|Current Workout Plan]]
 - [[Atlas/Mobility Routine\|Mobility Routine]]
 - [[Atlas/Atomic Notes/Why do we need to eat protein?\|Why do we need to eat protein?]]
 - [[Atlas/Atomic Notes/What is Protein\|What is Protein]]
