@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/color-grading/","tags":["📍","film-production"],"updated":"2025-10-18T21:23:28.543-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/color-grading/","tags":["film-production","📍_MOC"],"updated":"2025-10-18T22:32:49.034-07:00"}
 ---
 
 ## Resources

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/photographers/","tags":["📍","photographers"],"updated":"2025-10-18T21:23:28.531-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/photographers/","tags":["photographers","📍_MOC"],"updated":"2025-10-18T22:33:26.452-07:00"}
 ---
 
 ## Love

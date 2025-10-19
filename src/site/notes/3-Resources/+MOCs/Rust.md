@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/rust/","tags":["📍","programming"],"updated":"2025-10-18T21:23:28.509-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/rust/","tags":["programming","📍_MOC"],"updated":"2025-10-18T22:33:40.193-07:00"}
 ---
 
 ## Patterns

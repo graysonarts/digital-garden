@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/my-fitness-and-nutrition/","tags":["📍"],"updated":"2025-10-18T21:23:28.567-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/my-fitness-and-nutrition/","tags":["📍_MOC"],"updated":"2025-10-18T22:33:19.820-07:00"}
 ---
 
 This page helps me track my own personal commitment to fitness and nutrition. It's a combination of journal and operating manual.

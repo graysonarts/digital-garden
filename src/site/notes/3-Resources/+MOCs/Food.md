@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/food/","tags":["📍"],"updated":"2025-10-18T21:23:28.503-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/food/","tags":["📍_MOC"],"updated":"2025-10-18T22:32:55.553-07:00"}
 ---
 
 # Things to Try
