@@ -87,7 +87,6 @@ Reference materials organized by topic for easy discovery and learning.
 
 | Resource                                                                                                                                                                                            | Category                         | Description |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | ----------- |
-| [[3-Resources/Anime Drawing Curriculum\|Anime Drawing Curriculum]]                                                                                                                               | 3-Resources                      | \-          |
 | [[3-Resources/+MOCs/Acting\|Acting]]                                                                                                                                                             | 3-Resources/+MOCs                | \-          |
 | [[3-Resources/+MOCs/Art\|Art]]                                                                                                                                                                   | 3-Resources/+MOCs                | \-          |
 | [[3-Resources/+MOCs/Light Sculpture\|Light Sculpture]]                                                                                                                                           | 3-Resources/+MOCs                | \-          |

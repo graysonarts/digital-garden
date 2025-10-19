@@ -19,7 +19,7 @@ Central hub for all Rust-related learning, projects, and resources.
 - [[3-Resources/Rust Development/Rust-Swift Interaction\|Rust-Swift Interaction]] - Cross-platform development
 
 ## Projects & Applications
-- [[1-Projects/Technical/MicroSaaS\|MicroSaaS]] - Software as a service
+- [[1-Projects/Technical/MicroSaaS/MicroSaaS\|MicroSaaS]] - Software as a service
 - [[1-Projects/Technical/Don't Ask me to develop your MVP as homework\|Don't Ask me to develop your MVP as homework]] - Consulting work
 
 ## Development Practices

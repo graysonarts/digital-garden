@@ -17,15 +17,15 @@ Central hub for photography projects, techniques, and creative development.
 ## Techniques & Skills
 - [[3-Resources/Sources/5 tips for making a Successful Photography Project - Documentary with Daniel Milnor\|5 tips for making a Successful Photography Project - Documentary with Daniel Milnor]] - Documentary approach
 - [[3-Resources/Sources/How to find Photo Subjects\|How to find Photo Subjects]] - Subject selection
-- [[3-Resources/Film and Photography/3 Levels of Camera Controls\|3 Levels of Camera Controls]] - Technical mastery
+- [[4-Archives/Projects/3 Levels of Camera Controls/3 Levels of Camera Controls\|3 Levels of Camera Controls]] - Technical mastery
 - [[3-Resources/Evergreen/7 Shot Sequence\|7 Shot Sequence]] - Composition techniques
 
 ## Business & Publishing
 - [[3-Resources/Sources/Personal Photography Projects and Publishing\|Sources/Personal Photography Projects and Publishing]] - Publishing strategy
-- [[3-Resources/Film and Photography/Film Industry Relationship Management Platform\|Film Industry Relationship Management Platform]] - Industry networking
+- [[1-Projects/Technical/Film Industry Platform/Film Industry Relationship Management Platform\|Film Industry Relationship Management Platform]] - Industry networking
 
 ## Creative Projects
-- [[4-Archives/Projects/On Hold/Major Arcana Portraits\|Major Arcana Portraits]] - Portrait series
+- [[4-Archives/Projects/Major Arcana Portraits/Major Arcana Portraits\|Major Arcana Portraits]] - Portrait series
 - [[3-Resources/Self Portraits\|Self Portraits]] - Self-portrait work
 - [[Street Portraits of the gays of Seattle\|Street Portraits of the gays of Seattle]] - Community project
 
