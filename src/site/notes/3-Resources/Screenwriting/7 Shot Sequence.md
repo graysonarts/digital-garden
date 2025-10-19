@@ -35,5 +35,5 @@ This is where you should get creative, you've got everything else in the bag, no
 
 ## Related Concepts
 - [[3-Resources/+MOCs/Photographers\|Photographers]] - MOC for photographer exploration
-- [[Atlas/Laura Aguilar\|Laura Aguilar]] - Documentary photographer using similar techniques
+- [[3-Resources/Film & Photography/Laura Aguilar\|Laura Aguilar]] - Documentary photographer using similar techniques
 - [[3-Resources/+MOCs/Art\|Art]] - MOC for art research and exploration

@@ -39,7 +39,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 
 ## Current Learnings
-- Studying for my [[Atlas/FAA Part 107 Study Notes\|FAA Part 107 Remote Pilot license]]
+- Studying for my [[3-Resources/Technical/FAA Part 107 Study Notes\|FAA Part 107 Remote Pilot license]]
 
 
 </div></div>

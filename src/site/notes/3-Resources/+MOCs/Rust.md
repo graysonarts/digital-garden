@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/rust/","tags":["programming","📍_MOC"],"updated":"2025-10-18T22:33:40.193-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/rust/","tags":["programming","📍_MOC"],"updated":"2025-10-18T23:15:36.472-07:00"}
 ---
 
 ## Patterns
@@ -9,7 +9,7 @@
 
 ## Features
 
-- [[Atlas/ProcMacros\|Atlas/ProcMacros]]
+- [[3-Resources/Rust Development/The Rust Garden/ProcMacros\|ProcMacros]]
 
 ## Helpful Crates
 
@@ -26,20 +26,20 @@
 ### Docker - Alpine
 
 - `can't link to -lssl and -lcrypto` set `ENV OPENSSL_DIR=/usr` in the docker file. https://github.com/rust-lang/rust/issues/115450
- 
+
 ## References
 
 - [https://github.com/dtolnay/proc-macro-workshop](https://github.com/dtolnay/proc-macro-workshop)
 - [https://developerlife.com/2022/03/30/rust-proc-macro/](https://developerlife.com/2022/03/30/rust-proc-macro/)
-- [[Atlas/Sources/Books/Rust for Rustaceans\|Rust for Rustaceans]]
+- [[3-Resources/Sources/Books/Rust for Rustaceans\|Rust for Rustaceans]]
 - [[3-Resources/Rust Development/Rust-Swift Interaction\|Rust-Swift Interaction]]
-- [[Atlas/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]]
+- [[3-Resources/Rust Development/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]]
 - https://dev.to/msc29/practical-clean-architecture-in-typescript-rust-python-3a6d
 - https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
 
 ## Rust Pages
-- [[Atlas/Leptos Iterating over collections with update\|Leptos Iterating over collections with update]]
-- [[Atlas/SwiftUI + SwiftData + Rust Domain Core\|SwiftUI + SwiftData + Rust Domain Core]]
+- [[3-Resources/Rust Development/Leptos Iterating over collections with update\|Leptos Iterating over collections with update]]
+- [[3-Resources/Rust Development/SwiftUI + SwiftData + Rust Domain Core\|SwiftUI + SwiftData + Rust Domain Core]]
 - [[3-Resources/Rust Development/The Rust Garden/Adding Stripe Subscriptions to rust axum\|Adding Stripe Subscriptions to rust axum]]
 - [[3-Resources/Rust Development/Rust on ESP32\|Rust on ESP32]]
 - [[3-Resources/Rust Development/Embedded Rust on RP2040\|Embedded Rust on RP2040]]

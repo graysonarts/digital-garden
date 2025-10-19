@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/screenwriting/screenwriting-moc/","title":"Screenwriting MOC","tags":["📍 - MOC","📝 - Writing"],"updated":"2025-10-18T21:23:29.478-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/screenwriting/screenwriting-moc/","title":"Screenwriting MOC","tags":["📍 - MOC","📝 - Writing"],"updated":"2025-10-18T23:15:36.472-07:00"}
 ---
 
 
@@ -8,10 +8,10 @@
 Central hub for screenwriting craft, projects, and industry knowledge.
 
 ## Story Structure
-- [[Atlas/3 Act Structure\|3 Act Structure]] - Three-act framework
+- [[3-Resources/Screenwriting/3 Act Structure\|3 Act Structure]] - Three-act framework
 - [[3-Resources/Screenwriting/7 Shot Sequence\|7 Shot Sequence]] - Visual storytelling
-- [[Atlas/Save The Cat\|Atlas/Save The Cat]] - Blake Snyder's method
-- [[Atlas/Made to Stick\|Atlas/Made to Stick]] - Memorable storytelling
+- [[3-Resources/Screenwriting/Save The Cat\|Save The Cat]] - Blake Snyder's method
+- [[3-Resources/Screenwriting/Made to Stick\|Made to Stick]] - Memorable storytelling
 
 
 ## Writing Practice

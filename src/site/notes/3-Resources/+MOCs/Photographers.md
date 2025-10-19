@@ -16,7 +16,7 @@
 ## To Explore
 - [[Dylan Rosser\|Dylan Rosser]]
 - [[Jaco Moretti\|Jaco Moretti]]
-- [[Atlas/Laura Aguilar\|Laura Aguilar]]
+- [[3-Resources/Film & Photography/Laura Aguilar\|Laura Aguilar]]
 - [[Graciela Iturbide\|Graciela Iturbide]]
 - [[Carrie Mae Weems\|Carrie Mae Weems]]
 - [[Stephanie Solina\|Stephanie Solina]]

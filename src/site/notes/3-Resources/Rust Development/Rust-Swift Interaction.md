@@ -52,4 +52,4 @@ If I want to support syncing across devices (probably not in v1), I will need to
 ## Related Concepts
 - [[3-Resources/+MOCs/Rust\|Rust]] - Main MOC for Rust programming resources
 - [[3-Resources/Rust Development/The Rust Garden/Typestate\|Typestate]] - Advanced Rust patterns for state management
-- [[Atlas/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]] - Performance optimization techniques
+- [[3-Resources/Rust Development/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]] - Performance optimization techniques

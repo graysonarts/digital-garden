@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/pose-estimation/","tags":["#ai","programming","📍_MOC"],"updated":"2025-10-18T22:33:34.249-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/pose-estimation/","tags":["#ai","programming","📍_MOC","🔧_Technology"],"updated":"2025-10-18T23:16:45.620-07:00"}
 ---
 
 ## Primary Topics

@@ -44,5 +44,5 @@ interface State2 { }
 
 ## Related Concepts
 - [[3-Resources/+MOCs/Rust\|Rust]] - Main MOC for Rust programming patterns
-- [[Atlas/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]] - Performance optimization techniques
+- [[3-Resources/Rust Development/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]] - Performance optimization techniques
 - [[3-Resources/Rust Development/Rust-Swift Interaction\|Rust-Swift Interaction]] - Cross-platform development patterns
