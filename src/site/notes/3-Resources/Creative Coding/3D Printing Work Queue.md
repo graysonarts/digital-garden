@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/creative-coding/3-d-printing-work-queue/","title":"I have too many things to 3D Print!","tags":["3dprint"],"updated":"2025-10-18T21:23:28.236-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/creative-coding/3-d-printing-work-queue/","title":"I have too many things to 3D Print!","tags":["3dprint","🔧_Technical","📝_Tracking_Note","🌱_Active"],"updated":"2025-10-19T09:19:59.957-07:00"}
 ---
 
 # I have too many things to 3D Print!

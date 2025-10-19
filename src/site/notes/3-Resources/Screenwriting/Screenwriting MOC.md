@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/screenwriting/screenwriting-moc/","title":"Screenwriting MOC","tags":["📍 - MOC","📝 - Writing"],"updated":"2025-10-18T23:15:36.472-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/screenwriting/screenwriting-moc/","title":"Screenwriting MOC","tags":["📍_MOC","🌲_Evergreen","📍_META"],"updated":"2025-10-19T08:11:02.483-07:00"}
 ---
 
 

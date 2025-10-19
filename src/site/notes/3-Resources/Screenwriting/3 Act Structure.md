@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/screenwriting/3-act-structure/","tags":["🌱_Processing","🎭_Screenwriting"],"updated":"2025-10-18T23:15:36.440-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/screenwriting/3-act-structure/","tags":["🎭_Screenwriting","☢️_Atomic","🌲_Evergreen"],"updated":"2025-10-19T08:10:41.603-07:00"}
 ---
 
 

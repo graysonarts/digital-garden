@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-development-moc/","title":"Rust Development MOC","tags":["📍 - MOC","💻 - Project"],"updated":"2025-10-18T21:23:28.105-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-development-moc/","title":"Rust Development MOC","tags":["📍_MOC","📍_META","🌲_Evergreen"],"updated":"2025-10-19T09:28:46.339-07:00"}
 ---
 
 

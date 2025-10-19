@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/ai/","tags":["📍_MOC"],"updated":"2025-10-18T22:32:13.411-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/ai/","tags":["📍_MOC","🔧_Technical","📍_META","🌲_Evergreen"],"updated":"2025-10-19T08:55:29.831-07:00"}
 ---
 
 "AI" in scare quotes because it's not really AI yet.

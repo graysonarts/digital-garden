@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/mo-cs/areas-dashboard/","title":"Areas Dashboard","tags":["📍_MOC"],"updated":"2025-10-18T22:34:22.369-07:00"}
+{"dg-publish":true,"permalink":"/2-areas/mo-cs/areas-dashboard/","title":"Areas Dashboard","tags":["📍_MOC","🌲_Evergreen","📍_META"],"updated":"2025-10-19T10:03:01.077-07:00"}
 ---
 
 
@@ -14,8 +14,9 @@ Ongoing responsibilities and practices that require regular attention.
 
 ## Creative Practice
 
-| Practice Area | Description | Tags | Last Updated |
-| ------------- | ----------- | ---- | ------------ |
+| Practice Area                                                                                                    | Description | Tags                                                                                    | Last Updated |
+| ---------------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------- | ------------ |
+| [[2-Areas/Creative Practice/Photography/camera/Analog Film Development Notes\|Analog Film Development Notes]] | \-          | <ul><li>🗒️_Note</li><li>🌱_Active</li><li>📸_Photography</li><li>analog-film</li></ul> | \-           |
 
 { .block-language-dataview}
 
@@ -33,8 +34,9 @@ Ongoing responsibilities and practices that require regular attention.
 
 ## All Areas Overview
 
-| Area | Category | Description | Last Updated |
-| ---- | -------- | ----------- | ------------ |
+| Area                                                                                                             | Category                                     | Description | Last Updated |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ----------- | ------------ |
+| [[2-Areas/Creative Practice/Photography/camera/Analog Film Development Notes\|Analog Film Development Notes]] | 2-Areas/Creative Practice/Photography/camera | \-          | \-           |
 
 { .block-language-dataview}
 

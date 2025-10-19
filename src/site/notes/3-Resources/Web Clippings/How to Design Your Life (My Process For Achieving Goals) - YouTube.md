@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/web-clippings/how-to-design-your-life-my-process-for-achieving-goals-you-tube/","title":"How to Design Your Life (My Process For Achieving Goals) - YouTube","tags":["🌱_Processing"],"updated":"2025-10-18T23:15:36.440-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/web-clippings/how-to-design-your-life-my-process-for-achieving-goals-you-tube/","title":"How to Design Your Life (My Process For Achieving Goals) - YouTube","tags":["🌱_Active","📖_Reference","🎯_Personal"],"updated":"2025-10-19T09:40:32.062-07:00"}
 ---
 
 [How to Design Your Life (My Process For Achieving Goals) - YouTube](https://www.youtube.com/watch?v=Czru2CuWyxQ&list=TLPQMTcwNzIwMjX4Y6H_-kFw1A&index=6)
@@ -55,6 +55,6 @@ Alex credits this systematic approach for transforming his life from ages 26-30,
 The video ends with a product placement for a biomat device for stress relief and relaxation.
 
 ## Related Concepts
-- [[3-Resources/Nutrition & Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Sustainable habit formation principles
+- [[3-Resources/Nutrition and Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Sustainable habit formation principles
 - [[3-Resources/+MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal application of systematic goal-setting
-- [[3-Resources/Sources/Books/Made to Stick\|Sources/Books/Made to Stick]] - Principles for creating memorable and effective systems
+- [[Atlas/Sources/Books/Made to Stick\|Sources/Books/Made to Stick]] - Principles for creating memorable and effective systems

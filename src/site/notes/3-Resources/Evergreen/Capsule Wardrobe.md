@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/evergreen/capsule-wardrobe/","title":"Capsule Wardrobe","tags":["☢️_Atomic","🌱_Processing"],"updated":"2025-10-18T23:14:23.446-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/evergreen/capsule-wardrobe/","title":"Capsule Wardrobe","tags":["☢️_Atomic","🌱_Active","🎯_Personal"],"updated":"2025-10-19T09:16:24.123-07:00"}
 ---
 
 # Capsule Wardrobe

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/creative-coding/vae/","updated":"2025-10-18T21:23:28.211-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/creative-coding/vae/","tags":["🌱_Active","🗒️_Note","🔧_Technical"],"updated":"2025-10-19T09:21:52.550-07:00"}
 ---
 
 ## Variational Autoencoder

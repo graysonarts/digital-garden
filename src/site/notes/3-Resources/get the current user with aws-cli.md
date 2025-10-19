@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/get-the-current-user-with-aws-cli/","tags":["aws","quicktip"],"updated":"2025-10-18T21:23:28.472-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/get-the-current-user-with-aws-cli/","tags":["aws","quicktip","🔧_Technical","☢️_Atomic","🌲_Evergreen"],"updated":"2025-10-19T09:07:23.980-07:00"}
 ---
 
 ```bash

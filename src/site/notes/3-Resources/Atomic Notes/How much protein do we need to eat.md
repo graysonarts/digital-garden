@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/how-much-protein-do-we-need-to-eat/","tags":["☢️_Atomic","🏆_health"],"updated":"2025-10-18T22:39:29.692-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/how-much-protein-do-we-need-to-eat/","tags":["☢️_Atomic","🍽️_Nutrition","🌲_Evergreen"],"updated":"2025-10-19T09:17:36.738-07:00"}
 ---
 
 

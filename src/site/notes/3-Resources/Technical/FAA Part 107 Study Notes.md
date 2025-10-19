@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/technical/faa-part-107-study-notes/","tags":["🌱_Processing"],"updated":"2025-10-18T23:14:20.686-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/technical/faa-part-107-study-notes/","tags":["🌱_Active","🗒️_Note","📚_Learning","🔧_Technical"],"updated":"2025-10-19T07:45:42.705-07:00"}
 ---
 
 # Important References

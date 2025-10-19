@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/photographers/","tags":["photographers","📍_MOC"],"updated":"2025-10-18T22:33:26.452-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/photographers/","tags":["📸_Photography","📍_MOC","🌲_Evergreen"],"updated":"2025-10-19T08:56:15.776-07:00"}
 ---
 
 ## Love
@@ -16,7 +16,7 @@
 ## To Explore
 - [[Dylan Rosser\|Dylan Rosser]]
 - [[Jaco Moretti\|Jaco Moretti]]
-- [[3-Resources/Film & Photography/Laura Aguilar\|Laura Aguilar]]
+- [[3-Resources/Film and Photography/Laura Aguilar\|Laura Aguilar]]
 - [[Graciela Iturbide\|Graciela Iturbide]]
 - [[Carrie Mae Weems\|Carrie Mae Weems]]
 - [[Stephanie Solina\|Stephanie Solina]]

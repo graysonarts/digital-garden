@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/screenwriting/7-shot-sequence/","tags":["🎬_Film","🌲_Evergreen"],"updated":"2025-10-18T22:46:47.364-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/screenwriting/7-shot-sequence/","tags":["🎬_Film","🌲_Evergreen","☢️_Atomic"],"updated":"2025-10-19T08:18:05.339-07:00"}
 ---
 
 
@@ -35,5 +35,5 @@ This is where you should get creative, you've got everything else in the bag, no
 
 ## Related Concepts
 - [[3-Resources/+MOCs/Photographers\|Photographers]] - MOC for photographer exploration
-- [[3-Resources/Film & Photography/Laura Aguilar\|Laura Aguilar]] - Documentary photographer using similar techniques
+- [[3-Resources/Film and Photography/Laura Aguilar\|Laura Aguilar]] - Documentary photographer using similar techniques
 - [[3-Resources/+MOCs/Art\|Art]] - MOC for art research and exploration

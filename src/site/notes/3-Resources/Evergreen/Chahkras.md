@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/evergreen/chahkras/","tags":["🌱_Processing","spirituality","meditation"],"updated":"2025-10-18T23:14:24.082-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/evergreen/chahkras/","tags":["spirituality","meditation","🌲_Evergreen","🎯_Personal","🗒️_Note"],"updated":"2025-10-19T09:16:24.443-07:00"}
 ---
 
 ## Root

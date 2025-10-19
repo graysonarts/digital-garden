@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-on-esp-32/","tags":["rust","embedded","esp32","🔧_Technology"],"updated":"2025-10-18T23:01:51.538-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-on-esp-32/","tags":["rust","embedded","esp32","🔧_Technical","🗒️_Note","🌱_Active"],"updated":"2025-10-19T09:28:34.181-07:00"}
 ---
 
 

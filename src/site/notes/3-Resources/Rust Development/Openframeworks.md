@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/openframeworks/","tags":["🌱_Processing","creative-coding","cpp","programming","openframeworks"],"updated":"2025-10-18T23:14:02.067-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/openframeworks/","tags":["🌱_Active","creative-coding","cpp","programming","openframeworks","🔧_Technical","🎨_Creative","🗒️_Note"],"updated":"2025-10-19T09:28:20.944-07:00"}
 ---
 
 

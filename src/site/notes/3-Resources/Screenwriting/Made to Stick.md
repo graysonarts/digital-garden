@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/screenwriting/made-to-stick/","title":"Made to Stick","tags":["🌱_Processing","📖_Book"],"updated":"2025-10-18T23:15:36.440-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/screenwriting/made-to-stick/","title":"Made to Stick","tags":["🌱_Active","📖_Reference","🎯_Personal"],"updated":"2025-10-19T09:16:24.788-07:00"}
 ---
 
 Purchase the book: $[Made to Stick](https://amzn.to/4mfWzTu)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/cloudfront-signed-cookies-and-s3-block-public-ac-ls/","tags":["aws","cloudfront","☢️_Atomic"],"updated":"2025-10-18T22:35:49.559-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/cloudfront-signed-cookies-and-s3-block-public-ac-ls/","tags":["aws","cloudfront","☢️_Atomic","🔧_Technical","🌲_Evergreen"],"updated":"2025-10-19T09:17:20.788-07:00"}
 ---
 
 

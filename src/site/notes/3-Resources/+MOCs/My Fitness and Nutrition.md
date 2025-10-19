@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/my-fitness-and-nutrition/","tags":["📍_MOC"],"updated":"2025-10-18T22:33:19.820-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/my-fitness-and-nutrition/","tags":["📍_MOC","🌲_Evergreen","🎯_Personal","🏆_Fitness","🍽️_Nutrition"],"updated":"2025-10-19T09:16:23.569-07:00"}
 ---
 
 This page helps me track my own personal commitment to fitness and nutrition. It's a combination of journal and operating manual.
@@ -28,17 +28,17 @@ This page helps me track my own personal commitment to fitness and nutrition. It
 3. Impedance Body Fat % (weekly)
 4. Dexa Scan (every 6 months)
 ## Food
-1. [[3-Resources/Nutrition & Fitness/Tracking with Food Portions\|Food Log ]] (daily)
+1. [[3-Resources/Nutrition and Fitness/Tracking with Food Portions\|Food Log ]] (daily)
 2. Water Intake (daily)
 ## Biofeedback
-1. [[3-Resources/Nutrition & Fitness/Tracking Sleep\|Sleep]] (daily)
+1. [[3-Resources/Nutrition and Fitness/Tracking Sleep\|Sleep]] (daily)
 3. Energy Levels (daily)
-5. [[3-Resources/Nutrition & Fitness/Tracking your poop\|Digestion]] (daily)
+5. [[3-Resources/Nutrition and Fitness/Tracking your poop\|Digestion]] (daily)
 
 ## Related Concepts
 - [[3-Resources/Evergreen/Protein\|Protein]] - Foundational protein knowledge
 - [[3-Resources/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]] - Practical protein application
-- [[3-Resources/Nutrition & Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research-based nutrition principles
+- [[3-Resources/Nutrition and Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research-based nutrition principles
 - [[3-Resources/Web Clippings/How to Design Your Life (My Process For Achieving Goals) - YouTube\|How to Design Your Life (My Process For Achieving Goals) - YouTube]] - Systematic goal-setting framework
 
 # Other Pages

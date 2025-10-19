@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/reverse-engineering-tentacle-sync-ble-protocol/","title":"Reverse Engineering Tentacle Sync BLE Protocol","tags":["🌱_Processing","reverse-engineering"],"updated":"2025-10-18T23:14:03.296-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/reverse-engineering-tentacle-sync-ble-protocol/","title":"Reverse Engineering Tentacle Sync BLE Protocol","tags":["🌱_Active","reverse-engineering","🔧_Technical","🗒️_Note"],"updated":"2025-10-19T09:29:31.541-07:00"}
 ---
 
 

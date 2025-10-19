@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/typestate/","updated":"2025-10-18T21:23:28.208-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/typestate/","tags":["☢️_Atomic","🌲_Evergreen","🔧_Technical"],"updated":"2025-10-19T09:22:15.078-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/anime-drawing-curriculum/","tags":["figure-drawing","art-curriculum","adhd-learning","digital-art","procreate"],"updated":"2025-10-18T21:23:29.120-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/anime-drawing-curriculum/","tags":["figure-drawing","art-curriculum","adhd-learning","digital-art","procreate","🌱_Active","📚_Learning","🎨_Creative","💻_Project_Doc"],"updated":"2025-10-19T08:50:52.672-07:00"}
 ---
 
 ## Meta Information

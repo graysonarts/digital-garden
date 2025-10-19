@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/wardrobe-potentials-list/","title":"Potential Purchases for Capsule Wardrobe","tags":["wardrobe","clothing","shopping"],"updated":"2025-10-18T21:23:28.242-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/wardrobe-potentials-list/","title":"Potential Purchases for Capsule Wardrobe","tags":["wardrobe","clothing","shopping","🗒️_Note","🎯_Personal","📥_New"],"updated":"2025-10-19T09:19:31.717-07:00"}
 ---
 
 # Potential Purchases for Capsule Wardrobe

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/recipes/dry-method-caramel/","tags":["🥗_Recipe"],"updated":"2025-10-18T22:39:58.245-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/recipes/dry-method-caramel/","tags":["🍽️_Nutrition","🌲_Evergreen","☢️_Atomic"],"updated":"2025-10-19T08:51:14.913-07:00"}
 ---
 
 Ratio of acid to sugar: 1:80

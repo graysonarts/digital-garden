@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/web-clippings/how-i-grew-from-0-to-100-k-subscribers-in-4-months-7-critical-mistakes-to-avoid/","title":"How I Grew from 0 to 100K Subscribers in 4 Months - 7 Critical Mistakes to Avoid","tags":["🌱_Processing"],"updated":"2025-10-18T23:14:16.873-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/web-clippings/how-i-grew-from-0-to-100-k-subscribers-in-4-months-7-critical-mistakes-to-avoid/","title":"How I Grew from 0 to 100K Subscribers in 4 Months - 7 Critical Mistakes to Avoid","tags":["📖_Reference","🎨_Creative","🌲_Evergreen"],"updated":"2025-10-19T09:47:55.650-07:00"}
 ---
 
 

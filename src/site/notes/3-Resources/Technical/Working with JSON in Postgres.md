@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/technical/working-with-json-in-postgres/","tags":["postgres","json","quicktip"],"updated":"2025-10-18T21:23:29.081-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/technical/working-with-json-in-postgres/","tags":["postgres","json","quicktip","🌲_Evergreen","🗒️_Note","🔧_Technical"],"updated":"2025-10-19T07:45:59.298-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/variational-autoencoder/","tags":["☢️_Atomic","#ai","🔧_Technology"],"updated":"2025-10-18T23:17:33.533-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/variational-autoencoder/","tags":["☢️_Atomic","#ai","🔧_Technical","🌲_Evergreen"],"updated":"2025-10-19T09:18:07.560-07:00"}
 ---
 
 

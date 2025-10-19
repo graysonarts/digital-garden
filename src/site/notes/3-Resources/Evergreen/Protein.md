@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/evergreen/protein/","tags":["🍽️_Food","🍽️_Food","🏆_health","🌲_Evergreen"],"updated":"2025-10-18T22:49:12.993-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/evergreen/protein/","tags":["🍽️_Nutrition","🏆_Fitness","🌲_Evergreen","🗒️_Note"],"updated":"2025-10-19T09:11:33.893-07:00"}
 ---
 
 
@@ -62,5 +62,5 @@ Original Note: [[3-Resources/Evergreen/Protein\|Protein]]
 
 ## Related Concepts
 - [[3-Resources/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]] - Practical protein application
-- [[3-Resources/Nutrition & Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research supporting protein importance
+- [[3-Resources/Nutrition and Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research supporting protein importance
 - [[3-Resources/+MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework

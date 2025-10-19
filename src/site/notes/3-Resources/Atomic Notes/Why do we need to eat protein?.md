@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/why-do-we-need-to-eat-protein/","tags":["☢️_Atomic","🏆_health"],"updated":"2025-10-18T22:39:29.749-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/why-do-we-need-to-eat-protein/","tags":["☢️_Atomic","🏆_Fitness","🌲_Evergreen"],"updated":"2025-10-19T09:16:42.686-07:00"}
 ---
 
 # Why do we need to eat protein?

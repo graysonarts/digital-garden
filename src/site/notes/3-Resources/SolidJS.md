@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/solid-js/","title":"SolidJS","tags":["javascript","typescript","solidjs"],"updated":"2025-10-18T21:23:28.095-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/solid-js/","title":"SolidJS","tags":["javascript","typescript","solidjs","🔧_Technical","🗒️_Note","📥_New"],"updated":"2025-10-19T09:30:09.907-07:00"}
 ---
 
 ## References

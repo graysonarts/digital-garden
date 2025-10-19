@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/newton-s-3rd-law/","tags":["☢️_Atomic"],"updated":"2025-10-18T22:35:50.956-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/newton-s-3rd-law/","tags":["☢️_Atomic","🔧_Technical","🌲_Evergreen"],"updated":"2025-10-19T09:18:16.706-07:00"}
 ---
 
 **For every action, there is an equal and opposite reaction.**

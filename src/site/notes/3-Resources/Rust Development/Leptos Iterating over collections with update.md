@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/leptos-iterating-over-collections-with-update/","tags":["🌱_Processing","rust","leptos","programming","🔧_Technology"],"updated":"2025-10-18T23:14:01.117-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/leptos-iterating-over-collections-with-update/","tags":["🌱_Active","rust","leptos","programming","🔧_Technical","🗒️_Note"],"updated":"2025-10-19T09:27:14.956-07:00"}
 ---
 
 # Iteration in Leptos

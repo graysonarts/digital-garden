@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-compile-time-optimizations/","tags":["🌱_Processing","rust","quicktip","🔧_Technology"],"updated":"2025-10-18T23:13:59.937-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-compile-time-optimizations/","tags":["🌱_Active","rust","quicktip","🔧_Technical","🗒️_Note"],"updated":"2025-10-19T09:29:07.470-07:00"}
 ---
 
 

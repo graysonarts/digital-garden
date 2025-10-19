@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/recipes/make-yogurt-in-instant-pot/","tags":["yogurt","🥗_Recipe"],"updated":"2025-10-18T22:39:58.248-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/recipes/make-yogurt-in-instant-pot/","tags":["yogurt","🍽️_Nutrition","🌲_Evergreen","☢️_Atomic"],"updated":"2025-10-19T08:51:03.562-07:00"}
 ---
 
 

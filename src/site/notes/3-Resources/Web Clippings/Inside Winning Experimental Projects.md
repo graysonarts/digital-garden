@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/web-clippings/inside-winning-experimental-projects/","tags":["🌱_Processing","creative-coding","installations"],"updated":"2025-10-18T23:14:16.874-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/web-clippings/inside-winning-experimental-projects/","tags":["🌱_Active","creative-coding","installations","📖_Reference","🎨_Creative"],"updated":"2025-10-19T09:34:02.051-07:00"}
 ---
 
 

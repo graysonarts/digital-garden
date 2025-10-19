@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/3-d-printing/","title":"3D Printing","tags":["📍_MOC"],"updated":"2025-10-18T22:32:20.782-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/3-d-printing/","title":"3D Printing","tags":["📍_MOC","🔧_Technical","📥_New"],"updated":"2025-10-19T08:57:09.163-07:00"}
 ---
 
 ## Printers I own

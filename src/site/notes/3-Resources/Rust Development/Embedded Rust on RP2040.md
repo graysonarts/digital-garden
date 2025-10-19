@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/embedded-rust-on-rp-2040/","title":"Embedded Rust on RP2040","tags":["rust","embedded","🔧_Technology","📍_MOC"],"updated":"2025-10-18T23:00:46.718-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/embedded-rust-on-rp-2040/","title":"Embedded Rust on RP2040","tags":["rust","embedded","🔧_Technical","📍_MOC","🌱_Active"],"updated":"2025-10-19T09:29:53.694-07:00"}
 ---
 
 ## Resources

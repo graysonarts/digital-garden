@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/current-light-sculpture-artists/","tags":["☢️_Atomic","artresearch","lightsculpture"],"updated":"2025-10-18T22:35:49.589-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/current-light-sculpture-artists/","tags":["☢️_Atomic","artresearch","lightsculpture","🌲_Evergreen","🎨_Creative"],"updated":"2025-10-19T09:14:28.764-07:00"}
 ---
 
 ## DOCUMENTED

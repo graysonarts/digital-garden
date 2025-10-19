@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/protein-ice-cream/","title":"Protein Ice Cream","tags":["☢️_Atomic","🍽️_Food","recipe"],"updated":"2025-10-18T22:42:56.375-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/protein-ice-cream/","title":"Protein Ice Cream","tags":["☢️_Atomic","🍽️_Nutrition","recipe","🌲_Evergreen"],"updated":"2025-10-19T09:17:45.105-07:00"}
 ---
 
 Here is the base that I use for my [Ninja Creami](https://amzn.to/3JBrxaw).
@@ -30,4 +30,4 @@ Notes: I know they say don't use fresh fruit when mixing in, but I use a fresh b
 ## Related Concepts
 - [[3-Resources/Evergreen/Protein\|Protein]] - Foundational protein knowledge
 - [[3-Resources/+MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework
-- [[3-Resources/Nutrition & Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research supporting protein intake
+- [[3-Resources/Nutrition and Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research supporting protein intake

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/technical/3-d-prints-to-make/","tags":["🌱_Processing","3dprint"],"updated":"2025-10-18T23:14:22.559-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/technical/3-d-prints-to-make/","tags":["🌱_Active","3dprint","📍_META","📝_Tracking_Note","🔧_Technical"],"updated":"2025-10-19T07:47:13.880-07:00"}
 ---
 
 Here are a list of interesting models that I've found online that would be useful to me.

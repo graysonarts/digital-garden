@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/action-thrillers-to-watch-and-read/","tags":["films/action","films/thrillers","#watch"],"updated":"2025-10-18T21:23:28.966-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/action-thrillers-to-watch-and-read/","tags":["#watch","🎬_Film","📝_Tracking_Note","🌱_Active"],"updated":"2025-10-19T08:19:06.423-07:00"}
 ---
 
 

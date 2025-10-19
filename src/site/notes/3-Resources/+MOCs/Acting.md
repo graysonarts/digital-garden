@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/acting/","tags":["acting","📍_MOC"],"updated":"2025-10-18T22:32:28.652-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/acting/","tags":["acting","📍_MOC","📥_New","🎨_Creative"],"updated":"2025-10-19T08:57:21.976-07:00"}
 ---
 
 # Resources

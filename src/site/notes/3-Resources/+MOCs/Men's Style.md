@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/mo-cs/men-s-style/","title":"Objective","tags":["clothing","style","men","📍_MOC"],"updated":"2025-10-18T22:33:13.245-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/mo-cs/men-s-style/","title":"Objective","tags":["clothing","style","men","🎯_Personal","🌱_Active","📚_Learning","🗒️_Note"],"updated":"2025-10-19T09:16:23.492-07:00"}
 ---
 
 > [!INFO]
