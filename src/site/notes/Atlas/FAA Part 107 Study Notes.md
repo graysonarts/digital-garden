@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/faa-part-107-study-notes/","tags":["🌱"],"updated":"2025-09-13T06:10:24.585-07:00"}
+{"dg-publish":true,"permalink":"/atlas/faa-part-107-study-notes/","tags":["🌱"],"updated":"2025-10-18T21:23:28.610-07:00"}
 ---
 
 # Important References
@@ -46,7 +46,7 @@
 * Lift is always perpendicular to the relative wind.
 * Proportional to speed of aircraft and angle of attack
 	* Faster speed or increase angle of attack = more lift
-* Lift is governed by [[Atlas/Atomic Notes/Newton's 3rd Law\|Newton's 3rd Law]] and [[Atlas/Atomic Notes/Bernoulli's Principle\|Bernoulli's Principle]]
+* Lift is governed by [[3-Resources/Atomic Notes/Newton's 3rd Law\|Newton's 3rd Law]] and [[3-Resources/Atomic Notes/Bernoulli's Principle\|Bernoulli's Principle]]
 ### Drag
 * Always perpendicular to the lift (basically, the relative wind)
 * _Resultant Force_ (airfoil) the total lift. From vector math, subtract the drag from the true lift, I think

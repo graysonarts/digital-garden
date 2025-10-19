@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/swift-ui-swift-data-rust-domain-core/","tags":["programming","🌱","rust","swift","software"],"updated":"2024-11-08T06:51:51.618-08:00"}
+{"dg-publish":true,"permalink":"/atlas/swift-ui-swift-data-rust-domain-core/","tags":["programming","🌱","rust","swift","software"],"updated":"2025-10-18T21:23:28.089-07:00"}
 ---
 
 # SwiftUI -> Rust -> SwiftData
@@ -196,31 +196,31 @@ uniffi::include_scaffolding!("corefunctionality");
 
 ---
 ## Create a basic swift project
-![CleanShot 2024-03-20 at 17.29.29.png](/img/user/_meta/attachments/CleanShot%202024-03-20%20at%2017.29.29.png)
+![CleanShot 2024-03-20 at 17.29.29.png](/img/user/!Meta/attachments/CleanShot%202024-03-20%20at%2017.29.29.png)
 
 ---
 
-![CleanShot 2024-03-20 at 17.30.06.png](/img/user/_meta/attachments/CleanShot%202024-03-20%20at%2017.30.06.png)
+![CleanShot 2024-03-20 at 17.30.06.png](/img/user/!Meta/attachments/CleanShot%202024-03-20%20at%2017.30.06.png)
 
 ---
 ## Create it next to your core-functionality crate
-![CleanShot 2024-03-20 at 17.30.44.png](/img/user/_meta/attachments/CleanShot%202024-03-20%20at%2017.30.44.png)
+![CleanShot 2024-03-20 at 17.30.44.png](/img/user/!Meta/attachments/CleanShot%202024-03-20%20at%2017.30.44.png)
 # Configure xcode to include the crate output
 ---
 ## Add a bridging header to the project
 
-![CleanShot 2024-03-20 at 17.40.03.png](/img/user/_meta/attachments/CleanShot%202024-03-20%20at%2017.40.03.png)
+![CleanShot 2024-03-20 at 17.40.03.png](/img/user/!Meta/attachments/CleanShot%202024-03-20%20at%2017.40.03.png)
 
 ---
 
 ## Add a build rule to generate the bindings
 
-![CleanShot 2024-03-20 at 18.26.30.png](/img/user/_meta/attachments/CleanShot%202024-03-20%20at%2018.26.30.png)
+![CleanShot 2024-03-20 at 18.26.30.png](/img/user/!Meta/attachments/CleanShot%202024-03-20%20at%2018.26.30.png)
 
 ---
 ## Add the .udl file to Compile Sources in the build phase
 
-![CleanShot 2024-03-20 at 18.11.53.png](/img/user/_meta/attachments/CleanShot%202024-03-20%20at%2018.11.53.png)
+![CleanShot 2024-03-20 at 18.11.53.png](/img/user/!Meta/attachments/CleanShot%202024-03-20%20at%2018.11.53.png)
 
 ---
 ## import your library header inside the bridging header
@@ -237,13 +237,13 @@ uniffi::include_scaffolding!("corefunctionality");
 ---
 ## Add the library to your project
 
-![CleanShot 2024-03-20 at 20.49.13.png](/img/user/_meta/attachments/CleanShot%202024-03-20%20at%2020.49.13.png)
+![CleanShot 2024-03-20 at 20.49.13.png](/img/user/!Meta/attachments/CleanShot%202024-03-20%20at%2020.49.13.png)
 
 ---
 
 ## Add the path to the library search path
 
-![CleanShot 2024-03-20 at 20.51.55.png](/img/user/_meta/attachments/CleanShot%202024-03-20%20at%2020.51.55.png)
+![CleanShot 2024-03-20 at 20.51.55.png](/img/user/!Meta/attachments/CleanShot%202024-03-20%20at%2020.51.55.png)
 
 ---
 

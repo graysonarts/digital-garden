@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/made-to-stick/","title":"Made to Stick","tags":["🌱","📚"],"updated":"2025-10-07T14:24:50.803-07:00"}
+{"dg-publish":true,"permalink":"/atlas/made-to-stick/","title":"Made to Stick","tags":["🌱","📚"],"updated":"2025-10-18T21:23:28.387-07:00"}
 ---
 
 Purchase the book: $[Made to Stick](https://amzn.to/4mfWzTu)
@@ -18,9 +18,9 @@ The 6 principles of making a story stick are:
 
 **Concreteness** is about using specific details. For example: "A man drove a car down the street" is generic. "A tall man in a red baseball cap sped down main street in his school-bus yellow Massaratti".
 
-**Credibility** has two sides: external credibility and internal credibility. External credibility are things like 10 years of experience, or a phd. Internal Credibility is about using specific details, speaking at Human Scale (when using statistics, speak at a scale that we can understand), and [[Atlas/Atomic Notes/The Sinatra Test\|The Sinatra Test]]
+**Credibility** has two sides: external credibility and internal credibility. External credibility are things like 10 years of experience, or a phd. Internal Credibility is about using specific details, speaking at Human Scale (when using statistics, speak at a scale that we can understand), and [[3-Resources/Atomic Notes/The Sinatra Test\|The Sinatra Test]]
 
-**Emotions** is about appealing to empathy, but here they talk about Maslow's hierarchy of needs. Most messages appeal to the base layer of the hierarchy, but it's more powerful to appeal to the top levels of the hierarchy. You can use [[Atlas/Atomic Notes/Semantic Stretching\|Semantic Stretching]], appealing to self interest, and focusing on an individual rather than a whole group.
+**Emotions** is about appealing to empathy, but here they talk about Maslow's hierarchy of needs. Most messages appeal to the base layer of the hierarchy, but it's more powerful to appeal to the top levels of the hierarchy. You can use [[3-Resources/Atomic Notes/Semantic Stretching\|Semantic Stretching]], appealing to self interest, and focusing on an individual rather than a whole group.
 
 **Stories** are always memorable when told well with proper structure. Remember to establish the existing world, the challenges, how the person overcame the challenges, and the outcome. There are 3 types of plots: The Challenge Plot (I did a thing with great adversity), The Creativity Plot (I had an epiphany that allowed me to do a thing), and the Connection Plot (We came together across a social gap to do a thing).
 
@@ -28,6 +28,6 @@ Sticky stories are understandable, memorable, and effective in changing thoughts
 
 ## Related Concepts
 - [[Atlas/3 Act Structure\|3 Act Structure]] - Story structure framework for memorable narratives
-- [[Atlas/Save The Cat\|Save The Cat]] - Alternative story structure approach
-- [[Atlas/Loglines\|Loglines]] - Compelling story summaries
+- [[Atlas/Save The Cat\|Atlas/Save The Cat]] - Alternative story structure approach
+- [[3-Resources/Screenwriting/Loglines\|Loglines]] - Compelling story summaries
 - [[Atlas/How to Design Your Life (My Process For Achieving Goals) - YouTube\|How to Design Your Life (My Process For Achieving Goals) - YouTube]] - Systematic approach to goal achievement

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/3-d-prints-to-make/","tags":["🌱","3dprint"],"updated":"2024-11-26T15:34:48.885-08:00"}
+{"dg-publish":true,"permalink":"/atlas/3-d-prints-to-make/","tags":["🌱","3dprint"],"updated":"2025-10-18T21:23:28.098-07:00"}
 ---
 
 Here are a list of interesting models that I've found online that would be useful to me.

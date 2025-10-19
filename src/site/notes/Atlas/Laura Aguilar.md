@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/laura-aguilar/","tags":["photographers","artresearch","🌱"],"updated":"2025-10-07T14:24:50.803-07:00"}
+{"dg-publish":true,"permalink":"/atlas/laura-aguilar/","tags":["photographers","artresearch","🌱"],"updated":"2025-10-18T21:23:28.407-07:00"}
 ---
 
-# [[Atlas/Laura Aguilar\|Laura Aguilar]]
+# Laura Aguilar
 
 ## Vitals
 
@@ -34,6 +34,6 @@ https://www.mutualart.com/Artwork/Two-works---Clothed---Unclothed--16/BF482B351E
 - http://www.oac.cdlib.org/findaid/ark:/13030/tf1n39n516/
 
 ## Related Concepts
-- [[Atlas/MOCs/Photographers\|Photographers]] - MOC for photographer exploration
-- [[Atlas/7 Shot Sequence\|7 Shot Sequence]] - Documentary photography techniques
-- [[Atlas/MOCs/Art\|Art]] - MOC for art research and exploration
+- [[3-Resources/+MOCs/Photographers\|Photographers]] - MOC for photographer exploration
+- [[3-Resources/Evergreen/7 Shot Sequence\|7 Shot Sequence]] - Documentary photography techniques
+- [[3-Resources/+MOCs/Art\|Art]] - MOC for art research and exploration

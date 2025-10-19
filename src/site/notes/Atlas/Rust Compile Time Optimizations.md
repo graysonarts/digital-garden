@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/rust-compile-time-optimizations/","tags":["🌱","rust","quicktip"],"updated":"2025-10-07T14:24:50.803-07:00"}
+{"dg-publish":true,"permalink":"/atlas/rust-compile-time-optimizations/","tags":["🌱","rust","quicktip"],"updated":"2025-10-18T21:23:28.190-07:00"}
 ---
 
 
--  **LLD linker**: The [[Atlas/MOCs/Rust\|Rust]] compiler spends a lot of time in the "link" step. LLD is _much faster_ at linking than the default [[Atlas/MOCs/Rust\|Rust]] linker. To install LLD, find your OS below and run the given command [^1]:
+-  **LLD linker**: The [[3-Resources/+MOCs/Rust\|Rust]] compiler spends a lot of time in the "link" step. LLD is _much faster_ at linking than the default [[3-Resources/+MOCs/Rust\|Rust]] linker. To install LLD, find your OS below and run the given command [^1]:
 
     -   **Ubuntu**: `sudo apt-get install lld`
 
@@ -21,6 +21,6 @@
 [^1]: https://bevyengine.org/learn/book/getting-started/setup/
 
 ## Related Concepts
-- [[Atlas/MOCs/Rust\|Rust]] - Main MOC for Rust programming resources
-- [[Atlas/Typestate\|Typestate]] - Advanced Rust patterns for state management
-- [[Atlas/Rust-Swift Interaction\|Rust-Swift Interaction]] - Cross-platform development considerations
+- [[3-Resources/+MOCs/Rust\|Rust]] - Main MOC for Rust programming resources
+- [[3-Resources/Typestate\|Typestate]] - Advanced Rust patterns for state management
+- [[3-Resources/Rust Development/Rust-Swift Interaction\|Rust-Swift Interaction]] - Cross-platform development considerations

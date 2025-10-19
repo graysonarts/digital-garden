@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-system/core-system/","title":"The Root","updated":"2025-09-08T05:08:09.524-07:00"}
+{"dg-publish":true,"permalink":"/core-system/core-system/","title":"The Root","updated":"2025-10-18T16:28:19.448-07:00"}
 ---
 
 *****I will do my best to (a) follow the processes documented here; and (b) on a regular basis evaluate these processes and update the document to better reflect what's working and what's not, as well as what's important to me and what's not**
@@ -15,7 +15,7 @@ I work on the most important thing that I need to get done first thing in the mo
 ## Morning Exercise
 I spend at least 30 minutes of moving every day when I need a break from the morning work, usually around 9:30am during the week, and less regimented on the weekends. On days when I have energy, I use chatGPT and Hevy to plan out a 75 minute lifting routine. My goal is 4 days of lifting a week.
 ## During The Day
-**Capture** - I capture ideas into the day notes on obsidian and I keep a pocket notebook with me to capture new things that come into life.
+**Capture** - I capture ideas into [[0-Inbox\|0-Inbox]] on obsidian and I keep a pocket notebook with me to capture new things that come into life.
 **Simplify** - I strive for inbox-zero every day creating tasks as they come in from email. I have to check both my personal email (gmail) and protonmail for business.
 **Organize** - I use the GTD methodology for tracking work in progress augmented with Kanban's WIP limits to enable me to balance commitments and learn to say "no" when I'm overloaded. I will try to ensure that everything has a deadline associated with it to help with executive function. I will hold deadlines as sacred.
 **Reflect** - I review my projects, goals, and areas of focus on a regular cadence, At least weekly.
@@ -126,6 +126,27 @@ I will never commit verbal violence against anyone, including myself.
 1. I review my values once a week and create a value plan as part of weekly planning with notes about what I want to focus on that week that aligns with my values, and maybe experiments or habits I would like to implement to help keep me better aligned with my values.
 2. I review my strategies once a week when doing my weekly planning. I can tweak them at any time, but I try to overhaul them once a quarter at least. If a major like change happens, I also will likely overhaul them then.
 3. I maintain an idea notebook which I keep with me as much as possible. I review this notebook when I update my strategies to incorporate new ideas into my life.
+## Vault Organization (PARA + LYT)
+
+My Obsidian vault uses a hybrid PARA + LYT system for optimal organization:
+
+**PARA Structure:**
+- [[1-Projects\|1-Projects]] - Active work with deadlines (2-week to 3-month timeframe)
+- [[2-Areas\|2-Areas]] - Ongoing responsibilities (health, business, creative)
+- [[3-Resources\|3-Resources]] - Reference material organized by topic
+- [[4-Archives\|4-Archives]] - Completed/inactive items
+
+**Navigation Hubs:**
+- [[1-Projects/+MOCs/Projects Dashboard\|1-Projects/+MOCs/Projects Dashboard]] - Active project overview
+- [[2-Areas/+MOCs/Areas Dashboard\|2-Areas/+MOCs/Areas Dashboard]] - Responsibility areas
+- [[3-Resources/+MOCs/+INDEX\|+INDEX]] - Topic navigation
+
+**Key Benefits:**
+- Action-oriented: Projects separated from reference material
+- Discoverable: Topic-based Resources + MOC navigation
+- Scalable: PARA handles growth, MOCs provide wayfinding
+- Creative support: LYT linking enables ideation and connection-making
+
 ## How do I use my core system?
 
 ## How does my core system move my life forward in meaningful ways?
@@ -164,4 +185,3 @@ Control - 4 weeks
 Vision - 6 weeks for small overhaul
 
 Immediate and Soon Prioritizing for projects
-

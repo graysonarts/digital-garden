@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/30-years-of-weight-loss-research-in-4-minutes-the-3-fundamental-principles/","title":"30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles","tags":["🌱"],"updated":"2025-10-07T14:24:50.784-07:00"}
+{"dg-publish":true,"permalink":"/atlas/30-years-of-weight-loss-research-in-4-minutes-the-3-fundamental-principles/","title":"30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles","tags":["🌱"],"updated":"2025-10-18T21:23:28.607-07:00"}
 ---
 
 
@@ -50,7 +50,7 @@ Instead of asking "which diet is best," ask "which approach can I actually maint
 The video concludes with a reference to another video showing what Dr. Go eats during his surgical days for practical meal planning guidance.
 
 ## Related Concepts
-- [[Atlas/Evergreen/Protein\|Protein]] - Detailed protein information supporting principle #2
-- [[Atlas/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]] - Practical protein application
-- [[Atlas/MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework
+- [[3-Resources/Evergreen/Protein\|Protein]] - Detailed protein information supporting principle #2
+- [[3-Resources/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]] - Practical protein application
+- [[3-Resources/+MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework
 - [[Atlas/How to Design Your Life (My Process For Achieving Goals) - YouTube\|How to Design Your Life (My Process For Achieving Goals) - YouTube]] - Goal-setting framework for sustainable habits

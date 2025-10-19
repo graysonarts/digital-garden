@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/mobility-routine/","tags":["fitness","🌱"],"updated":"2024-11-14T07:53:54.207-08:00"}
+{"dg-publish":true,"permalink":"/atlas/mobility-routine/","tags":["fitness","🌱"],"updated":"2025-10-18T21:23:27.988-07:00"}
 ---
 
 ## Testing Mobility
