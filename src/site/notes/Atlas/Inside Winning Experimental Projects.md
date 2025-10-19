@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/inside-winning-experimental-projects/","tags":["🌱","creative-coding","installations"],"updated":"2025-10-18T21:23:28.969-07:00"}
+{"dg-publish":true,"permalink":"/atlas/inside-winning-experimental-projects/","tags":["🌱_Processing","creative-coding","installations"],"updated":"2025-10-18T22:36:36.111-07:00"}
 ---
 
 

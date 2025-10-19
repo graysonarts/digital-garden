@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/recipes/pumpkin-caramel/","tags":["truffles","🥗/fillings","🥗"],"updated":"2025-10-18T21:23:28.599-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/recipes/pumpkin-caramel/","title":"Pumpkin Caramel","tags":["truffles","🥗_Recipe"],"updated":"2025-10-18T22:40:12.097-07:00"}
 ---
 
 Servings: ~60 pieces

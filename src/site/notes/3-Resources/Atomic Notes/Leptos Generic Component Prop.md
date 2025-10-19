@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/leptos-generic-component-prop/","tags":["☢️","rust","software","programming"],"updated":"2025-10-18T21:23:28.266-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/leptos-generic-component-prop/","tags":["☢️_Atomic","rust","software","programming"],"updated":"2025-10-18T22:35:50.187-07:00"}
 ---
 
 ```rust

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/evergreen/hc-gilje/","tags":["artist","🌲"],"updated":"2025-10-18T21:23:28.432-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/evergreen/hc-gilje/","tags":["artist","🌲_Evergreen"],"updated":"2025-10-18T22:35:32.620-07:00"}
 ---
 
 ## Who

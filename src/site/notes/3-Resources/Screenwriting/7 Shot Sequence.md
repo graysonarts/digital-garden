@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/screenwriting/7-shot-sequence/","tags":["film-production","🌲"],"updated":"2025-10-18T21:23:28.977-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/screenwriting/7-shot-sequence/","tags":["🎬_Film","🌲_Evergreen"],"updated":"2025-10-18T22:46:47.364-07:00"}
 ---
 
 

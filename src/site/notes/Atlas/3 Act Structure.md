@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/3-act-structure/","tags":["🌱","Screenwriting"],"updated":"2025-10-18T21:23:28.590-07:00"}
+{"dg-publish":true,"permalink":"/atlas/3-act-structure/","tags":["🌱_Processing","Screenwriting"],"updated":"2025-10-18T22:36:35.688-07:00"}
 ---
 
 

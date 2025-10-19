@@ -118,7 +118,7 @@ I have never had a sense of style. My normal uniform is the same basic teeshirt 
 # My Resources
 - [Style Inspirations on Pinterest](https://pin.it/5NNd3Iozy)
 - [Style Resources on Pinterest](https://pin.it/291GCBcKL)
-- ☢️  [[3-Resources/Atomic Notes/Capsule Wardrobe\|Capsule Wardrobe]]
+- ☢️  [[Atlas/Capsule Wardrobe\|Capsule Wardrobe]]
 - [[3-Resources/Wardrobe Potentials List\|Wardrobe Potential Shopping List]]
 
 # Other Resources

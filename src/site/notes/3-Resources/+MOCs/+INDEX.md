@@ -28,9 +28,9 @@ Reference materials organized by topic for easy discovery and learning.
 
 ### Nutrition & Fitness
 
-| Resource                                                                          | Description | Tags                                                                                    | Updated |
-| --------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------------------------------- | ------- |
-| [[3-Resources/Nutrition & Fitness/Current Workout Plan\|Current Workout Plan]] | \-          | <ul><li>fitness</li><li>strength-training</li><li>aerial</li><li>workout-plan</li></ul> | \-      |
+| Resource                                                                          | Description | Tags                                                                                      | Updated |
+| --------------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------- | ------- |
+| [[3-Resources/Nutrition & Fitness/Current Workout Plan\|Current Workout Plan]] | \-          | <ul><li>🏆_health</li><li>strength-training</li><li>aerial</li><li>workout-plan</li></ul> | \-      |
 
 { .block-language-dataview}
 
@@ -50,7 +50,7 @@ Reference materials organized by topic for easy discovery and learning.
 
 | Resource                                                              | Description | Tags                                            | Updated                    |
 | --------------------------------------------------------------------- | ----------- | ----------------------------------------------- | -------------------------- |
-| [[3-Resources/Screenwriting/7 Shot Sequence\|7 Shot Sequence]]     | \-          | <ul><li>film-production</li><li>🌲</li></ul>    | \-                         |
+| [[3-Resources/Screenwriting/7 Shot Sequence\|7 Shot Sequence]]     | \-          | <ul><li>🎬_Film</li><li>🌲_Evergreen</li></ul>  | \-                         |
 | [[3-Resources/Screenwriting/Screenwriting MOC\|Screenwriting MOC]] | \-          | <ul><li>📍 - MOC</li><li>📝 - Writing</li></ul> | 6:30 PM - January 28, 2025 |
 
 { .block-language-dataview}
@@ -100,7 +100,6 @@ Reference materials organized by topic for easy discovery and learning.
 
 - [[3-Resources/Atomic Notes/Bernoulli's Principle\|Bernoulli's Principle]]
 - [[3-Resources/Atomic Notes/Breaking down a script\|Breaking down a script]]
-- [[3-Resources/Atomic Notes/Capsule Wardrobe\|Capsule Wardrobe]]
 - [[3-Resources/Atomic Notes/Cloudfront, Signed Cookies and S3 block public ACLs\|Cloudfront, Signed Cookies and S3 block public ACLs]]
 - [[3-Resources/Atomic Notes/Current Light Sculpture Artists\|Current Light Sculpture Artists]]
 - [[3-Resources/Atomic Notes/Five Fundamental Characteristics of Light Sculptures\|Five Fundamental Characteristics of Light Sculptures]]
@@ -142,18 +141,18 @@ Reference materials organized by topic for easy discovery and learning.
 
 ## Recent Additions
 
-| Resource                                                                             | Category                     | Added                      |
-| ------------------------------------------------------------------------------------ | ---------------------------- | -------------------------- |
-| [[3-Resources/+MOCs/Light Sculpture\|Light Sculpture]]                            | 3-Resources/+MOCs            | 8:12 AM - October 07, 2025 |
-| [[3-Resources/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]]                 | 3-Resources/Atomic Notes     | 8:08 PM - August 26, 2025  |
-| [[3-Resources/Atomic Notes/Breaking down a script\|Breaking down a script]]       | 3-Resources/Atomic Notes     | 7:35 AM - August 13, 2025  |
-| [[3-Resources/Atomic Notes/The Sinatra Test\|The Sinatra Test]]                   | 3-Resources/Atomic Notes     | 7:55 AM - July 25, 2025    |
-| [[3-Resources/Creative Coding/3D Printing Work Queue\|3D Printing Work Queue]]    | 3-Resources/Creative Coding  | 11:15 AM - June 07, 2025   |
-| [[3-Resources/+MOCs/3D Printing\|3D Printing]]                                    | 3-Resources/+MOCs            | 11:13 AM - June 07, 2025   |
-| [[3-Resources/SolidJS\|SolidJS]]                                                  | 3-Resources                  | 4:27 PM - May 27, 2025     |
-| [[3-Resources/Atomic Notes/Name Change Resource\|Name Change Resource]]           | 3-Resources/Atomic Notes     | 3:01 PM - April 22, 2025   |
-| [[3-Resources/Rust Development/Embedded Rust on RP2040\|Embedded Rust on RP2040]] | 3-Resources/Rust Development | 9:18 AM - April 10, 2025   |
-| [[3-Resources/Wardrobe Potentials List\|Wardrobe Potentials List]]                | 3-Resources                  | 5:25 PM - March 31, 2025   |
+| Resource                                                                             | Category                     | Added                       |
+| ------------------------------------------------------------------------------------ | ---------------------------- | --------------------------- |
+| [[3-Resources/Recipes/Pumpkin Caramel\|Pumpkin Caramel]]                          | 3-Resources/Recipes          | 10:40 PM - October 18, 2025 |
+| [[3-Resources/+MOCs/Light Sculpture\|Light Sculpture]]                            | 3-Resources/+MOCs            | 8:12 AM - October 07, 2025  |
+| [[3-Resources/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]]                 | 3-Resources/Atomic Notes     | 8:08 PM - August 26, 2025   |
+| [[3-Resources/Atomic Notes/Breaking down a script\|Breaking down a script]]       | 3-Resources/Atomic Notes     | 7:35 AM - August 13, 2025   |
+| [[3-Resources/Atomic Notes/The Sinatra Test\|The Sinatra Test]]                   | 3-Resources/Atomic Notes     | 7:55 AM - July 25, 2025     |
+| [[3-Resources/Creative Coding/3D Printing Work Queue\|3D Printing Work Queue]]    | 3-Resources/Creative Coding  | 11:15 AM - June 07, 2025    |
+| [[3-Resources/+MOCs/3D Printing\|3D Printing]]                                    | 3-Resources/+MOCs            | 11:13 AM - June 07, 2025    |
+| [[3-Resources/SolidJS\|SolidJS]]                                                  | 3-Resources                  | 4:27 PM - May 27, 2025      |
+| [[3-Resources/Atomic Notes/Name Change Resource\|Name Change Resource]]           | 3-Resources/Atomic Notes     | 3:01 PM - April 22, 2025    |
+| [[3-Resources/Rust Development/Embedded Rust on RP2040\|Embedded Rust on RP2040]] | 3-Resources/Rust Development | 9:18 AM - April 10, 2025    |
 
 { .block-language-dataview}
 

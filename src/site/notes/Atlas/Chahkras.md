@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/chahkras/","tags":["🌱","spirituality","meditation"],"updated":"2025-10-18T21:23:28.400-07:00"}
+{"dg-publish":true,"permalink":"/atlas/chahkras/","tags":["🌱_Processing","spirituality","meditation"],"updated":"2025-10-18T22:36:35.023-07:00"}
 ---
 
 ## Root

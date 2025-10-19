@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/five-fundamental-characteristics-of-light-sculptures/","tags":["☢️","artresearch","lightsculpture"],"updated":"2025-10-18T21:23:28.283-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/five-fundamental-characteristics-of-light-sculptures/","tags":["☢️_Atomic","artresearch","lightsculpture"],"updated":"2025-10-18T22:35:49.856-07:00"}
 ---
 
 ## Five Fundamental Characteristics

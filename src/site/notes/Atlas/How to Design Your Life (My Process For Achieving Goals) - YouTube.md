@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/how-to-design-your-life-my-process-for-achieving-goals-you-tube/","title":"How to Design Your Life (My Process For Achieving Goals) - YouTube","tags":["🌱"],"updated":"2025-10-18T21:23:28.205-07:00"}
+{"dg-publish":true,"permalink":"/atlas/how-to-design-your-life-my-process-for-achieving-goals-you-tube/","title":"How to Design Your Life (My Process For Achieving Goals) - YouTube","tags":["🌱_Processing"],"updated":"2025-10-18T22:36:34.379-07:00"}
 ---
 
 [How to Design Your Life (My Process For Achieving Goals) - YouTube](https://www.youtube.com/watch?v=Czru2CuWyxQ&list=TLPQMTcwNzIwMjX4Y6H_-kFw1A&index=6)

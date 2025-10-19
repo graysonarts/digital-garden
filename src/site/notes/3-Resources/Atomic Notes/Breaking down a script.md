@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/breaking-down-a-script/","title":"Breaking down a script","tags":["☢️","Screenwriting","screenplay"],"updated":"2025-10-18T21:23:28.314-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/breaking-down-a-script/","title":"Breaking down a script","tags":["☢️_Atomic","Screenwriting","screenplay"],"updated":"2025-10-18T22:35:48.704-07:00"}
 ---
 
 ## Codes

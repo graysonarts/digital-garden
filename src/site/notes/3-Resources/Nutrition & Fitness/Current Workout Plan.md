@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/nutrition-and-fitness/current-workout-plan/","tags":["fitness","strength-training","aerial","workout-plan"],"updated":"2025-10-18T21:23:29.048-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/nutrition-and-fitness/current-workout-plan/","tags":["🏆_health","strength-training","aerial","workout-plan"],"updated":"2025-10-18T22:43:29.400-07:00"}
 ---
 
 

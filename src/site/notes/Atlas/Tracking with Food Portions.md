@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/tracking-with-food-portions/","tags":["tracking","health","🌱","nutrition","food"],"updated":"2025-10-18T21:23:28.383-07:00"}
+{"dg-publish":true,"permalink":"/atlas/tracking-with-food-portions/","tags":["tracking","🌱_Processing","🍽️_Food","🍽️_Food","🏆_health"],"updated":"2025-10-18T22:49:16.818-07:00"}
 ---
 
 

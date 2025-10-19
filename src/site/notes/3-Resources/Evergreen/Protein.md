@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/evergreen/protein/","tags":["nutrition","food","🏆","🌲"],"updated":"2025-10-18T21:23:28.420-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/evergreen/protein/","tags":["🍽️_Food","🍽️_Food","🏆_health","🌲_Evergreen"],"updated":"2025-10-18T22:49:12.993-07:00"}
 ---
 
 

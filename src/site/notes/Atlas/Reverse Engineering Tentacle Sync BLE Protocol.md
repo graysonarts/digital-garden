@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/reverse-engineering-tentacle-sync-ble-protocol/","title":"Reverse Engineering Tentacle Sync BLE Protocol","tags":["🌱","reverse-engineering"],"updated":"2025-10-18T21:23:28.092-07:00"}
+{"dg-publish":true,"permalink":"/atlas/reverse-engineering-tentacle-sync-ble-protocol/","title":"Reverse Engineering Tentacle Sync BLE Protocol","tags":["🌱_Processing","reverse-engineering"],"updated":"2025-10-18T22:36:33.982-07:00"}
 ---
 
 

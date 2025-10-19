@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/name-change-resource/","title":"Name Change Resource","tags":["☢️"],"updated":"2025-10-18T21:23:28.259-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/name-change-resource/","title":"Name Change Resource","tags":["☢️_Atomic"],"updated":"2025-10-18T22:35:50.790-07:00"}
 ---
 
 What you need to do to change your name in Washington State and the US

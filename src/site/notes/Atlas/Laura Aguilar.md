@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/laura-aguilar/","tags":["photographers","artresearch","🌱"],"updated":"2025-10-18T21:23:28.407-07:00"}
+{"dg-publish":true,"permalink":"/atlas/laura-aguilar/","tags":["photographers","artresearch","🌱_Processing"],"updated":"2025-10-18T22:36:35.043-07:00"}
 ---
 
 # Laura Aguilar

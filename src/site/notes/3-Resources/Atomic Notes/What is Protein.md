@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/atomic-notes/what-is-protein/","tags":["🏆","☢️"],"updated":"2025-10-18T21:23:28.289-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/atomic-notes/what-is-protein/","tags":["🏆_health","☢️_Atomic"],"updated":"2025-10-18T22:39:29.694-07:00"}
 ---
 
 # What is Protein
