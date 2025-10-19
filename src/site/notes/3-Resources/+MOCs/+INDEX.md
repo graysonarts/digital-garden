@@ -36,13 +36,13 @@ Reference materials organized by topic for easy discovery and learning.
 
 ### Rust Development
 
-| Resource                                                                                                                               | Description | Tags                                                               | Updated                    |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------ | -------------------------- |
-| [[3-Resources/Rust Development/The Rust Garden/Adding Stripe Subscriptions to rust axum\|Adding Stripe Subscriptions to rust axum]] | \-          | <ul><li>rust</li><li>axum</li><li>stripe</li><li>payment</li></ul> | \-                         |
-| [[3-Resources/Rust Development/Embedded Rust on RP2040\|Embedded Rust on RP2040]]                                                   | \-          | <ul><li>rust</li><li>embedded</li></ul>                            | 9:18 AM - April 10, 2025   |
-| [[3-Resources/Rust Development/Rust Development MOC\|Rust Development MOC]]                                                         | \-          | <ul><li>📍 - MOC</li><li>💻 - Project</li></ul>                    | 6:30 PM - January 28, 2025 |
-| [[3-Resources/Rust Development/Rust on ESP32\|Rust on ESP32]]                                                                       | \-          | <ul><li>rust</li><li>embedded</li><li>esp32</li></ul>              | \-                         |
-| [[3-Resources/Rust Development/Rust-Swift Interaction\|Rust-Swift Interaction]]                                                     | \-          | <ul><li>rust</li><li>swift</li></ul>                               | \-                         |
+| Resource                                                                                                                               | Description | Tags                                                                                     | Updated                    |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------- | -------------------------- |
+| [[3-Resources/Rust Development/The Rust Garden/Adding Stripe Subscriptions to rust axum\|Adding Stripe Subscriptions to rust axum]] | \-          | <ul><li>rust</li><li>axum</li><li>stripe</li><li>payment</li><li>🔧_Technology</li></ul> | \-                         |
+| [[3-Resources/Rust Development/Embedded Rust on RP2040\|Embedded Rust on RP2040]]                                                   | \-          | <ul><li>rust</li><li>embedded</li><li>🔧_Technology</li><li>📍_MOC</li></ul>             | 9:18 AM - April 10, 2025   |
+| [[3-Resources/Rust Development/Rust Development MOC\|Rust Development MOC]]                                                         | \-          | <ul><li>📍 - MOC</li><li>💻 - Project</li></ul>                                          | 6:30 PM - January 28, 2025 |
+| [[3-Resources/Rust Development/Rust on ESP32\|Rust on ESP32]]                                                                       | \-          | <ul><li>rust</li><li>embedded</li><li>esp32</li><li>🔧_Technology</li></ul>              | \-                         |
+| [[3-Resources/Rust Development/Rust-Swift Interaction\|Rust-Swift Interaction]]                                                     | \-          | <ul><li>rust</li><li>swift</li><li>🔧_Technology</li></ul>                               | \-                         |
 
 { .block-language-dataview}
 

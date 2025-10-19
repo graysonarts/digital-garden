@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"updated":"2025-10-18T15:34:49.530-07:00"}
+{"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","pinned":"true","tags":["gardenEntry"],"updated":"2025-10-18T23:04:11.774-07:00"}
 ---
 
 # Welcome to my Garden

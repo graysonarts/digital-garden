@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/vault-organization-quick-reference/","title":"Vault Organization Quick Reference","tags":["📍 - MOC","meta"],"updated":"2025-10-18T16:28:19.535-07:00"}
+{"dg-publish":true,"permalink":"/vault-organization-quick-reference/","title":"Vault Organization Quick Reference","tags":["meta","📍_MOC"],"updated":"2025-10-18T23:03:39.486-07:00"}
 ---
 
 

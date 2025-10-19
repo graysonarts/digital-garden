@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-swift-interaction/","tags":["rust","swift"],"updated":"2025-10-18T21:23:28.103-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-swift-interaction/","tags":["rust","swift","🔧_Technology"],"updated":"2025-10-18T23:01:54.285-07:00"}
 ---
 
 

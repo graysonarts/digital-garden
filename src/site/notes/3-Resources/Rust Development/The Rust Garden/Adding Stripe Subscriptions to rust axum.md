@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/the-rust-garden/adding-stripe-subscriptions-to-rust-axum/","tags":["rust","axum","stripe","payment"],"updated":"2025-10-18T21:23:28.114-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/the-rust-garden/adding-stripe-subscriptions-to-rust-axum/","tags":["rust","axum","stripe","payment","🔧_Technology"],"updated":"2025-10-18T23:00:02.548-07:00"}
 ---
 
 1. Introduction of what subscriptions are
