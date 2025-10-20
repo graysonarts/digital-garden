@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/creative/anime-drawing-curriculum/anime-drawing-curriculum/","tags":["figure-drawing","art-curriculum","adhd-learning","digital-art","procreate","🌱_Active","📚_Learning","🎨_Creative","💻_Project_Doc"],"updated":"2025-10-19T10:42:51.988-07:00"}
+{"dg-publish":true,"permalink":"/1-projects/creative/anime-drawing-curriculum/anime-drawing-curriculum/","tags":["figure-drawing","art-curriculum","adhd-learning","digital-art","procreate","🌱_Active","🎨_Creative","💻_Project_Doc","📚_Learning","🧊_Frozen_Investment"],"updated":"2025-10-19T22:36:40.325-07:00"}
 ---
 
 ## Meta Information
@@ -244,20 +244,20 @@ _Option B (Comprehensive):_
 **📹 Essential Video Tutorials:**
 
 1. **How to Draw Gesture** - Proko (9-10 min)
-    
+
     - URL: https://youtube.com/watch?v=74HR59yFZ7Y
     - Covers: Line of action, C/S curves, capturing movement, rhythm
     - Watch before first session
 2. **Quicksketch Assignment Examples** - Proko
-    
+
     - URL: https://www.proko.com/course-lesson/quicksketch-assignment-examples-30-second-poses
     - Real-time 30-second demonstrations
 3. **Figure Drawing: Gesture** - New Masters Academy (~2 hours)
-    
+
     - Glenn Vilppu's master class
     - Multiple demonstrations with various mediums
 4. **Gestures & Quick Drawings Strategy** - Love Life Drawing (15-25 min)
-    
+
     - Inside the artist's mind during timed drawings
     - Priority decision-making for speed work
 
@@ -296,7 +296,7 @@ _Option B (Comprehensive):_
 - Volume completed: 20-30 gestures per session
 
 > [!warning] Common Mistakes
-> 
+>
 > - Trying to get proportions right (DON'T)
 > - Drawing contours instead of gesture (WRONG)
 > - Using small, tight strokes (TOO TIMID)
@@ -311,11 +311,11 @@ _Option B (Comprehensive):_
 **📹 Essential Video Tutorials:**
 
 1. **Landmarks of the Human Body** - Proko (20-30 min)
-    
+
     - URL: https://www.proko.com/course-lesson/landmarks-of-the-human-body
     - Comprehensive coverage of all major landmarks
 2. **Starting Construction Using Visible Landmarks** - Love Life Drawing
-    
+
     - URL: https://www.lovelifedrawing.com/starting-construction/
     - "Superstickman" method introduction
 
@@ -339,24 +339,24 @@ _Option B (Comprehensive):_
 **Steps (2-3 min per figure, 10 figures per session):**
 
 1. **Identify landmarks on reference (30 sec):**
-    
+
     - Mark pit of neck
     - Find collarbone ends
     - Locate ASIS points on pelvis
     - Spot sacrum triangle
     - Note shoulder blade corners
 2. **Draw landmarks on your figure (1 min):**
-    
+
     - Use small circles or dots
     - Don't draw full figure yet
     - Just place the landmarks accurately
 3. **Check with 3D Anatomy app (30 sec):**
-    
+
     - Rotate model to similar angle
     - Verify landmark positions
     - Make corrections
 4. **Draw simple connections (1 min):**
-    
+
     - Connect landmarks with straight lines
     - Create skeletal framework
     - See how body structure emerges
@@ -407,15 +407,15 @@ _Option B (Comprehensive):_
 **📹 Essential Video Tutorials:**
 
 1. **Constructing Figures From Primitive Shapes** - Proko (20-30 min)
-    
+
     - URL: https://www.proko.com/course-lesson/constructing-figures-from-primitive-shapes
     - Building 3D mannequins from boxes, cylinders, spheres
 2. **Figure Drawing: Construction** - New Masters Academy (30-45 min)
-    
+
     - URL: https://www.nma.art/videolessons/figure-drawing-i-construction/
     - Glenn Vilppu on using simple volumes
 3. **Completing the Simple Construction** - Love Life Drawing
-    
+
     - URL: https://www.lovelifedrawing.com/putting-together-the-construction/
     - Ribcage and pelvic area shapes
 
@@ -430,32 +430,32 @@ _Option B (Comprehensive):_
 **Steps for each figure:**
 
 1. **Head (30 sec):**
-    
+
     - Simple oval
     - Center line showing face direction
     - Brow line (eye level axis)
 2. **Torso landmarks (1 min):**
-    
+
     - V-shape at throat connecting to collarbone line
     - Center line down torso to groin
     - Pelvic line across hips
 3. **Limbs as lines (1 min):**
-    
+
     - Shoulder → elbow → wrist
     - Pelvis → knee → ankle
     - Triangle placeholders for hands/feet
 4. **Add mass (1 min):**
-    
+
     - **Ribcage:** Box or egg shape
     - **Pelvis:** Box or trapezoid showing tilt and rotation
     - Show which way forms face in 3D space
 5. **Limbs as cylinders (1 min):**
-    
+
     - Tapering cylinders for arms and legs
     - Cross-contour lines showing rotation
     - Ellipses at joints (shoulder, elbow, wrist, hip, knee, ankle)
 6. **Final outline and shadows (1 min):**
-    
+
     - Draw final contours on top of construction
     - Add major shadow shapes
     - Keep construction visible underneath (use layer in Procreate)
@@ -488,16 +488,16 @@ _Option B (Comprehensive):_
 **📹 Essential Video Tutorials:**
 
 1. **Human Proportions Series** - Proko (15-30 min each)
-    
+
     - Search: "Proko human proportions" on YouTube
     - Topics: Average Figure, Cranial Units, Idealistic Figures
     - Covers 8-head canon and measurement methods
 2. **How to Draw Accurate Proportions** - Proko (20-40 min)
-    
+
     - URL: https://www.proko.com/course-lesson/how-to-draw-accurate-proportions
     - Measuring techniques and checking proportions
 3. **Measuring & Proportion** - Brent Eviston (10-20 min per lesson)
-    
+
     - "The Art & Science of Drawing" series
     - Sight-sizing and angle sighting
 
@@ -512,15 +512,15 @@ _Option B (Comprehensive):_
 **The 7-8 Head Method Steps:**
 
 1. **Measure the head (1 min):**
-    
+
     - Draw head size at top of figure
     - Use this as your measuring unit
 2. **Mark off 7-8 head lengths (1 min):**
-    
+
     - Create vertical guide with 8 tick marks
     - Each mark = 1 head height
 3. **Check key landmarks (2 min):**
-    
+
     - **Head:** 0-1
     - **Chin to pit of neck:** ~1
     - **Shoulders:** ~1.5
@@ -532,12 +532,12 @@ _Option B (Comprehensive):_
     - **Mid-calf:** 7
     - **Feet:** 8
 4. **Draw construction with proportions (3 min):**
-    
+
     - Build figure using construction method from Week 1-2
     - Constantly check against head-height marks
     - Adjust if proportions drift
 5. **Verify additional proportions (1 min):**
-    
+
     - **Hand size = Face size** (chin to hairline)
     - **Foot length = Forearm length**
     - **Shoulder width = 2-2.5 heads** (male)
@@ -551,14 +551,14 @@ _Option B (Comprehensive):_
 
 **Male vs. Female Proportions:**
 
-|Feature|Male|Female|
-|---|---|---|
-|Shoulders|Broader than hips|Narrower than hips|
-|Hips|Narrow, angular|Wide, rounded|
-|Waist|Less defined|More defined|
-|Ribcage|Larger|Smaller|
-|Muscle definition|More pronounced|Softer|
-|Fat distribution|Chest, abdomen|Hips, thighs, breasts|
+| Feature           | Male              | Female                |
+| ----------------- | ----------------- | --------------------- |
+| Shoulders         | Broader than hips | Narrower than hips    |
+| Hips              | Narrow, angular   | Wide, rounded         |
+| Waist             | Less defined      | More defined          |
+| Ribcage           | Larger            | Smaller               |
+| Muscle definition | More pronounced   | Softer                |
+| Fat distribution  | Chest, abdomen    | Hips, thighs, breasts |
 
 **Success Metrics:**
 
@@ -568,7 +568,7 @@ _Option B (Comprehensive):_
 - Hand size matches face size
 
 > [!tip] ADHD Quick Win Create a "Proportion Checker" template in Procreate:
-> 
+>
 > - Draw 8 horizontal lines as layer
 > - Lock layer and set to 30% opacity
 > - Use for every proportion drawing
@@ -604,21 +604,21 @@ _Option B (Comprehensive):_
 **📹 Essential Video Tutorials:**
 
 1. **Anatomy of the Rib Cage** - Proko (15-25 min)
-    
+
     - URL: Search "Proko ribcage anatomy" on YouTube
     - Series: "Anatomy of the Rib Cage," "How to Draw the Rib Cage," "The Shape of the Rib Cage"
     - Simplified oval/egg shape, sternum, costal arch
 2. **How to Draw the Pelvis from Any Angle** - Proko (20-30 min)
-    
+
     - "Bucket" simplification with wedge cut-out
     - ASIS points, sacrum, greater trochanter
 3. **Pelvis Anatomy Made Easy** - Love Life Drawing (15-25 min)
-    
+
     - URL: https://www.lovelifedrawing.com/pelvis-anatomy-for-drawing/
     - "Pelvis pants" concept
     - 80/20 rule approach
 4. **Anatomy of the Spine** - Proko (15-25 min)
-    
+
     - Cervical, thoracic, lumbar curves
     - Connection to ribcage and pelvis
 
@@ -682,7 +682,7 @@ _Option B (Comprehensive):_
 4. Add legs connecting at greater trochanter
 
 > [!important] Ribcage-Pelvis Relationship Think of ribcage and pelvis as two boxes that can:
-> 
+>
 > - **Tilt:** Front-to-back rotation
 > - **Bend:** Side-to-side
 > - **Twist:** Rotation opposite directions
@@ -701,21 +701,21 @@ _Option B (Comprehensive):_
 **📹 Essential Video Tutorials:**
 
 1. **ULTIMATE Anatomy / Simple Anatomy** - Marc Brunet (15-40 min each)
-    
+
     - YouTube IDs: VpCa0p29Gtk (Male Body), others in series
     - URL: https://youtube.com/@YTartschool
     - Simplified anatomy for character artists
 2. **Anatomy Quick Tips Series** - Sinix Design (14-22 min each)
-    
+
     - "Anatomy Quick Tips - Abs" (15 min)
     - "Anatomy Quick Tips - Hips" (22 min)
     - Clear, practical application focus
 3. **Complete Figure Drawing** - Aaron Blaise (Free YouTube content)
-    
+
     - Search: "Aaron Blaise anatomy" on YouTube
     - Former Disney animator perspective
 4. **Proko Anatomy Series** (Free on YouTube)
-    
+
     - URL: https://youtube.com/@ProkoTV
     - Entertaining, ADHD-friendly style
     - Watch 1 video (15 min) before each practice
@@ -746,22 +746,22 @@ _Option B (Comprehensive):_
 **For Each Muscle Group (Study 1-2 per day):**
 
 1. **Learn location (5 min):**
-    
+
     - Where it **originates** (attaches to bone)
     - Where it **inserts** (ends)
     - What **action** it performs
 2. **Study in 3D Anatomy app (5 min):**
-    
+
     - Isolate muscle only
     - Rotate 360°
     - Watch it contract/relax
 3. **Draw simplified form (10 min):**
-    
+
     - Draw muscle shape isolated
     - Color code it in your notes
     - Make shape memorable
 4. **Apply to figures (40 min, 5-8 figures):**
-    
+
     - Draw full figure
     - Highlight studied muscle group in color
     - Show muscle from different angles
@@ -844,11 +844,11 @@ Even if details are rough, the fundamental understanding is VISIBLE.
 **📹 Essential Video Tutorials (Watch Throughout Month):**
 
 1. **Full Anatomy Course** - Proko (Multiple videos)
-    
+
     - URL: https://www.proko.com/course/anatomy-of-the-human-body
     - Systematic progression through entire body
 2. **Anatomy Series** - New Masters Academy
-    
+
     - Steve Huston and Glenn Vilppu lessons
     - Classical approach to anatomy
 
@@ -935,24 +935,24 @@ Even if details are rough, the fundamental understanding is VISIBLE.
 **Steps:**
 
 1. **Layer 1 - Skeleton (10 min):**
-    
+
     - Draw only bones for body part
     - Get proportions and angles right
     - Establish structure
 2. **Layer 2 - Muscle Groups (10 min):**
-    
+
     - On new Procreate layer or separate drawing
     - Add major muscles one at a time
     - Use different colors for each muscle
     - Show origin and insertion points
 3. **Layer 3 - Surface Form (10 min):**
-    
+
     - On new layer
     - Draw skin surface showing muscle forms underneath
     - Add flesh, fat, basic shading
     - Show only what's visible on surface
 4. **Repeat 5-10 times same body part in same session**
-    
+
     - Internalizes the layering
     - Builds muscle memory
     - Each rep gets faster and more confident
@@ -968,7 +968,7 @@ Session 5: Full arm with all muscles + surface
 ```
 
 > [!tip] Digital Layer Workflow In Procreate:
-> 
+>
 > - Layer 1: Skeleton (30% opacity, lock)
 > - Layer 2: Muscles (50% opacity, lock after)
 > - Layer 3: Surface (100% opacity)
@@ -1003,19 +1003,19 @@ Session 5: Full arm with all muscles + surface
 **📹 Essential Video Tutorials:**
 
 1. **How to Draw Hand Bones** - Proko (9-14 min)
-    
+
     - URL: Search "Proko hand bones anatomy" on YouTube
     - Complete "Drawing Hands" series (~2.5 hours total)
 2. **HOW TO DRAW HANDS & FEET** - Marc Brunet (15-25 min)
-    
+
     - URL: https://youtu.be/wSMhDiWmjy8
     - Practical beginner-friendly methods
 3. **Anatomy Quick Tips: Hands** - Sinix Design (13-14 min)
-    
+
     - Essential aspects, structure, flow
     - 2.7M views - highly popular
 4. **Muscle Anatomy of the Hand** - Proko (15-20 min)
-    
+
     - URL: https://www.proko.com/course-lesson/how-to-draw-hands-muscle-anatomy-of-the-hand/
 
 **Session Structure:**
@@ -1054,28 +1054,28 @@ Session 5: Full arm with all muscles + surface
 **Steps (4 minutes per hand):**
 
 1. **Gesture (30 sec):**
-    
+
     - Overall hand shape and direction
     - Major action line
 2. **Palm block (1 min):**
-    
+
     - Draw palm as 3D box
     - Show perspective
     - Mark knuckle line
 3. **Finger cylinders (1 min):**
-    
+
     - Add all 5 fingers as cylinders
     - Show 3 segments each (except thumb)
     - Add ellipses at joints
     - Check lengths
 4. **Refinement (1 min):**
-    
+
     - Add contours
     - Show knuckle wrinkles
     - Indicate nails
     - Refine thumb position
 5. **Shading (30 sec):**
-    
+
     - Major shadow shapes only
 
 **Reference Resources:**
@@ -1091,7 +1091,7 @@ Session 5: Full arm with all muscles + surface
 - Rotate through: fist, open palm, pointing, gripping, relaxed
 
 > [!warning] Common Hand Mistakes
-> 
+>
 > - Fingers too uniform (vary lengths!)
 > - Thumb wrong position (attaches lower!)
 > - Palm too small (should be ~half hand)
@@ -1105,15 +1105,15 @@ Session 5: Full arm with all muscles + surface
 **📹 Essential Video Tutorials:**
 
 1. **How to Draw Feet with Structure** - Proko (10-15 min)
-    
+
     - URL: https://www.proko.com/course-lesson/how-to-draw-feet/
     - Simplified foot structure
 2. **Constructing and Shading the Foot** - Proko (42 min)
-    
+
     - URL: Referenced at classcentral.com/course/youtube-constructing-and-shading-the-foot-anatomy-assignment-128536
     - Comprehensive anatomy drawing tutorial
 3. **HOW TO DRAW HANDS & FEET** - Marc Brunet (15-25 min)
-    
+
     - URL: https://youtu.be/wSMhDiWmjy8
     - Covers both hands AND feet
 
@@ -1159,19 +1159,19 @@ Same structure as hands bootcamp:
 **📹 Essential Video Tutorials:**
 
 1. **Shading Light and Form - Basics** - Proko (15-20 min)
-    
+
     - URL: Referenced at painting.tube/shading-light-and-form-basics/
     - Elements: highlight, halftone, shadow, reflected light, core shadow, cast shadow
 2. **How to Shade a Drawing** - Proko (20-25 min)
-    
+
     - URL: https://www.proko.com/course-lesson/how-to-shade-a-drawing
     - Separating light from shadow, shadow shapes
 3. **Improve Your Art with Better Shadows** - Sinix Design (15-20 min)
-    
+
     - Video ID: ZJkIaMECW6c
     - Better shadow shapes and colors
 4. **Figure Drawing I: Rendering** - New Masters Academy (25-35 min)
-    
+
     - URL: https://www.nma.art/videolessons/figure-drawing-i-rendering/
     - Glenn Vilppu on modeling tone
 
@@ -1194,16 +1194,16 @@ Same structure as hands bootcamp:
 **Steps per figure:**
 
 1. **Line drawing (3 min):**
-    
+
     - Quick construction/gesture
     - Establish proportions
 2. **Identify shadow shapes (2 min):**
-    
+
     - Squint at reference
     - See only 2-3 BIG shadow shapes
     - Draw shadow edges with line
 3. **Fill values (5 min):**
-    
+
     - **Leave lights white**
     - **Fill shadows dark**
     - **Add mid-tones in transition**
@@ -1224,7 +1224,7 @@ Same structure as hands bootcamp:
 - Cast shadows (object blocks light)
 
 > [!important] Cylinder Study Before drawing full figures:
-> 
+>
 > - Draw 20 cylinders at various angles
 > - Show light source
 > - Render with core shadow, reflected light, cast shadow
@@ -1260,19 +1260,19 @@ Same structure as hands bootcamp:
 **📹 Essential Video Tutorials:**
 
 1. **How to Draw Structure - Robo Bean** - Proko (20 min + 30 min premium)
-    
+
     - URL: https://www.youtube.com/watch?v=yqxPHew5bGQ
     - Ribcage/pelvis boxes with tilting, twisting, foreshortening
 2. **How to Simplify Motion - The Bean** - Proko (15-18 min)
-    
+
     - URL: https://www.youtube.com/watch?v=0660Fuih7qo
     - Understanding torso's 4 motions
 3. **4 Easy Steps to Conquer Foreshortening** - Love Life Drawing (20-25 min)
-    
+
     - URL: https://www.lovelifedrawing.com/4-easy-steps-to-finally-conquer-foreshortening/
     - Simplify forms, measurements, overlaps
 4. **Intro to Dynamic Sketching** - moderndayjames (45-60 min)
-    
+
     - Building and rotating primitives
     - Forms at any angle
 
@@ -1324,16 +1324,16 @@ Foreshortening = forms coming toward/away from viewer appear compressed
 **📹 Essential Video Tutorials:**
 
 1. **How to Draw Figures from Memory** - Proko (37 min)
-    
+
     - URL: Referenced at classcentral.com/course/youtube-how-to-draw-figures-from-memory-330722
     - 3 visual memory exercises
 2. **How to Draw Any Pose from IMAGINATION** - Love Life Drawing (25-30 min)
-    
+
     - URL: https://www.lovelifedrawing.com/how-to-draw-any-pose-from-imagination/
     - Breaking figure into 3 basic shapes
     - "Pelvis-pants" framework
 3. **Drawing Figures From Imagination** - New Masters Academy (30-40 min)
-    
+
     - URL: https://www.nma.art/videolessons/drawing-figures-from-imagination/
     - Glenn Vilppu demonstrates
 
@@ -1432,7 +1432,7 @@ Before transitioning to stylization, you must understand the defining characteri
 **📹 Learning Resources (Limited YouTube Content):**
 
 > [!warning] Limited Direct Tutorials YouTube has very limited dedicated bara tutorials. Most content is on:
-> 
+>
 > - TikTok (short-form demonstrations)
 > - DeviantArt (static tutorials)
 > - Specialized Discord servers and Patreon
@@ -1449,25 +1449,25 @@ Before transitioning to stylization, you must understand the defining characteri
 **Technical Characteristics:**
 
 1. **Body Types:**
-    
+
     - "The Dorito": Athletic, broad shoulders, sharp angles
     - "Thicc": Chubby/stocky, rounder shapes
     - "OVA Dio": Muscular + substantial
 2. **Muscle Emphasis:**
-    
+
     - 150-200% beyond natural limits
     - Significantly broader shoulders
     - Thicker neck and trapezius
     - Substantial body hair
     - Masculinized facial features (heavy brows, strong jaw)
 3. **Line Work:**
-    
+
     - Bold, defined lines
     - Heavy line weight for masculine effect
     - Round shapes for soft areas
     - Sharp angles for muscle definition
 4. **Hands:**
-    
+
     - Realistic or slightly enlarged
     - Emphasize strength
 
@@ -1492,7 +1492,7 @@ Before transitioning to stylization, you must understand the defining characteri
 **Technical Characteristics:**
 
 1. **Distinctive Visual Elements:**
-    
+
     - **"Yaoi hands"**: Exaggerated large hands (1.5-2x natural)
     - Triangle chins
     - Large expressive eyes (2-3x natural)
@@ -1500,14 +1500,14 @@ Before transitioning to stylization, you must understand the defining characteri
     - Softer facial features
     - Long flowing hair often
 2. **Body Modifications from Realism:**
-    
+
     - Reduce overall body mass
     - Narrow shoulders
     - Minimize muscle definition
     - Elongate limbs slightly
     - Soften all angles (face and body)
 3. **Line Work:**
-    
+
     - Softer, flowing lines
     - Less muscle definition emphasis
     - Delicate quality overall
@@ -1537,24 +1537,24 @@ Before transitioning to stylization, you must understand the defining characteri
 **Technical Characteristics:**
 
 1. **Style Elements:**
-    
+
     - Angular lines (good for fight scenes)
     - Broad shoulders
     - Defined but not overly detailed musculature
     - Simplified anatomy for clarity
     - Dynamic poses emphasized
 2. **Proportions:**
-    
+
     - Relatively grounded (6.5-7.5 heads tall)
     - Despite stylization, maintains believability
 3. **Drawing Approach:**
-    
+
     - Simplify muscle rendering to clean shapes
     - Angular bone structure
     - Slightly enlarge hands/feet for visual impact
     - Reduce anatomical detail for clarity in action
 4. **Narrative Focus:**
-    
+
     - Regular characters vs. extraordinary opponents
     - David vs. Goliath dynamic
     - NOT Western-style superheroes
@@ -1568,11 +1568,11 @@ Before transitioning to stylization, you must understand the defining characteri
 
 ### Key Differences in Audience and Intent
 
-|Style|Audience|Intent|Body Emphasis|
-|---|---|---|---|
-|**Bara**|Gay men|Masculinity, explicit content|Muscular, hyper-masculine|
-|**Yaoi**|Women|Aestheticize/romanticize relationships|Delicate, androgynous|
-|**Shounen**|Young males|Action, adventure|Athletic, dynamic|
+| Style       | Audience    | Intent                                 | Body Emphasis             |
+| ----------- | ----------- | -------------------------------------- | ------------------------- |
+| **Bara**    | Gay men     | Masculinity, explicit content          | Muscular, hyper-masculine |
+| **Yaoi**    | Women       | Aestheticize/romanticize relationships | Delicate, androgynous     |
+| **Shounen** | Young males | Action, adventure                      | Athletic, dynamic         |
 
 ---
 
@@ -1808,28 +1808,28 @@ Ask yourself for EACH element:
 **Create comprehensive sheets including:**
 
 1. **Multiple angles:**
-    
+
     - Front view
     - 3/4 view
     - Side view
     - Back view
 2. **Expression studies:**
-    
+
     - Happy, sad, angry, surprised, neutral
     - 5-10 facial expressions
 3. **Pose variations:**
-    
+
     - Standing neutral
     - Action pose
     - Sitting/relaxed
     - Dynamic movement
 4. **Detail callouts:**
-    
+
     - Hand studies
     - Facial feature close-ups
     - Clothing/costume details
 5. **Style notes:**
-    
+
     - Proportions used
     - Line weight choices
     - Characteristic features
@@ -2142,13 +2142,13 @@ Ask yourself for EACH element:
 
 **Monthly Tracking (Spreadsheet or Notebook):**
 
-|Metric|Goal|Actual|
-|---|---|---|
-|**Total practice hours**|40-60 hours|___|
-|**Total drawings created**|300+ gestures|___|
-|**Days practiced**|20+ days|___|
-|**Average session length**|30-60 min|___|
-|**Topics studied**|(list)|___|
+| Metric                     | Goal          | Actual |
+| -------------------------- | ------------- | ------ |
+| **Total practice hours**   | 40-60 hours   | ___    |
+| **Total drawings created** | 300+ gestures | ___    |
+| **Days practiced**         | 20+ days      | ___    |
+| **Average session length** | 30-60 min     | ___    |
+| **Topics studied**         | (list)        | ___    |
 
 **ADHD Benefit:**
 
@@ -2312,23 +2312,23 @@ You now have:
 **Tomorrow morning, 30 minutes:**
 
 1. **Set up:**
-    
+
     - Open Line of Action: https://line-of-action.com
     - Open Procreate
     - Create new canvas: 2048x2048px
     - Select 6B Pencil brush
 2. **Warm up (5 min):**
-    
+
     - 10 gestures at 30 seconds each
     - Just capture movement
     - Have fun!
 3. **Practice (20 min):**
-    
+
     - 10 gestures at 1 minute each
     - Add head, ribcage, pelvis masses
     - Still loose and gestural
 4. **Review (5 min):**
-    
+
     - Star your best 3
     - Take photo of page
     - Write: "Tomorrow I'll do 30-second gestures again"

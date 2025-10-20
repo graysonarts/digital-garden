@@ -21,13 +21,110 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 
 
-## Active Investments
 
-> [!INFO]
-> *Available hours = 7 \* 24 - (8 \* 7) = 112h*
-> Current Investment Allocation:  **80h**
+# Energy Investment Portfolio
 
-- Shooting [Cheap AF](https://cheapaffilm.com) (80h)
+> [!INFO] Investment Philosophy
+> Focus on 2-3 high energy investments, 3-4 medium energy investments, and unlimited low energy maintenance projects. Review weekly to assess energy balance and capacity.
+
+## Investment Capacity Overview
+
+### High Energy Investments 💪
+| Investment Level | Current | Capacity | Status |
+| ---------------- | ------- | -------- | ------ |
+
+{ .block-language-dataview}
+
+### Medium Energy Investments 🍀
+| Investment Level | Current | Capacity | Status |
+| ---------------- | ------- | -------- | ------ |
+
+{ .block-language-dataview}
+
+### Low Energy Investments 🧊
+| Investment Level | Current | Capacity | Status     |
+| ---------------- | ------- | -------- | ---------- |
+| Low Energy       | 3       | ∞        | ✅ No Limit |
+
+{ .block-language-dataview}
+
+## Active Investments by Energy Level
+
+### High Energy Investments 💪
+
+| Project/Area | Category | Description | Last Updated |
+| ------------ | -------- | ----------- | ------------ |
+
+{ .block-language-dataview}
+
+### Medium Energy Investments 🍀
+
+| Project/Area | Category | Description | Last Updated |
+| ------------ | -------- | ----------- | ------------ |
+
+{ .block-language-dataview}
+
+### Low Energy Investments 🧊
+
+| Project/Area                                                                                                                                      | Category  | Description | Last Updated |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | ------------ |
+| [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]]                                            | Creative  | \-          | \-           |
+| [[1-Projects/Creative/CHEAP AF POST/CHEAP AF POST\|CHEAP AF POST]]                                                                             | Creative  | \-          | \-           |
+| [[1-Projects/Technical/Film Industry Platform/Film Industry Relationship Management Platform\|Film Industry Relationship Management Platform]] | Technical | \-          | \-           |
+
+{ .block-language-dataview}
+
+## Investment Breakdown by Category
+
+| Category  | Project/Area                                                                                                                                      | Energy Level | Last Updated |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ |
+| Creative  | [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]]                                            | 🧊 Low       | \-           |
+| Creative  | [[1-Projects/Creative/CHEAP AF POST/CHEAP AF POST\|CHEAP AF POST]]                                                                             | 🧊 Low       | \-           |
+| Technical | [[1-Projects/Technical/Film Industry Platform/Film Industry Relationship Management Platform\|Film Industry Relationship Management Platform]] | 🧊 Low       | \-           |
+
+{ .block-language-dataview}
+
+## Current Learnings
+
+| Learning Project                                                                                       | Description | Investment Level | Last Updated |
+| ------------------------------------------------------------------------------------------------------ | ----------- | ---------------- | ------------ |
+| [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]] | \-          | 🧊 Low Energy    | \-           |
+
+{ .block-language-dataview}
+
+## Dream Investments ⏳
+
+| Dream Project | Description | Category | Added |
+| ------------- | ----------- | -------- | ----- |
+
+{ .block-language-dataview}
+
+## Weekly Review Prompts
+
+> [!TIP] Weekly Energy Review Questions
+> - **Energy Balance**: Am I feeling energized or drained by my current investments?
+> - **Capacity Check**: Am I at, under, or over my ideal capacity for each energy level?
+> - **Priority Alignment**: Are my high energy investments aligned with my most important goals?
+> - **Maintenance Mode**: Are my low energy investments truly maintenance, or do they need more attention?
+> - **Dream Pipeline**: Which dream investments might be ready to move to active status?
+
+### Reflection Template
+
+**This Week's Energy Assessment:**
+- High Energy Projects: [How did they go?]
+- Medium Energy Projects: [What maintenance was needed?]
+- Low Energy Projects: [Any issues or changes needed?]
+
+**Next Week's Focus:**
+- [ ] Review energy balance
+- [ ] Adjust investment levels if needed
+- [ ] Consider promoting dream investments
+- [ ] Plan energy allocation for upcoming commitments
+
+---
+
+**Last Updated:** 2025-10-19T22:35:30.370-07:00
+**Next Review:** Schedule weekly energy assessment
 
 
 </div></div>
@@ -39,7 +136,12 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 
 ## Current Learnings
-- Studying for my [[3-Resources/Technical/FAA Part 107 Study Notes\|FAA Part 107 Remote Pilot license]]
+
+| Learning Project                                                                                       | Description | Investment Level | Last Updated |
+| ------------------------------------------------------------------------------------------------------ | ----------- | ---------------- | ------------ |
+| [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]] | \-          | 🧊 Low Energy    | \-           |
+
+{ .block-language-dataview}
 
 
 </div></div>
