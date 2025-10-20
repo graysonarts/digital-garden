@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/screenwriting/screenwriting-moc/","title":"Screenwriting MOC","tags":["📍_MOC","🌲_Evergreen","📍_META"],"updated":"2025-10-19T08:11:02.483-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/screenwriting/screenwriting-moc/","title":"Screenwriting MOC","tags":["📍_MOC","🌲_Evergreen","📍_META"],"updated":"2025-10-20T08:24:05.523-07:00"}
 ---
 
 
@@ -25,4 +25,4 @@ Central hub for screenwriting craft, projects, and industry knowledge.
 
 ## Quick Links
 - [[2-Areas/Creative Practice/Writing\|2-Areas/Creative Practice/Writing]] - Ongoing practice
-- [[+INDEX\|+INDEX]] - All resources
+- [[3-Resources/+INDEX\|3-Resources/+INDEX]] - All resources

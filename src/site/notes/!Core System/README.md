@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-system/readme/","title":"The Root","updated":"2025-10-20T07:59:50.718-07:00"}
+{"dg-publish":true,"permalink":"/core-system/readme/","title":"The Root","updated":"2025-10-20T08:24:05.533-07:00"}
 ---
 
 *****I will do my best to (a) follow the processes documented here; and (b) on a regular basis evaluate these processes and update the document to better reflect what's working and what's not, as well as what's important to me and what's not**
@@ -140,7 +140,7 @@ My Obsidian vault uses a hybrid PARA + LYT system for optimal organization:
 **Navigation Hubs:**
 - [[1-Projects/+MOCs/Projects Dashboard\|1-Projects/+MOCs/Projects Dashboard]] - Active project overview
 - [[2-Areas/+MOCs/Areas Dashboard\|2-Areas/+MOCs/Areas Dashboard]] - Responsibility areas
-- [[+INDEX\|+INDEX]] - Topic navigation
+- [[3-Resources/+INDEX\|3-Resources/+INDEX]] - Topic navigation
 
 **Key Benefits:**
 - Action-oriented: Projects separated from reference material

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-system/vault-organization/","title":"Vault Organization Quick Reference","tags":["meta","📍_MOC","🌲_Evergreen","🎯_Personal"],"updated":"2025-10-20T07:59:50.722-07:00"}
+{"dg-publish":true,"permalink":"/core-system/vault-organization/","title":"Vault Organization Quick Reference","tags":["meta","📍_MOC","🌲_Evergreen","🎯_Personal"],"updated":"2025-10-20T08:24:05.538-07:00"}
 ---
 
 
@@ -23,7 +23,7 @@
 
 ### 3-Resources
 - Reference material organized by topic
-- [[+INDEX\|+INDEX]] - Navigation hub
+- [[3-Resources/+INDEX\|3-Resources/+INDEX]] - Navigation hub
 - Creative Coding, Film & Photography, Nutrition & Fitness, Rust Development, Screenwriting, Technical, Web Clippings
 
 ### 4-Archives
@@ -74,7 +74,7 @@
 - Archive: move done/cancelled items; update archived dashboards
 
 ### Linking habits
-- Link up to dashboards/MOCs: [[1-Projects/+MOCs/Projects Dashboard\|1-Projects/+MOCs/Projects Dashboard]], [[2-Areas/+MOCs/Areas Dashboard\|2-Areas/+MOCs/Areas Dashboard]], [[+INDEX\|+INDEX]]
+- Link up to dashboards/MOCs: [[1-Projects/+MOCs/Projects Dashboard\|1-Projects/+MOCs/Projects Dashboard]], [[2-Areas/+MOCs/Areas Dashboard\|2-Areas/+MOCs/Areas Dashboard]], [[3-Resources/+INDEX\|3-Resources/+INDEX]]
 - Link sideways across related notes; add a 1‑sentence summary at top of notes
 
 ### Saved searches (suggested)
@@ -91,7 +91,7 @@
 ## Navigation Hubs
 - [[1-Projects/+MOCs/Projects Dashboard\|1-Projects/+MOCs/Projects Dashboard]] - Active project overview
 - [[2-Areas/+MOCs/Areas Dashboard\|2-Areas/+MOCs/Areas Dashboard]] - Responsibility areas
-- [[+INDEX\|+INDEX]] - Topic navigation
+- [[3-Resources/+INDEX\|3-Resources/+INDEX]] - Topic navigation
 
 ## Topic-Specific MOCs
 - [[3-Resources/Rust Development/Rust Development MOC\|Rust Development MOC]] - All Rust-related content

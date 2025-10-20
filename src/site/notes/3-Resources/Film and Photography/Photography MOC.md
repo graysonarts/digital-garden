@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/film-and-photography/photography-moc/","title":"Photography MOC","tags":["📍_MOC","📸_Photography","📍_META","🌲_Evergreen"],"updated":"2025-10-19T08:05:05.697-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/film-and-photography/photography-moc/","title":"Photography MOC","tags":["📍_MOC","📸_Photography","📍_META","🌲_Evergreen"],"updated":"2025-10-20T08:24:05.517-07:00"}
 ---
 
 
@@ -31,4 +31,4 @@ Central hub for photography projects, techniques, and creative development.
 
 ## Quick Links
 - [[2-Areas/Creative Practice/Photography\|2-Areas/Creative Practice/Photography]] - Ongoing practice
-- [[+INDEX\|+INDEX]] - All resources
+- [[3-Resources/+INDEX\|3-Resources/+INDEX]] - All resources

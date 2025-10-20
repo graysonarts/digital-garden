@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-development-moc/","title":"Rust Development MOC","tags":["📍_MOC","📍_META","🌲_Evergreen"],"updated":"2025-10-19T09:28:46.339-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/rust-development/rust-development-moc/","title":"Rust Development MOC","tags":["📍_MOC","📍_META","🌲_Evergreen"],"updated":"2025-10-20T08:24:05.523-07:00"}
 ---
 
 
@@ -28,5 +28,5 @@ Central hub for all Rust-related learning, projects, and resources.
 - [[3-Resources/Technical/Technical Development Tools\|Technical Development Tools]] - Development environment
 
 ## Quick Links
-- [[+INDEX\|+INDEX]] - All resources
+- [[3-Resources/+INDEX\|3-Resources/+INDEX]] - All resources
 - [[1-Projects/+MOCs/Projects Dashboard\|1-Projects/+MOCs/Projects Dashboard]] - Active projects
