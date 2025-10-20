@@ -19,14 +19,14 @@ Central hub for all Rust-related learning, projects, and resources.
 - [[3-Resources/Rust Development/Rust-Swift Interaction\|Rust-Swift Interaction]] - Cross-platform development
 
 ## Projects & Applications
-- [[1-Projects/Technical/MicroSaaS/MicroSaaS\|MicroSaaS]] - Software as a service
-- [[1-Projects/Technical/Don't Ask me to develop your MVP as homework\|Don't Ask me to develop your MVP as homework]] - Consulting work
+- [[3-Resources/Someday/MicroSaaS\|MicroSaaS]] - Software as a service
+- [[3-Resources/Published/Don't Ask me to develop your MVP as homework\|Don't Ask me to develop your MVP as homework]] - Consulting work
 
 ## Development Practices
 - [[3-Resources/Technical/Trunk-Based Development\|Trunk-Based Development]] - Git workflow
 - [[3-Resources/Technical/Working with JSON in Postgres\|Working with JSON in Postgres]] - Data handling
-- [[3-Resources/Technical Development Tools\|Technical Development Tools]] - Development environment
+- [[3-Resources/Technical/Technical Development Tools\|Technical Development Tools]] - Development environment
 
 ## Quick Links
-- [[3-Resources/+MOCs/+INDEX\|+INDEX]] - All resources
+- [[+INDEX\|+INDEX]] - All resources
 - [[1-Projects/+MOCs/Projects Dashboard\|1-Projects/+MOCs/Projects Dashboard]] - Active projects

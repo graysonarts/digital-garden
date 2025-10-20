@@ -56,5 +56,5 @@ The video ends with a product placement for a biomat device for stress relief an
 
 ## Related Concepts
 - [[3-Resources/Nutrition and Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Sustainable habit formation principles
-- [[3-Resources/+MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal application of systematic goal-setting
-- [[Atlas/Sources/Books/Made to Stick\|Sources/Books/Made to Stick]] - Principles for creating memorable and effective systems
+- [[My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal application of systematic goal-setting
+- [[3-Resources/Books/Made to Stick\|Sources/Books/Made to Stick]] - Principles for creating memorable and effective systems

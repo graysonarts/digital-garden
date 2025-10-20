@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/creative/anime-drawing-curriculum/anime-drawing-curriculum/","tags":["figure-drawing","art-curriculum","adhd-learning","digital-art","procreate","🌱_Active","🎨_Creative","💻_Project_Doc","📚_Learning","🧊_Frozen_Investment"],"updated":"2025-10-19T22:36:40.325-07:00"}
+{"dg-publish":true,"permalink":"/1-projects/creative/anime-drawing-curriculum/anime-drawing-curriculum/","tags":["figure-drawing","art-curriculum","adhd-learning","digital-art","procreate","🌱_Active","🎨_Creative","💻_Project_Doc","📚_Learning","🧊_Frozen_Investment"],"updated":"2025-10-20T07:12:51.259-07:00"}
 ---
 
 ## Meta Information
@@ -15,11 +15,6 @@
 **Timeline:** 12+ months to proficiency **Total Practice Hours:** 500-1,000+ hours **Study Approach:** Realism first, then strategic stylization
 
 ---
-
-## Table of Contents
-
----
-
 ## Core Learning Philosophy
 
 > [!important] The Foundation Principle **Master realistic anatomy first, then strategically stylize.** All successful manga and anime artists trained extensively in realism before developing signature styles.

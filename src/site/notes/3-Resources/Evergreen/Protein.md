@@ -63,4 +63,4 @@ Original Note: [[3-Resources/Evergreen/Protein\|Protein]]
 ## Related Concepts
 - [[3-Resources/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]] - Practical protein application
 - [[3-Resources/Nutrition and Fitness/30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles\|30 Years of Weight Loss Research in 4 Minutes -  The 3 Fundamental Principles]] - Research supporting protein importance
-- [[3-Resources/+MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework
+- [[My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework

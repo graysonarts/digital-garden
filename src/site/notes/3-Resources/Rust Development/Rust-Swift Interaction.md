@@ -50,6 +50,6 @@ If I want to support syncing across devices (probably not in v1), I will need to
 `UniFFI-rs` provides a bindgen style interface for Swift and other languages. https://mozilla.github.io/uniffi-rs/
 
 ## Related Concepts
-- [[3-Resources/+MOCs/Rust\|Rust]] - Main MOC for Rust programming resources
-- [[3-Resources/Rust Development/The Rust Garden/Typestate\|Typestate]] - Advanced Rust patterns for state management
+- [[Rust\|Rust]] - Main MOC for Rust programming resources
+- [[3-Resources/Rust Development/Typestate\|Typestate]] - Advanced Rust patterns for state management
 - [[3-Resources/Rust Development/Rust Compile Time Optimizations\|Rust Compile Time Optimizations]] - Performance optimization techniques

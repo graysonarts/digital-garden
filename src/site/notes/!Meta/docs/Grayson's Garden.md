@@ -6,7 +6,7 @@
 
 This is my attempt to [Learn in Public](https://www.swyx.io/learn-in-public). Sometimes it's tech, sometimes it's art, sometimes it's writing or filmmaking. It's all a journey, and this documents that journey.
 
-You can read about my [[!Core System/Core System\|Core System]] for productivity. As someone with ADHD, it can be hard to get things done, so I try to systematize as much as possible.
+You can read about my [[Core System\|Core System]] for productivity. As someone with ADHD, it can be hard to get things done, so I try to systematize as much as possible.
 
 I am slowly moving this Garden over from my previous attempt at having a garden. I want to bring my Garden into my main vault now supported using [Obsidian Digital Garden Plugin](https://dg-docs.ole.dev/) instead of the various ways I was doing it before.
 
@@ -44,7 +44,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 ### Low Energy Investments 🧊
 | Investment Level | Current | Capacity | Status     |
 | ---------------- | ------- | -------- | ---------- |
-| Low Energy       | 3       | ∞        | ✅ No Limit |
+| Low Energy       | 1       | ∞        | ✅ No Limit |
 
 { .block-language-dataview}
 
@@ -66,21 +66,17 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 ### Low Energy Investments 🧊
 
-| Project/Area                                                                                                                                      | Category  | Description | Last Updated |
-| ------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | ------------ |
-| [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]]                                            | Creative  | \-          | \-           |
-| [[1-Projects/Creative/CHEAP AF POST/CHEAP AF POST\|CHEAP AF POST]]                                                                             | Creative  | \-          | \-           |
-| [[1-Projects/Technical/Film Industry Platform/Film Industry Relationship Management Platform\|Film Industry Relationship Management Platform]] | Technical | \-          | \-           |
+| Project/Area                                                                                           | Category | Description | Last Updated |
+| ------------------------------------------------------------------------------------------------------ | -------- | ----------- | ------------ |
+| [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]] | Creative | \-          | \-           |
 
 { .block-language-dataview}
 
 ## Investment Breakdown by Category
 
-| Category  | Project/Area                                                                                                                                      | Energy Level | Last Updated |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------ |
-| Creative  | [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]]                                            | 🧊 Low       | \-           |
-| Creative  | [[1-Projects/Creative/CHEAP AF POST/CHEAP AF POST\|CHEAP AF POST]]                                                                             | 🧊 Low       | \-           |
-| Technical | [[1-Projects/Technical/Film Industry Platform/Film Industry Relationship Management Platform\|Film Industry Relationship Management Platform]] | 🧊 Low       | \-           |
+| Category | Project/Area                                                                                           | Energy Level | Last Updated |
+| -------- | ------------------------------------------------------------------------------------------------------ | ------------ | ------------ |
+| Creative | [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]] | 🧊 Low       | \-           |
 
 { .block-language-dataview}
 
@@ -123,7 +119,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 ---
 
-**Last Updated:** 2025-10-19T22:35:30.370-07:00
+**Last Updated:** 2025-10-20T05:45:46.115-07:00
 **Next Review:** Schedule weekly energy assessment
 
 

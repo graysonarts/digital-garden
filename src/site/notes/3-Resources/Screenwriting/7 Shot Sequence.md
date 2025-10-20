@@ -34,6 +34,6 @@ Getting an abstract shot in the bag allows you to spice up your edit but it can 
 This is where you should get creative, you've got everything else in the bag, now get a shot that's unexpected, something that's not obvious that could add interest to the sequence. A point of view shot could work here, or a shot from inside an object or through something like a mirror or glass.
 
 ## Related Concepts
-- [[3-Resources/+MOCs/Photographers\|Photographers]] - MOC for photographer exploration
+- [[Photographers\|Photographers]] - MOC for photographer exploration
 - [[3-Resources/Film and Photography/Laura Aguilar\|Laura Aguilar]] - Documentary photographer using similar techniques
-- [[3-Resources/+MOCs/Art\|Art]] - MOC for art research and exploration
+- [[Art\|Art]] - MOC for art research and exploration

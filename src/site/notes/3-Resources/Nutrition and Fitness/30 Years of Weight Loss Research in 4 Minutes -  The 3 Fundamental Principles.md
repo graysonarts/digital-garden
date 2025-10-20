@@ -52,5 +52,5 @@ The video concludes with a reference to another video showing what Dr. Go eats d
 ## Related Concepts
 - [[3-Resources/Evergreen/Protein\|Protein]] - Detailed protein information supporting principle #2
 - [[3-Resources/Atomic Notes/Protein Ice Cream\|Protein Ice Cream]] - Practical protein application
-- [[3-Resources/+MOCs/My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework
+- [[My Fitness and Nutrition\|My Fitness and Nutrition]] - Personal nutrition framework
 - [[3-Resources/Web Clippings/How to Design Your Life (My Process For Achieving Goals) - YouTube\|How to Design Your Life (My Process For Achieving Goals) - YouTube]] - Goal-setting framework for sustainable habits
