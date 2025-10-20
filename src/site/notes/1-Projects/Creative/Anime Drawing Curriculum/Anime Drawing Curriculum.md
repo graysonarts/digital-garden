@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/creative/anime-drawing-curriculum/anime-drawing-curriculum/","tags":["figure-drawing","art-curriculum","adhd-learning","digital-art","procreate","🌱_Active","🎨_Creative","💻_Project_Doc","📚_Learning","🧊_Frozen_Investment"],"updated":"2025-10-20T07:12:51.259-07:00"}
+{"dg-publish":true,"permalink":"/1-projects/creative/anime-drawing-curriculum/anime-drawing-curriculum/","title":"Anime Drawing Curriculum","tags":["figure-drawing","art-curriculum","adhd-learning","digital-art","procreate","🌱_Active","🎨_Creative","💻_Project_Doc","📚_Learning","🧊_Frozen_Investment"],"updated":"2025-10-20T08:29:56.077-07:00"}
 ---
 
 ## Meta Information
