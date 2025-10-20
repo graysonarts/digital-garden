@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/complete-tag-system-documentation/","title":"Simplified Tag System Documentation","tags":["📍_MOC","📖_Documentation","🏷️_Tags"],"updated":"2025-10-20T08:23:09.516-07:00"}
+{"dg-publish":true,"permalink":"/meta/docs/complete-tag-system-documentation/","title":"Simplified Tag System Documentation","tags":["📍_MOC","📖_Documentation","🏷️_Tags"],"updated":"2025-10-20T08:42:13.294-07:00"}
 ---
 
 
@@ -68,9 +68,9 @@ This document provides a streamlined guide to the tag system used throughout the
 - `💪_Active_Investment` - High energy investments (limit: 2-3 active projects)
 - `🍀_Tending_Investment` - Medium energy investments (limit: 3-4 tending projects)
 - `🧊_Frozen_Investment` - Low energy/maintenance mode (no limit)
-- `⏳_Someday_Investment` - Dream investments (stored in `3-Resources/Someday` folder)
+- `⏳_Someday` - Dream investments (stored in `3-Resources/Someday` folder)
 
-**Usage**: Apply exactly one energy investment tag to projects/areas you want to track in your Energy Investment Portfolio. The `_Investment` suffix distinguishes these from Content Maturity tags.
+**Usage**: Apply exactly one energy investment tag to projects/areas you want to track in your Energy Investment Portfolio. The `_Investment` suffix distinguishes these from Content Maturity tags (except for Someday)
 
 ## Tagging Guidelines
 
@@ -103,30 +103,6 @@ Every piece of content should have:
 **Learning Notes**:
 - `📥_New` + `🗒️_Note` + `🎓_Learning` + `🔧_Technical`
 
-## Migration from Previous System
-
-### Content Maturity Mapping
-- `📥_New` → `📥_New`
-- `🌱_Processing` / `💪_Active` / `📋_Planning` → `🌱_Active`
-- `✅_Processed` / `✅_Done` / `🌲_Evergreen` → `🌲_Evergreen` or `📦_Archive`
-- `🧊_Frozen` / `❌_Canceled` → `📦_Archive`
-
-### Content Format Mapping
-- Most content uses `🗒️_Note` or `📍_MOC`
-- Keep only essential format tags from the previous system
-
-### Subject/Domain Mapping
-- Consolidate overlapping tags from Work Type, Life Areas, Content Domain into single subject tags
-- Example: `💼_Client_Work` + `🔧_Technical` + `🔧_Technology` → just `🔧_Technical`
-
-## Benefits of Simplified System
-
-1. **Faster tagging**: 3 decisions instead of 12
-2. **Better search**: Fewer overlapping tags = clearer results
-3. **Less maintenance**: 30-40 tags total instead of 100+
-4. **PARA integration**: Folder structure handles organization, tags handle discovery
-5. **Clearer mental model**: Maturity + Format + Subject = everything you need
-
 ## Integration with PARA
 
 - **Projects**: Use Content Maturity + Content Format + relevant Subject/Domain tags
@@ -134,4 +110,3 @@ Every piece of content should have:
 - **Resources**: Use Content Maturity + Content Format + relevant Subject/Domain tags
 - **Archives**: Use `📦_Archive` + original tags for reference
 
-This simplified system focuses on content discovery while leveraging PARA folders for organizational structure.
