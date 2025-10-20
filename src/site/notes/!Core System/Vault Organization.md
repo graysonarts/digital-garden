@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-system/vault-organization/","title":"Vault Organization Quick Reference","tags":["meta","📍_MOC","🌲_Evergreen","🎯_Personal"],"updated":"2025-10-20T08:24:05.538-07:00"}
+{"dg-publish":true,"permalink":"/core-system/vault-organization/","title":"Vault Organization Quick Reference","tags":["meta","📍_MOC","🌲_Evergreen","🎯_Personal"],"updated":"2025-10-20T10:21:17.753-07:00"}
 ---
 
 
@@ -96,7 +96,7 @@
 ## Topic-Specific MOCs
 - [[3-Resources/Rust Development/Rust Development MOC\|Rust Development MOC]] - All Rust-related content
 - [[3-Resources/Film and Photography/Photography MOC\|Photography MOC]] - Photography projects and techniques
-- [[3-Resources/Screenwriting/Screenwriting MOC\|Screenwriting MOC]] - Screenwriting craft and projects
+- [[3-Resources/_Screenwriting\|_Screenwriting]] - Screenwriting craft and projects
 
 ## Migration Summary
 - Atlas → Resources (organized by topic)

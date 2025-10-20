@@ -52,13 +52,12 @@ Reference materials organized by topic for easy discovery and learning.
 
 ### Screenwriting
 
-| Resource                                                                                                | Description | Tags                                                                      | Updated                    |
-| ------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------- | -------------------------- |
-| [[3-Resources/Screenwriting/3 Act Structure\|3 Act Structure]]                                       | \-          | <ul><li>🎭_Screenwriting</li><li>☢️_Atomic</li><li>🌲_Evergreen</li></ul> | \-                         |
-| [[3-Resources/Screenwriting/7 Shot Sequence\|7 Shot Sequence]]                                       | \-          | <ul><li>🎬_Film</li><li>🌲_Evergreen</li><li>☢️_Atomic</li></ul>          | \-                         |
-| [[3-Resources/Screenwriting/Action Thrillers to watch and read\|Action Thrillers to watch and read]] | \-          | <ul><li>🎬_Film</li><li>📝_Tracking_Note</li><li>🌱_Active</li></ul>      | \-                         |
-| [[3-Resources/Screenwriting/Made to Stick\|Made to Stick]]                                           | \-          | <ul><li>🌱_Active</li><li>📖_Reference</li><li>🎯_Personal</li></ul>      | 8:01 AM - July 25, 2025    |
-| [[3-Resources/Screenwriting/Screenwriting MOC\|Screenwriting MOC]]                                   | \-          | <ul><li>📍_MOC</li><li>🌲_Evergreen</li><li>📍_META</li></ul>             | 6:30 PM - January 28, 2025 |
+| Resource                                                                                                | Description | Tags                                                                      | Updated                 |
+| ------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------- | ----------------------- |
+| [[3-Resources/Screenwriting/3 Act Structure\|3 Act Structure]]                                       | \-          | <ul><li>🎭_Screenwriting</li><li>☢️_Atomic</li><li>🌲_Evergreen</li></ul> | \-                      |
+| [[3-Resources/Screenwriting/7 Shot Sequence\|7 Shot Sequence]]                                       | \-          | <ul><li>🎬_Film</li><li>🌲_Evergreen</li><li>☢️_Atomic</li></ul>          | \-                      |
+| [[3-Resources/Screenwriting/Action Thrillers to watch and read\|Action Thrillers to watch and read]] | \-          | <ul><li>🎬_Film</li><li>📝_Tracking_Note</li><li>🌱_Active</li></ul>      | \-                      |
+| [[3-Resources/Screenwriting/Made to Stick\|Made to Stick]]                                           | \-          | <ul><li>🌱_Active</li><li>📖_Reference</li><li>🎯_Personal</li></ul>      | 8:01 AM - July 25, 2025 |
 
 { .block-language-dataview}
 

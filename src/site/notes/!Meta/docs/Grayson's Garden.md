@@ -44,7 +44,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 | -------- | -------------------------------------------------------------------------------------------------------- | ------------ | --------------------------- |
 | Creative | [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]]   | 🧊 Low       | 8:29 AM - October 20, 2025  |
 | Creative | [[1-Projects/Creative/Engineer to Artist/Engineer to Artist - Youtube\|Engineer to Artist - Youtube]] | 💪 High      | 10:17 AM - October 20, 2025 |
-| Creative | [[1-Projects/Screenplay/Passenger Seat - Feature Script/Passenger Seat\|Passenger Seat]]              | 💪 High      | 9:55 AM - October 20, 2025  |
+| Creative | [[1-Projects/Screenplay/Shotgun - Feature Script/Shotgun\|Shotgun]]                                   | 💪 High      | 9:55 AM - October 20, 2025  |
 
 { .block-language-dataview}
 
