@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/screenwriting/3-act-structure/","tags":["🎭_Screenwriting","☢️_Atomic","🌲_Evergreen"],"updated":"2025-10-19T08:10:41.603-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/screenwriting/3-act-structure/","tags":["🎭_Screenwriting","☢️_Atomic","🌲_Evergreen"],"updated":"2025-10-20T10:18:10.863-07:00"}
 ---
 
 
@@ -22,6 +22,6 @@
 - https://www.studiobinder.com/blog/three-act-structure/
 
 ## Related Concepts
-- [[3-Resources/Screenwriting/Save The Cat\|Save The Cat]] - Alternative story structure framework
+- [[3-Resources/Screenwriting/Save The Cat\|3-Resources/Screenwriting/Save The Cat]] - Alternative story structure framework
 - [[3-Resources/Screenwriting/Loglines\|Loglines]] - Story summaries that follow structure principles
 - [[3-Resources/Screenwriting/Made to Stick\|Made to Stick]] - Principles for creating memorable stories

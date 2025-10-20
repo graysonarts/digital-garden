@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/screenwriting/made-to-stick/","title":"Made to Stick","tags":["🌱_Active","📖_Reference","🎯_Personal"],"updated":"2025-10-19T09:16:24.788-07:00"}
+{"dg-publish":true,"permalink":"/3-resources/screenwriting/made-to-stick/","title":"Made to Stick","tags":["🌱_Active","📖_Reference","🎯_Personal"],"updated":"2025-10-20T10:18:10.869-07:00"}
 ---
 
 Purchase the book: $[Made to Stick](https://amzn.to/4mfWzTu)
@@ -28,6 +28,6 @@ Sticky stories are understandable, memorable, and effective in changing thoughts
 
 ## Related Concepts
 - [[3-Resources/Screenwriting/3 Act Structure\|3 Act Structure]] - Story structure framework for memorable narratives
-- [[3-Resources/Screenwriting/Save The Cat\|Save The Cat]] - Alternative story structure approach
+- [[3-Resources/Screenwriting/Save The Cat\|3-Resources/Screenwriting/Save The Cat]] - Alternative story structure approach
 - [[3-Resources/Screenwriting/Loglines\|Loglines]] - Compelling story summaries
 - [[3-Resources/Web Clippings/How to Design Your Life (My Process For Achieving Goals) - YouTube\|How to Design Your Life (My Process For Achieving Goals) - YouTube]] - Systematic approach to goal achievement

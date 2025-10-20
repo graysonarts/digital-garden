@@ -19,8 +19,9 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 ## Investment Capacity Overview
 
 ### High Energy Investments 💪
-| Investment Level | Current | Capacity | Status |
-| ---------------- | ------- | -------- | ------ |
+| Investment Level | Current | Capacity | Status           |
+| ---------------- | ------- | -------- | ---------------- |
+| High Energy      | 2       | 2-3      | ✅ Under Capacity |
 
 { .block-language-dataview}
 
@@ -39,9 +40,11 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 ## Investment Breakdown by Category
 
-| Category | Project/Area                                                                                           | Energy Level | Last Updated               |
-| -------- | ------------------------------------------------------------------------------------------------------ | ------------ | -------------------------- |
-| Creative | [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]] | 🧊 Low       | 8:29 AM - October 20, 2025 |
+| Category | Project/Area                                                                                             | Energy Level | Last Updated                |
+| -------- | -------------------------------------------------------------------------------------------------------- | ------------ | --------------------------- |
+| Creative | [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]]   | 🧊 Low       | 8:29 AM - October 20, 2025  |
+| Creative | [[1-Projects/Creative/Engineer to Artist/Engineer to Artist - Youtube\|Engineer to Artist - Youtube]] | 💪 High      | 10:17 AM - October 20, 2025 |
+| Creative | [[1-Projects/Screenplay/Passenger Seat - Feature Script/Passenger Seat\|Passenger Seat]]              | 💪 High      | 9:55 AM - October 20, 2025  |
 
 { .block-language-dataview}
 
