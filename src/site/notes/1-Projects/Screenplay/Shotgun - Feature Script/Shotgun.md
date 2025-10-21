@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/1-projects/screenplay/shotgun-feature-script/shotgun/","title":"Passenger Seat","tags":["🌱_Active","🎭_Screenwriting","💻_Project_Doc","💪_Active_Investment"],"updated":"2025-10-20T11:24:25.353-07:00"}
+{"dg-publish":true,"permalink":"/1-projects/screenplay/shotgun-feature-script/shotgun/","title":"Shotgun","tags":["🌱_Active","🎭_Screenwriting","💻_Project_Doc","💪_Active_Investment"],"updated":"2025-10-21T16:53:11.445-07:00"}
 ---
+
 
 > [!Context]
 > Area: [[2-Areas/Creative Practice/Writing Practice/_Writing Practice\|2-Areas/Creative Practice/Writing Practice/_Writing Practice]]
@@ -11,6 +12,6 @@
 > This note is intended for publishing to track energy investment is a public manner
 ## Stages
 - [x] Logline
-- [/] Outline #next_action
-- [ ] Treatment
-- [ ] Draft Ready for Reader
+- [x] Outline  ✅ 2025-10-20
+- [x] Treatment ✅ 2025-10-21
+- [ ] Draft Ready for Reader #next_action
