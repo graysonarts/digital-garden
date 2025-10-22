@@ -3,7 +3,7 @@
 ---
 
 
-- [[3-Resources/Atomic Notes/Five Fundamental Characteristics of Light Sculptures\|Five Fundamental Characteristics of Light Sculptures]]
 - [[3-Resources/Atomic Notes/Current Light Sculpture Artists\|Current Light Sculpture Artists]]
+- [[3-Resources/Atomic Notes/Five Fundamental Characteristics of Light Sculptures\|Five Fundamental Characteristics of Light Sculptures]]
 
 { .block-language-dataview}

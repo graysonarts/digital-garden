@@ -58,7 +58,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 | Learning Project                                                                                       | Description | Investment Level | Last Updated |
 | ------------------------------------------------------------------------------------------------------ | ----------- | ---------------- | ------------ |
-| [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]] | \-          | 🧊 Low Energy    | 0 days ago   |
+| [[1-Projects/Creative/Anime Drawing Curriculum/Anime Drawing Curriculum\|Anime Drawing Curriculum]] | \-          | 🧊 Low Energy    | 1 days ago   |
 
 { .block-language-dataview}
 

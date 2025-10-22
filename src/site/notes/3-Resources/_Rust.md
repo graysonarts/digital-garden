@@ -38,11 +38,11 @@
 - https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
 
 ## Rust Pages
-- [[3-Resources/Rust Development/The Rust Garden/Adding Stripe Subscriptions to rust axum\|Adding Stripe Subscriptions to rust axum]]
 - [[3-Resources/Rust Development/SwiftUI + SwiftData + Rust Domain Core\|SwiftUI + SwiftData + Rust Domain Core]]
+- [[3-Resources/Rust Development/The Rust Garden/Adding Stripe Subscriptions to rust axum\|Adding Stripe Subscriptions to rust axum]]
 - [[3-Resources/Rust Development/Rust on ESP32\|Rust on ESP32]]
-- [[3-Resources/Rust Development/Leptos Iterating over collections with update\|Leptos Iterating over collections with update]]
 - [[3-Resources/Rust Development/Embedded Rust on RP2040\|Embedded Rust on RP2040]]
+- [[3-Resources/Rust Development/Leptos Iterating over collections with update\|Leptos Iterating over collections with update]]
 - [[3-Resources/Atomic Notes/Leptos Generic Component Prop\|Leptos Generic Component Prop]]
 
 { .block-language-dataview}

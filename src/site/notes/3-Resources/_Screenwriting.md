@@ -15,9 +15,9 @@ Central hub for screenwriting craft, projects, and industry knowledge.
 
 
 ## Writing Practice
-- [[2-Areas/Creative Practice/Writing Practice/Writing Screenplays\|Writing Screenplays]] - General craft
+- [[2-Areas/Creative Practice/Writing/Writing Screenplays\|Writing Screenplays]] - General craft
 - [[4-Archives/Projects/Screenplays/The Boarding School Show/The Boarding School Show\|The Boarding School Show]] - Series development
-- [[2-Areas/Creative Practice/Writing Practice/What is Your Automated Life?\|What is Your Automated Life?]] - Concept development
+- [[2-Areas/Creative Practice/Writing/What is Your Automated Life?\|What is Your Automated Life?]] - Concept development
 
 ## Industry Resources
 - [[3-Resources/Evergreen/Screenplay Competitions to submit to\|Screenplay Competitions to submit to]] - Submission opportunities
