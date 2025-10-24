@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/core-system/readme/","title":"The Root","updated":"2025-10-20T08:24:05.533-07:00"}
+{"dg-publish":true,"permalink":"/core-system/readme/","title":"The Root","updated":"2025-10-24T13:42:09.628-07:00"}
 ---
 
 *****I will do my best to (a) follow the processes documented here; and (b) on a regular basis evaluate these processes and update the document to better reflect what's working and what's not, as well as what's important to me and what's not**
@@ -127,26 +127,32 @@ I will never commit verbal violence against anyone, including myself.
 1. I review my values once a week and create a value plan as part of weekly planning with notes about what I want to focus on that week that aligns with my values, and maybe experiments or habits I would like to implement to help keep me better aligned with my values.
 2. I review my strategies once a week when doing my weekly planning. I can tweak them at any time, but I try to overhaul them once a quarter at least. If a major like change happens, I also will likely overhaul them then.
 3. I maintain an idea notebook which I keep with me as much as possible. I review this notebook when I update my strategies to incorporate new ideas into my life.
-## Vault Organization (PARA + LYT)
+## Vault Organization (ACE Framework)
 
-My Obsidian vault uses a hybrid PARA + LYT system for optimal organization:
+My Obsidian vault uses the ACE framework for optimal organization:
 
-**PARA Structure:**
-- [[1-Projects\|1-Projects]] - Active work with deadlines (2-week to 3-month timeframe)
-- [[2-Areas\|2-Areas]] - Ongoing responsibilities (health, business, creative)
-- [[3-Resources\|3-Resources]] - Reference material organized by topic
-- [[4-Archives\|4-Archives]] - Completed/inactive items
+**ACE Structure:**
+- [[Atlas\|Atlas]] - Knowledge base and reference materials organized by topic
+- [[Calendar\|Calendar]] - Moments in time, daily thoughts, and temporal tracking
+- [[Efforts\|Efforts]] - Actions of importance organized by status
+
+**Effort Status Categories:**
+- [[Efforts/🔥 On\|Efforts/🔥 On]] - Currently active efforts requiring significant attention
+- [[Efforts/♻️ Ongoing\|Efforts/♻️ Ongoing]] - Continuous responsibilities requiring regular maintenance
+- [[Efforts/〰️ Simmering\|Efforts/〰️ Simmering]] - Back-burner initiatives needing occasional attention
+- [[Efforts/😴 Sleeping\|Efforts/😴 Sleeping]] - Inactive efforts, potential future work
+- [[Efforts/✅ Archive\|Efforts/✅ Archive]] - Completed efforts kept for reference
 
 **Navigation Hubs:**
-- [[1-Projects/+MOCs/Projects Dashboard\|1-Projects/+MOCs/Projects Dashboard]] - Active project overview
-- [[2-Areas/+MOCs/Areas Dashboard\|2-Areas/+MOCs/Areas Dashboard]] - Responsibility areas
-- [[3-Resources/+INDEX\|3-Resources/+INDEX]] - Topic navigation
+- [[Efforts/_Efforts Dashboard\|Efforts/_Efforts Dashboard]] - All efforts organized by status
+- [[Atlas/_Resources Index\|Atlas/_Resources Index]] - Knowledge base navigation
+- [[Calendar/Journal\|Calendar/Journal]] - Daily journaling and reflection
 
 **Key Benefits:**
-- Action-oriented: Projects separated from reference material
-- Discoverable: Topic-based Resources + MOC navigation
-- Scalable: PARA handles growth, MOCs provide wayfinding
-- Creative support: LYT linking enables ideation and connection-making
+- Clear intent: Efforts organized by actual status rather than arbitrary categories
+- Flexible scope: Efforts can breathe and evolve without rigid constraints
+- Natural evolution: Easy to move efforts between status folders as priorities change
+- Better alignment: Matches how you actually think about and manage your work
 
 ## How do I use my core system?
 
