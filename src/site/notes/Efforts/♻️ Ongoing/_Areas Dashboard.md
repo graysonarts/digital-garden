@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efforts/ongoing/areas-dashboard/","title":"Areas Dashboard","tags":["📍_MOC","🌲_Evergreen","📍_META"],"updated":"2025-10-24T13:39:09.202-07:00"}
+{"dg-publish":true,"permalink":"/efforts/ongoing/areas-dashboard/","title":"Areas Dashboard","tags":["📍_MOC","🌲_Evergreen","📍_META"],"updated":"2025-10-24T15:36:46.338-07:00"}
 ---
 
 
@@ -46,5 +46,5 @@ Ongoing responsibilities and practices that require regular attention.
 
 ## Quick Links
 - [[1-Projects/_Projects Dashboard\|1-Projects/_Projects Dashboard]] - Active projects
-- [[3-Resources/_Resources Index\|3-Resources/_Resources Index]] - Learning materials
+- [[Atlas/_Resources Index\|Atlas/_Resources Index]] - Learning materials
 - [[!Core System/README\|!Core System/README]] - Core workflow

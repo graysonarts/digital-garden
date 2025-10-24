@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/complete-tag-system-documentation/","title":"Simplified Tag System Documentation","tags":["📍_MOC","📖_Documentation","🏷️_Tags"],"updated":"2025-10-20T08:42:13.294-07:00"}
+{"dg-publish":true,"permalink":"/meta/docs/complete-tag-system-documentation/","title":"Simplified Tag System Documentation","tags":["📍_MOC","📖_Documentation","🏷️_Tags"],"updated":"2025-10-24T15:36:46.338-07:00"}
 ---
 
 
@@ -68,7 +68,7 @@ This document provides a streamlined guide to the tag system used throughout the
 - `💪_Active_Investment` - High energy investments (limit: 2-3 active projects)
 - `🍀_Tending_Investment` - Medium energy investments (limit: 3-4 tending projects)
 - `🧊_Frozen_Investment` - Low energy/maintenance mode (no limit)
-- `⏳_Someday` - Dream investments (stored in `3-Resources/Someday` folder)
+- `⏳_Someday` - Dream investments (stored in `Atlas/Someday` folder)
 
 **Usage**: Apply exactly one energy investment tag to projects/areas you want to track in your Energy Investment Portfolio. The `_Investment` suffix distinguishes these from Content Maturity tags (except for Someday)
 
@@ -109,4 +109,3 @@ Every piece of content should have:
 - **Areas**: Use Content Maturity + Content Format + relevant Subject/Domain tags
 - **Resources**: Use Content Maturity + Content Format + relevant Subject/Domain tags
 - **Archives**: Use `📦_Archive` + original tags for reference
-

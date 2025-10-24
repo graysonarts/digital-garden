@@ -67,6 +67,5 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 { .block-language-dataview}
 # Maps of Content
-- [[Atlas/_Resources Index\|_Resources Index]]
 
 { .block-language-dataview}
