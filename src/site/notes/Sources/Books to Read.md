@@ -1,12 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/sources/books-to-read/","title":"Books to Read","tags":["📍_MOC","🎯_Personal"],"updated":"2025-11-02T10:07:01.228-08:00"}
+{"dg-publish":true,"permalink":"/sources/books-to-read/","title":"Books to Read","tags":["📍_MOC","🎯_Personal"],"updated":"2025-11-02T10:13:24.195-08:00"}
 ---
 
 
+## CURRENTLY READING
+- [Inside Story](https://www.amazon.com/dp/B084QH2PXS/?tag=graysoninseattle-20) (in progress)
 ## eBooks that I've Bought but Haven't Read
 
 ### Bought in 2025
-- [Inside Story](https://www.amazon.com/dp/B084QH2PXS/?tag=graysoninseattle-20) (in progress)
+
 - [Investomers](https://www.amazon.com/dp/B0DXD74PXX/?tag=graysoninseattle-20)
 - [Never Play It Safe](https://www.amazon.com/dp/B0CVQB61GV/?tag=graysoninseattle-20)
 - [Clockwork](https://www.amazon.com/dp/B09HFW3NG8/?tag=graysoninseattle-20)
@@ -39,3 +41,5 @@
 ### Bought before 2023
 - [Be The Artist](https://www.amazon.com/dp/B084H1T9GS/?tag=graysoninseattle-20)
 - [Actionable Gamification](https://www.amazon.com/dp/B00WAOGY4U/?tag=graysoninseattle-20)
+
+_(all links affiliate links)_
