@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/sources/books-to-read/","title":"Books to Read","tags":["📍_MOC","🎯_Personal"],"updated":"2025-11-02T10:13:24.195-08:00"}
+{"dg-publish":true,"permalink":"/sources/books-to-read/","title":"Books to Read","tags":["📍_MOC","🎯_Personal"],"updated":"2025-11-02T14:53:46.808-08:00"}
 ---
 
 
+## CURRENTLY LISTENING
+- [Me, But Better](https://www.amazon.com/Me-But-Better-Science-Personality-ebook/dp/B0D5VZFXBT?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.Oa95wF7xPVMhehmLI_t0Ehg3lqZvmRQ_iht0FRVYR9cT5GRz7LDlBl6FSa8HLQkp3ARQV3ofBKlB7YwfXgpy0C8qp8gbRlQHo16V_wMJPztFJcbI8FnSgAWmZUy-GBF3f__ww3BfDmiee2xZwluvvOVrjU40dP_Lxra5cQsc9mZpZIjMhVxBeK2N9M_yYPnhBc5M3qjf2u26OMEo7qDAggvpsrqmso62i9SOB19_10I.AFDpqSIhHI0DC6haYcULPkFDjfaIrdfYIADWvWD-Z5c&qid=1762123979&sr=8-1&linkCode=ll1&tag=graysoninseattle-20&linkId=6ad5a908a73af726136ca95235c937b3&language=en_US&ref_=as_li_ss_tl) 
 ## CURRENTLY READING
-- [Inside Story](https://www.amazon.com/dp/B084QH2PXS/?tag=graysoninseattle-20) (in progress)
+- [Inside Story](https://www.amazon.com/dp/B084QH2PXS/?tag=graysoninseattle-20) 
 ## eBooks that I've Bought but Haven't Read
 
 ### Bought in 2025
