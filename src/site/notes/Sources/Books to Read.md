@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sources/books-to-read/","title":"Books to Read","tags":["📍_MOC","🎯_Personal"],"updated":"2025-11-02T15:32:55.916-08:00"}
+{"dg-publish":true,"permalink":"/sources/books-to-read/","title":"Books to Read","tags":["📍_MOC","🎯_Personal"],"updated":"2025-11-03T15:23:03.499-08:00"}
 ---
 
 
@@ -8,10 +8,14 @@
 ## CURRENTLY READING
 - [Inside Story](https://www.amazon.com/dp/B084QH2PXS/?tag=graysoninseattle-20)
 
+## Up next
+- [Ideaflow](https://www.amazon.com/dp/B09R6M3292?tag=graysoninseattle-20)
+
 ---
 ## TO READ
 
 ### Bought in 2025
+- 
 - [Investomers](https://www.amazon.com/dp/B0DXD74PXX/?tag=graysoninseattle-20)
 - [Never Play It Safe](https://www.amazon.com/dp/B0CVQB61GV/?tag=graysoninseattle-20)
 - [Clockwork](https://www.amazon.com/dp/B09HFW3NG8/?tag=graysoninseattle-20)
