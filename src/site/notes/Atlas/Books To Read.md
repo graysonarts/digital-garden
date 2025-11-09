@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/books-to-read/","title":"Books To Read","tags":["📍_MOC","🎯_Personal"],"updated":"2025-11-09T11:43:02.979-08:00"}
+{"dg-publish":true,"permalink":"/atlas/books-to-read/","title":"Books To Read","tags":["📍_MOC","🎯_Personal"],"updated":"2025-11-09T11:45:54.769-08:00"}
 ---
 
 
 ## CURRENTLY LISTENING
-- 
+- [The Creative Act](https://www.amazon.com/dp/B0B3L8W1JJ/?tag=graysoninseattle-20) (audiobook)
 ## CURRENTLY READING
 - [Ideaflow](https://www.amazon.com/dp/B09R6M3292?tag=graysoninseattle-20)
 
@@ -39,7 +39,6 @@
 - [Social 3.0](https://www.amazon.com/dp/B09TN35BC3/?tag=graysoninseattle-20)
 - [Take Your Shot](https://www.amazon.com/dp/B074679GZ6/?tag=graysoninseattle-20)
 - [Feel-Good Productivity](https://www.amazon.com/dp/B0BQGKNHW1/?tag=graysoninseattle-20) (in progress)
-- [The Creative Act](https://www.amazon.com/dp/B0B3L8W1JJ/?tag=graysoninseattle-20) (audiobook)
 - [Hit Makers](https://www.amazon.com/dp/B01HNJIJ58/?tag=graysoninseattle-20)
 - [The Courage to be Disliked](https://www.amazon.com/dp/B078MDSV8T/?tag=graysoninseattle-20)
 - [The Earned Life](https://www.amazon.com/dp/B09FFSY1S7/?tag=graysoninseattle-20) (audiobook)
