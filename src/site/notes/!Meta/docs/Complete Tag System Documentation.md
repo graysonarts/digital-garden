@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/meta/docs/complete-tag-system-documentation/","title":"Simplified Tag System Documentation","tags":["📍_MOC","📖_Documentation","🏷️_Tags"],"updated":"2025-10-24T15:36:46.338-07:00"}
+{"dg-publish":true,"permalink":"/meta/docs/complete-tag-system-documentation/","title":"Simplified Tag System Documentation","tags":["📍_MOC","📖_Documentation","🏷️_Tags"],"updated":"2025-11-09T11:51:15.026-08:00"}
 ---
 
 
@@ -38,7 +38,6 @@ This document provides a streamlined guide to the tag system used throughout the
 - `📚_Course` - Educational material
 - `💻_Project_Doc` - Project documentation
 - `☢️_Atomic` - Core concept notes
--
 
 **Usage**: Every piece of content should have exactly one format tag (min: 1, max: 1).
 
@@ -61,6 +60,8 @@ This document provides a streamlined guide to the tag system used throughout the
 - `📍_META` - System File
 
 **Usage**: Apply 1-3 subject tags based on content relevance (min: 1, max: 3).
+
+Because I believe in transparency, if a note is AI generated, it will be tagged with `🤖_AI-Generated`
 
 ### 4. Energy Investment Level
 **Purpose**: Track energy investment for projects and areas in Energy Investment Portfolio.
