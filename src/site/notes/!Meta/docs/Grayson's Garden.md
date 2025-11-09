@@ -52,7 +52,7 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 | Learning Project                                                        | Description | Investment Level | Last Updated |
 | ----------------------------------------------------------------------- | ----------- | ---------------- | ------------ |
-| [[Efforts/🔥 On/Anime Drawing Curriculum\|Anime Drawing Curriculum]] | \-          | 🧊 Low Energy    | 13 days ago  |
+| [[Efforts/🔥 On/Anime Drawing Curriculum\|Anime Drawing Curriculum]] | \-          | 🧊 Low Energy    | 19 days ago  |
 
 { .block-language-dataview}
 
@@ -67,5 +67,6 @@ I'm [Grayson](https://graysonarts.com), a [software consultant and Fractional CT
 
 { .block-language-dataview}
 # Maps of Content
+- [[Atlas/Books To Read\|Books To Read]]
 
 { .block-language-dataview}
