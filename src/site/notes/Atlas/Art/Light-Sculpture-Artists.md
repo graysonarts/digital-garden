@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/atlas/art/light-sculpture-artists/","title":"Light-Sculpture-Artists","tags":["🌱_Active","🎨_Creative","📚_Learning","🔍_Research","🗒️_Note","ai-generated"],"updated":"2025-11-09T11:47:51.076-08:00"}
+{"dg-publish":true,"permalink":"/atlas/art/light-sculpture-artists/","title":"Light-Sculpture-Artists","tags":["🌱_Active","🎨_Creative","📚_Learning","🔍_Research","🗒️_Note","🤖_AI-Generated"],"updated":"2025-11-09T11:49:11.802-08:00"}
 ---
 
 
